@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Conclusion Nodes
+    filters:
+      and:
+        - nodeTypeId == "node_J9JyrRTQj6nuJs6IY83Mo"
+    order:
+      - file.name

@@ -4,123 +4,256 @@
       "id": "node_4SqRl5RIkaUMb9fLOpdhq",
       "name": "Question",
       "format": "QUE - {content}",
-      "color": "#99890e"
+      "color": "#d2bb0f",
+      "created": 1775758395954,
+      "modified": 1776711933120,
+      "description": "The unknown we wish to make known"
     },
     {
       "id": "node_LwROzkVH_Zck7ZxDgN91E",
       "name": "Claim",
       "format": "CLM - {content}",
-      "color": "#7DA13E"
+      "color": "#7DA13E",
+      "created": 1775758395954,
+      "modified": 1776712292784,
+      "description": "An assertion that purports to answer a Question"
     },
     {
       "id": "node_xQmEzWQFHdHy2swhrugrF",
       "name": "Evidence",
       "format": "EVD - {content}",
-      "color": "#DB134A"
+      "color": "#DB134A",
+      "created": 1775758395954,
+      "modified": 1776711984136,
+      "description": "A specific empirical observation"
     },
     {
       "id": "node_Qbdr-LbBCb_WjPFNTnjTX",
       "name": "Experiment",
       "format": "EXP - {content}",
       "template": "Experiment",
-      "color": "#9a9898"
+      "color": "#9a9898",
+      "created": 1775758395954,
+      "modified": 1776712109659,
+      "description": " A specific  procedure undertaken to test a hypothesis or determine a likelihood"
     },
     {
       "id": "node_i7PzyKw2NfkA8asBfxeey",
       "name": "Result",
       "format": "RES - {content}",
       "template": "Result",
-      "color": "#df3434"
+      "color": "#df3434",
+      "created": 1775758395954,
+      "modified": 1776712187879,
+      "description": "A synonym for Result, *or* a Result extracted from a literature Source "
     },
     {
       "id": "node_-PIYSmr5icSFMACYAUobE",
       "name": "Source",
       "format": "@{content}",
       "template": "",
-      "color": "#b7b4b4"
+      "color": "#b7b4b4",
+      "created": 1775758395954,
+      "modified": 1776712268391,
+      "description": "Some research source that reports/generates evidence (e.g. Experiment or journal article)"
+    },
+    {
+      "id": "node_2unblKFUVJkOdOnT8MstZ",
+      "name": "Issue",
+      "format": "ISS - {content}",
+      "template": "Experiment",
+      "tag": "iss-candidate",
+      "color": "#1505fa",
+      "created": 1776167517532,
+      "modified": 1776700498134,
+      "description": "a request for an experiment/study/action"
+    },
+    {
+      "id": "node_J9JyrRTQj6nuJs6IY83Mo",
+      "name": "Conclusion",
+      "format": "CON - {content}",
+      "template": "Result",
+      "tag": "con-candidate",
+      "color": "#5a0202",
+      "created": 1776167647362,
+      "modified": 1776711905288,
+      "description": "This can be used as a synonym for Result, as the end of the inferential chain of multiple Results *or* to describe a Result extracted from a literature Source",
+      "keyImage": true
+    },
+    {
+      "id": "node_8eLgGKXiSzIWJvcrGCBFE",
+      "name": "Hypothesis",
+      "format": "HYP- {content}",
+      "template": "",
+      "tag": "",
+      "color": "#34ad01",
+      "created": 1776698405622,
+      "modified": 1776700520552,
+      "description": "An untested claim posed for discussion",
+      "keyImage": true
     }
   ],
   "relationTypes": [
     {
       "id": "relation_Fvz-iAdQfeqSsmpKkZBN0",
       "label": "supports",
-      "complement": "is supported by"
+      "complement": "is supported by",
+      "created": 1775758395954,
+      "modified": 1776701264543,
+      "color": "green"
     },
     {
       "id": "relation_eGQp4gFgaNvQsJd3x8Nj9",
       "label": "opposes",
-      "complement": "is opposed by"
+      "complement": "is opposed by",
+      "created": 1775758395954,
+      "modified": 1776701270552,
+      "color": "red"
     },
     {
       "id": "relation_G8GMDxjFv_e5ePzoR7uYn",
       "label": "informs",
-      "complement": "is informed by"
+      "complement": "is informed by",
+      "created": 1775758395954,
+      "modified": 1776701274085,
+      "color": "blue"
     },
     {
       "id": "rel_5nnUOb6wBzlAwAF2Wk-ts",
       "label": "produces",
-      "complement": "is produced by"
+      "complement": "is produced by",
+      "created": 1775758395954,
+      "modified": 1776701417297,
+      "color": "black"
     },
     {
       "id": "rel_E2h9UFdS53YWki3-nczo0",
       "label": "consistent with",
-      "complement": "consistent with"
+      "complement": "consistent with",
+      "created": 1775758395954,
+      "modified": 1776701279720,
+      "color": "light-blue"
+    },
+    {
+      "id": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "label": "motivates",
+      "complement": "is motivated by",
+      "color": "black",
+      "created": 1776700922649,
+      "modified": 1776700931377
     }
   ],
   "discourseRelations": [
     {
       "sourceId": "node_xQmEzWQFHdHy2swhrugrF",
       "destinationId": "node_4SqRl5RIkaUMb9fLOpdhq",
-      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
+      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn",
+      "created": 1775758395954,
+      "modified": 1775758395954,
+      "id": "rel3_eswEQ9xMBrcLvOKejnRKW"
     },
     {
       "sourceId": "node_xQmEzWQFHdHy2swhrugrF",
       "destinationId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "relationshipTypeId": "relation_Fvz-iAdQfeqSsmpKkZBN0"
+      "relationshipTypeId": "relation_Fvz-iAdQfeqSsmpKkZBN0",
+      "created": 1775758395954,
+      "modified": 1775758395954,
+      "id": "rel3_pbAP8hcweyb-pafwpP6SA"
     },
     {
       "sourceId": "node_xQmEzWQFHdHy2swhrugrF",
       "destinationId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "relationshipTypeId": "relation_eGQp4gFgaNvQsJd3x8Nj9"
+      "relationshipTypeId": "relation_eGQp4gFgaNvQsJd3x8Nj9",
+      "created": 1775758395954,
+      "modified": 1775758395954,
+      "id": "rel3_op1kWSRnm1iX-ixFCjFa1"
     },
     {
       "sourceId": "node_Qbdr-LbBCb_WjPFNTnjTX",
       "destinationId": "node_i7PzyKw2NfkA8asBfxeey",
-      "relationshipTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts"
+      "relationshipTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "created": 1775758395954,
+      "modified": 1775758395954,
+      "id": "rel3_wV15H2YCAlDMfVAn3ykWK"
     },
     {
       "sourceId": "node_i7PzyKw2NfkA8asBfxeey",
       "destinationId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "relationshipTypeId": "relation_Fvz-iAdQfeqSsmpKkZBN0"
+      "relationshipTypeId": "relation_Fvz-iAdQfeqSsmpKkZBN0",
+      "created": 1775758395954,
+      "modified": 1775758395954,
+      "id": "rel3_Q7DmYaYtVbfylLebh8lr2"
     },
     {
       "sourceId": "node_i7PzyKw2NfkA8asBfxeey",
       "destinationId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "relationshipTypeId": "relation_eGQp4gFgaNvQsJd3x8Nj9"
+      "relationshipTypeId": "relation_eGQp4gFgaNvQsJd3x8Nj9",
+      "created": 1775758395954,
+      "modified": 1775758395954,
+      "id": "rel3_ZOjqf8NBGLjiF2TwLoGp9"
     },
     {
       "sourceId": "node_LwROzkVH_Zck7ZxDgN91E",
       "destinationId": "node_4SqRl5RIkaUMb9fLOpdhq",
-      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
+      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn",
+      "created": 1775758395954,
+      "modified": 1775758395954,
+      "id": "rel3_DA4YZ56sBI900XrGrfp9a"
     },
     {
       "sourceId": "node_4SqRl5RIkaUMb9fLOpdhq",
       "destinationId": "node_4SqRl5RIkaUMb9fLOpdhq",
-      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
+      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn",
+      "created": 1775758395954,
+      "modified": 1775758395954,
+      "id": "rel3_S-nm670J297rQ9SI8aXln"
     },
     {
       "sourceId": "node_LwROzkVH_Zck7ZxDgN91E",
       "destinationId": "node_i7PzyKw2NfkA8asBfxeey",
-      "relationshipTypeId": "rel_E2h9UFdS53YWki3-nczo0"
+      "relationshipTypeId": "rel_E2h9UFdS53YWki3-nczo0",
+      "created": 1775758395954,
+      "modified": 1775758395954,
+      "id": "rel3_zCzSOxu6Xi4LhfITWOW61"
     },
     {
       "sourceId": "node_LwROzkVH_Zck7ZxDgN91E",
       "destinationId": "node_xQmEzWQFHdHy2swhrugrF",
-      "relationshipTypeId": "rel_E2h9UFdS53YWki3-nczo0"
+      "relationshipTypeId": "rel_E2h9UFdS53YWki3-nczo0",
+      "created": 1775758395954,
+      "modified": 1775758395954,
+      "id": "rel3_SXbF4u3ek3GNJseyS3dLc"
+    },
+    {
+      "id": "rel3_Ap1A4M7TWSepl0XP_2X-9",
+      "sourceId": "node_2unblKFUVJkOdOnT8MstZ",
+      "destinationId": "node_Qbdr-LbBCb_WjPFNTnjTX",
+      "relationshipTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "created": 1776700880296,
+      "modified": 1776700915902
+    },
+    {
+      "id": "rel3_3xz06ROIkUc8DL9ajrR7y",
+      "sourceId": "node_8eLgGKXiSzIWJvcrGCBFE",
+      "destinationId": "node_Qbdr-LbBCb_WjPFNTnjTX",
+      "relationshipTypeId": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "created": 1776701433732,
+      "modified": 1776701446836
+    },
+    {
+      "id": "rel3_cZ5dJeyZhCzTgMeQygmYI",
+      "sourceId": "node_8eLgGKXiSzIWJvcrGCBFE",
+      "destinationId": "node_2unblKFUVJkOdOnT8MstZ",
+      "relationshipTypeId": "rel_M4xTO_--Zo4nsjQGab9bz",
+      "created": 1776701448002,
+      "modified": 1776701454760
     }
   ],
   "showIdsInFrontmatter": true,
   "nodesFolderPath": "DiscourseGraph",
   "canvasFolderPath": "Discourse Canvas",
-  "canvasAttachmentsFolderPath": "attachments"
+  "canvasAttachmentsFolderPath": "attachments",
+  "nodeTagHotkey": "\\",
+  "syncModeEnabled": false,
+  "spaceNames": {}
 }

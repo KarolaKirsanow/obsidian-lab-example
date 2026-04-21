@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Hypothesis Nodes
+    filters:
+      and:
+        - nodeTypeId == "node_8eLgGKXiSzIWJvcrGCBFE"
+    order:
+      - file.name

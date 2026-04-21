@@ -1,1 +1,1 @@
-{"id":"discourse-graphs","name":"Discourse Graph","version":"0.1.2-alpha-tldraw","minAppVersion":"1.7.0","description":"Discourse Graph Plugin for Obsidian","author":"Discourse Graphs","authorUrl":"https://discoursegraphs.com","isDesktopOnly":false}
+{"id":"discourse-graphs","name":"Discourse Graph","version":"1.1.0","minAppVersion":"1.7.0","description":"Add semantic structure to your notes with the Discourse Graph protocol.","author":"Discourse Graphs","authorUrl":"https://discoursegraphs.com","isDesktopOnly":false}

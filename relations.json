@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "lastModified": 1775758396324,
+  "relations": {
+    "019d7372-cae5-7f83-a4dd-9394fac7757a": {
+      "id": "019d7372-cae5-7f83-a4dd-9394fac7757a",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019d7372-cabd-7711-9949-64e7118e47ba",
+      "destination": "019d7372-cace-7db2-ae9a-112f98f64454",
+      "created": 1775758396133,
+      "author": "174560472021996a"
+    },
+    "019d7372-cb03-7fe3-b4c0-b406823adc53": {
+      "id": "019d7372-cb03-7fe3-b4c0-b406823adc53",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019d7372-cabd-7711-9949-64e7118e47ba",
+      "destination": "019d7372-cae5-7f83-a4dd-9395e7e52456",
+      "created": 1775758396163,
+      "author": "174560472021996a"
+    },
+    "019d7372-cb57-780e-b858-a9b3dee2d21e": {
+      "id": "019d7372-cb57-780e-b858-a9b3dee2d21e",
+      "type": "relation_Fvz-iAdQfeqSsmpKkZBN0",
+      "source": "019d7372-cb3f-7a91-a0f3-0b70e471c9bc",
+      "destination": "019d7372-ca90-75f6-a769-ec5140a5ac1f",
+      "created": 1775758396247,
+      "author": "174560472021996a"
+    },
+    "019d7372-cb6a-75ea-9517-62cdd3c08aec": {
+      "id": "019d7372-cb6a-75ea-9517-62cdd3c08aec",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019d7372-cb3f-7a91-a0f3-0b70e471c9bc",
+      "destination": "019d7372-cb57-780e-b858-a9b4f03fc7d9",
+      "created": 1775758396266,
+      "author": "174560472021996a"
+    },
+    "019d7372-cb89-7f6c-8a2d-99fb327c8013": {
+      "id": "019d7372-cb89-7f6c-8a2d-99fb327c8013",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019d7372-cb6a-75ea-9517-62cec49986e9",
+      "destination": "019d7372-cb57-780e-b858-a9b4f03fc7d9",
+      "created": 1775758396297,
+      "author": "174560472021996a"
+    },
+    "019d7372-cba3-7ab2-b37c-a61950be7593": {
+      "id": "019d7372-cba3-7ab2-b37c-a61950be7593",
+      "type": "rel_5nnUOb6wBzlAwAF2Wk-ts",
+      "source": "019d7372-cb89-7f6c-8a2d-99fc540e93a9",
+      "destination": "019d7372-cb57-780e-b858-a9b4f03fc7d9",
+      "created": 1775758396323,
+      "author": "174560472021996a"
+    }
+  }
+}

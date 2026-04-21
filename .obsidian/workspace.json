@@ -32,15 +32,27 @@
             }
           },
           {
-            "id": "23b79ea7d7f8643b",
+            "id": "7d559888d19f1797",
             "type": "leaf",
             "state": {
-              "type": "tldraw-dg-preview",
+              "type": "markdown",
               "state": {
-                "file": "Discourse Canvas/Canvas-2025-10-08-1533.md"
+                "file": "Meta/Templates/Personal Home Page.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Canvas-2025-10-08-1533"
+              "title": "Personal Home Page"
             }
           }
         ],
@@ -95,27 +107,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e52e294e0fa98412",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "67bfb222e956a96c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Discourse Canvas/Canvas-2025-10-08-1533.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Canvas-2025-10-08-1533"
             }
           }
         ]
@@ -179,13 +170,38 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "26df08302adf7d5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/00 Media Log.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 00 Media Log"
+            }
+          },
+          {
+            "id": "64fafbe4d1b26a1b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,49 +213,50 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian42-brat:BRAT": false,
-      "discourse-graphs:Toggle Discourse Context": false
+      "discourse-graphs:Toggle discourse context": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "23b79ea7d7f8643b",
+  "active": "7d559888d19f1797",
   "lastOpenFiles": [
-    "DiscourseGraph/RES - cells died after 15 days in the lab.md",
-    "Discourse Canvas/Canvas-2025-10-08-1533.md",
-    "DiscourseGraph/CLM - “Inert” intrinsically disordered regions suppress RNA binding.md",
-    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
-    "attachments",
-    "Discourse Canvas",
-    "nal canvas.json",
-    "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
+    "Meta/Templates/Meeting.md",
+    "Meta/Templates/Group Meeting.md",
+    "Meta/Templates/Experiment.md",
+    "Meta/Templates/_New Experiment.md",
+    "Meta/Templates/Project.md",
+    "Meta/Templates/_New Project.md",
+    "Project Nodes.base",
+    "Home.md",
+    "Meta/Templates/Result.md",
+    "DECISIONS.md",
+    "Issue Nodes.base",
+    "Hypothesis Nodes.base",
     "DiscourseGraph/RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md",
-    "DiscourseGraph/RES - maybe later we can follow up on this with another chimera variant.md",
-    "DiscourseGraph/QUE - How do inert IDRs affect binding affinity?.md",
-    "README.md",
+    "Daily_note_template.md",
+    "Daily Notes/2026-04-14.md",
+    "Meta/Templates/Daily_note_template.md",
+    "Bases/Conclusion Nodes.base",
+    "skills-lock.json",
+    "Bases/Issue Nodes.base",
+    "Meta/Templates/00 Bullet Journal Log.md",
+    "DiscourseGraph/EXP - protocol with cell line xyz.md",
+    "Bases/Experiments.base",
+    "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
+    "Meta/Templates/00 Experiment Log.md",
+    "Daily Notes/2026-04-09.md",
+    "Meta/Templates/00 Media Log.md",
+    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
+    "Daily Notes/2026-04-13.md",
+    "test note 2.md",
+    "test note.md",
+    "Daily Notes/2026-04-12.md",
+    "Untitled.base",
+    "Daily Notes",
+    "New folder",
+    "Meta/Templates/Personal Home Page.md",
+    "Meta/Templates/00 Project Log.md",
     "Projects/My awseome new projects.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
-    "Home.md",
-    "Joshua Lederberg.md",
-    "Esther Lederberg.md",
-    "Rosalind Franklin.md",
-    "Lab Meeting Notes 2025.md",
-    "DiscourseGraph/QUE - How do different coronavirus NTD-RBDs bind to single-stranded RNA (ssRNA)?.md",
-    "Projects/PRJ - Molecular determinants of evolutionary conservation in disordered protein regions.md",
-    "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
-    "DiscourseGraph/QUE - How does the cell know to breathe?.md",
-    "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
-    "Projects/PRJ - my awesome new project.md",
-    "DiscourseGraph/EXP - protocol with cell line xyz.md",
-    "DiscourseGraph/RES - cells emitted xyz measures over the time course of the simulation.md",
-    "DiscourseGraph/CLM - the barrier helps cells regulate breathing by injecting fun.md",
-    "DiscourseGraph/QUE - What does the barrier do to help cells regulate breathing?.md",
-    "Meta/Templates/Project.md",
-    "Projects/PRJ - my shiny new project.md",
-    "Bases/Projects.base",
-    "Bases/Questions.base",
-    "Bases/Results.base",
-    "Protocols",
-    "Bases/Experiments.base",
-    "Meta",
-    "Templates/Untitled",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png"

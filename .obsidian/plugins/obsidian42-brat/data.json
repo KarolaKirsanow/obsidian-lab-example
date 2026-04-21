@@ -6,7 +6,7 @@
   "pluginSubListFrozenVersion": [
     {
       "repo": "DiscourseGraphs/discourse-graph-obsidian",
-      "version": "v0.1.2-alpha-tldraw"
+      "version": "1.1.0"
     },
     {
       "repo": "blacksmithgu/datacore",

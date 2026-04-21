@@ -1,7 +1,6 @@
 ---
 nodeTypeId: node_i7PzyKw2NfkA8asBfxeey
-rel_5nnUOb6wBzlAwAF2Wk-ts:
-  - "[[EXP - MD simulations with (GS)25-RBDSCO2 chimera.md]]"
+nodeInstanceId: 019d7372-cb6a-75ea-9517-62cec49986e9
 ---
 ## Data / Plots
 ![[CleanShot 2025-09-11 at 16.55.46.png]]

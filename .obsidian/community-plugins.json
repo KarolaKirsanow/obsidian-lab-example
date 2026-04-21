@@ -3,5 +3,8 @@
   "obsidian-tasks-plugin",
   "datacore",
   "discourse-graphs",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-style-settings",
+  "templater-obsidian",
+  "calendar"
 ]

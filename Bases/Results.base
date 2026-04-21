@@ -19,8 +19,12 @@ views:
       - property: file.name
         direction: ASC
   - type: table
-    name: Results from a Project
+    name: Results and Conclusions in this Project
     filters:
-      or:
-        - nodeTypeId == "node_LwROzkVH_Zck7ZxDgN91E"
-        - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
+      and:
+        - file.hasLink(this.file.name)
+        - or:
+            - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
+            - nodeTypeId == "node_J9JyrRTQj6nuJs6IY83Mo"
+    order:
+      - file.name

@@ -6,7 +6,7 @@ contributors:
 ---
 # Resources
 
-Canvas: [[My awseome new projects.canvas|My awseome new projects]]
+Canvas: [[My awesome new projects.canvas|My awesome new projects]]
 
 # Aims
 
@@ -19,6 +19,8 @@ Our big questions:
 ![[Experiments.base#Experiments in this Project]]
 
 # Results and Conclusions
+
+![[Results.base#Results and Conclusions in this Project]]
 
 Our results so far:
 - From this experiment: [[EXP - protocol with cell line xyz]]

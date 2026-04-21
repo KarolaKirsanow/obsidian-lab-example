@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Project Nodes
+    filters:
+      and:
+        - nodeTypeId == "node_ER_AOnxe9eI1VfkLpuIbh"
+    order:
+      - file.name
