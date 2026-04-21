@@ -92,3 +92,13 @@ See CLAUDE.md for format and conventions.
 **[[CLM - Use a Datacore JSX button in the Project template. The button checks if `Discourse Canvas/<ProjectName>.canvas` exists; if not, it creates an empty canvas file and opens it; if yes, it just opens it (idempotent). No additional plugins needed since Datacore is already installed.]]**
 
 **[[RES - Added a Datacore JSX button to Project.md template that creates and manages project-specific Discourse Canvases. The button is idempotent and automatically creates the Discourse Canvas folder if it doesn't exist. Existing project notes require manual paste of the button block since they won't inherit template changes.]]**
+
+---
+
+## 2026-04-21 — Entry point for Discourse Graph example vault
+
+**[[HYP - The vault should have a guided onboarding flow analogous to Obsidian's sandbox vault, starting from a "Start Here" page that links into a "Discourse Graph Sandbox" folder.]]**
+
+**[[CLM - Adding an entry to the Discourse Graph plugin menu or Help sidebar requires plugin code changes. Without touching plugin code, the two available hooks are: workspace.json (controls which file opens on vault launch) and bookmarks.json (pins a note in the Bookmarks panel, already visible in the left sidebar).]]**
+
+**[[RES - Start Here.md placed at vault root, set as the active leaf in workspace.json (preview mode), and pinned in bookmarks.json. The Sandbox folder will be renamed to "Discourse Graph Sandbox" and contain the branching flow content linked from Start Here.md.]]**

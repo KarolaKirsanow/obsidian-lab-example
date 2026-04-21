@@ -37,22 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Templates/Personal Home Page.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Start Here.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal Home Page"
+              "title": "Start Here"
             }
           }
         ],
