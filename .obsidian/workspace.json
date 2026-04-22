@@ -37,16 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Here.md",
-                "mode": "preview",
-                "source": false
+                "file": "Discourse Graph Sandbox/Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "45048dec008f8107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test note 001.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test note 001"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iss-candidate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,8 +242,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d559888d19f1797",
+  "active": "64fafbe4d1b26a1b",
   "lastOpenFiles": [
+    "Discourse Graph Sandbox/Blank Slate.md",
+    "Discourse Graph Sandbox/Managing a Lab",
+    "Discourse Graph Sandbox/User Profi",
+    "Discourse Graph Sandbox/Literature synthesis/No prior experience.md",
+    "Discourse Graph Sandbox/Literature synthesis/From standard note-taking.md",
+    "Discourse Graph Sandbox/Literature synthesis/From plain-text note-taking.md",
+    "Discourse Graph Sandbox/Literature synthesis",
+    "Discourse Graph Sandbox/note.md",
+    "Discourse Graph Sandbox/Introduction.md",
+    "test note 001.md",
+    "Start Here.md",
     "Meta/Templates/Meeting.md",
     "Meta/Templates/Group Meeting.md",
     "Meta/Templates/Experiment.md",
@@ -234,17 +280,6 @@
     "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
     "Meta/Templates/00 Experiment Log.md",
     "Daily Notes/2026-04-09.md",
-    "Meta/Templates/00 Media Log.md",
-    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
-    "Daily Notes/2026-04-13.md",
-    "test note 2.md",
-    "test note.md",
-    "Daily Notes/2026-04-12.md",
-    "Untitled.base",
-    "Daily Notes",
-    "New folder",
-    "Meta/Templates/Personal Home Page.md",
-    "Meta/Templates/00 Project Log.md",
     "Projects/My awseome new projects.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
