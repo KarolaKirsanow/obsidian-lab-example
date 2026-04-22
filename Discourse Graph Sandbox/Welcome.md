@@ -4,13 +4,10 @@ Hi, welcome to the Discourse Graph plugin!
 
 ## Getting started
 
-> [!tip] If you're new to Obsidian, familiarize yourself with the app by exploring the Obsidian Sandbox vault. You can open the vault by clicking the "?" icon next to the gear icon on the lower left-hand panel of the app.
+-> [[Users/Obsidian User|I already have an Obsidian vault]]
 
--> [[Obsidian User|I already have an Obsidian vault]]
+-> [[Users/Blank Slate|I'm new to Obsidian]]
 
--> [[Blank Slate|I'm new to Obsidian]]
-
--> [[Roam User|I'm switching from Roam to Obsidian]]
 
 ---
 

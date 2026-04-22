@@ -6,8 +6,9 @@
       "format": "QUE - {content}",
       "color": "#d2bb0f",
       "created": 1775758395954,
-      "modified": 1776711933120,
-      "description": "The unknown we wish to make known"
+      "modified": 1776873154825,
+      "description": "The unknown we wish to make known",
+      "template": ""
     },
     {
       "id": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -15,8 +16,9 @@
       "format": "CLM - {content}",
       "color": "#7DA13E",
       "created": 1775758395954,
-      "modified": 1776712292784,
-      "description": "An assertion that purports to answer a Question"
+      "modified": 1776873169665,
+      "description": "An assertion that purports to answer a Question",
+      "template": ""
     },
     {
       "id": "node_xQmEzWQFHdHy2swhrugrF",
@@ -24,8 +26,9 @@
       "format": "EVD - {content}",
       "color": "#DB134A",
       "created": 1775758395954,
-      "modified": 1776711984136,
-      "description": "A specific empirical observation"
+      "modified": 1776870377561,
+      "description": "A specific empirical observation",
+      "template": "_Discourse Node"
     },
     {
       "id": "node_Qbdr-LbBCb_WjPFNTnjTX",

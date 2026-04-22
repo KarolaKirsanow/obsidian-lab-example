@@ -35,52 +35,14 @@
             "id": "7d559888d19f1797",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discourse Graph Sandbox/Introduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "45048dec008f8107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test note 001.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "test note 001"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,44 +203,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64fafbe4d1b26a1b",
+  "active": "7d559888d19f1797",
   "lastOpenFiles": [
+    "test note 001.md",
+    "DECISIONS.md.tmp.797.1776883247751",
+    "Meta/Templates/Experiment.md.tmp.797.1776883211494",
+    "Meta/Templates/_Discourse Node.md.tmp.797.1776883202436",
+    "Meta/Templates/Result.md.tmp.797.1776883197270",
+    "DECISIONS.md.tmp.797.1776880889064",
+    "Meta/Templates/_Discourse Node.md.tmp.797.1776880871607",
+    "Meta/Templates/Experiment.md.tmp.797.1776880870596",
+    "Meta/Templates/Result.md.tmp.797.1776880869369",
+    "CLM - hrm looks like templates is screwing up and creating  double files.md",
+    "CLM - test making a longwinded claim with templates and templates  - this filename is very long and should be shortened to 60 chars.md",
+    "DECISIONS.md.tmp.1312.1776874387281",
+    "CLM - testing selecting \"no template\" for several node types to avoid template-templates conflicts.md",
+    "DECISIONS.md",
+    "DiscourseGraph/CLM - testing to see if the empty template field guarantees.md",
+    "DiscourseGraph/CLM - testing selecting no template for several node types t.md",
+    "DiscourseGraph/QUE - testing automatic node aliasing by creating a long fil.md",
+    "DiscourseGraph/CLM - test making a claim with templater + templates.md",
+    "DiscourseGraph/CLM - test making a longwinded claim with templates and temp.md",
+    "DiscourseGraph/CLM - test making a longwinded claim with templates and templates - this filename is very long and should be shortened to 60 character test 2.md",
+    "DiscourseGraph/CLM - perhaps the issue is filename length + being a claim -.md",
+    "DiscourseGraph/QUE - perhaps the issue is filename length - when it has to.md",
+    "DiscourseGraph/CLM - another test of a node creation flow.md",
+    "DiscourseGraph/QUE - another test of a node creation flow.md",
+    "DiscourseGraph/CLM - hrm looks like templates is screwing up and creating.md",
+    "Start Here.md",
+    "DiscourseGraph/QUE - will this work on linux?.md",
+    "DECISIONS.md.tmp.1312.1776868204570",
+    "Meta/Templates/_Discourse Node.md",
+    "DiscourseGraph/CLM - creating a  claim  node - how does it work.md",
     "Discourse Graph Sandbox/Blank Slate.md",
-    "Discourse Graph Sandbox/Managing a Lab",
-    "Discourse Graph Sandbox/User Profi",
     "Discourse Graph Sandbox/Literature synthesis/No prior experience.md",
     "Discourse Graph Sandbox/Literature synthesis/From standard note-taking.md",
     "Discourse Graph Sandbox/Literature synthesis/From plain-text note-taking.md",
-    "Discourse Graph Sandbox/Literature synthesis",
     "Discourse Graph Sandbox/note.md",
-    "Discourse Graph Sandbox/Introduction.md",
-    "test note 001.md",
-    "Start Here.md",
-    "Meta/Templates/Meeting.md",
-    "Meta/Templates/Group Meeting.md",
-    "Meta/Templates/Experiment.md",
-    "Meta/Templates/_New Experiment.md",
-    "Meta/Templates/Project.md",
-    "Meta/Templates/_New Project.md",
-    "Project Nodes.base",
-    "Home.md",
-    "Meta/Templates/Result.md",
-    "DECISIONS.md",
-    "Issue Nodes.base",
-    "Hypothesis Nodes.base",
-    "DiscourseGraph/RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md",
-    "Daily_note_template.md",
-    "Daily Notes/2026-04-14.md",
-    "Meta/Templates/Daily_note_template.md",
-    "Bases/Conclusion Nodes.base",
-    "skills-lock.json",
-    "Bases/Issue Nodes.base",
-    "Meta/Templates/00 Bullet Journal Log.md",
-    "DiscourseGraph/EXP - protocol with cell line xyz.md",
-    "Bases/Experiments.base",
-    "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
-    "Meta/Templates/00 Experiment Log.md",
-    "Daily Notes/2026-04-09.md",
     "Projects/My awseome new projects.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",

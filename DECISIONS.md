@@ -102,3 +102,23 @@ See CLAUDE.md for format and conventions.
 **[[CLM - Adding an entry to the Discourse Graph plugin menu or Help sidebar requires plugin code changes. Without touching plugin code, the two available hooks are: workspace.json (controls which file opens on vault launch) and bookmarks.json (pins a note in the Bookmarks panel, already visible in the left sidebar).]]**
 
 **[[RES - Start Here.md placed at vault root, set as the active leaf in workspace.json (preview mode), and pinned in bookmarks.json. The Sandbox folder will be renamed to "Discourse Graph Sandbox" and contain the branching flow content linked from Start Here.md.]]**
+
+---
+
+## 2026-04-22 — Filename sanitization and alias strategy for discourse nodes
+
+**[[HYP - Adding frontmatter properties for "full title" and "short title" will allow node content to be stored without illegal character and path length issues.]]**
+
+**[[CLM - Obsidian prevents illegal filenames with an error rather than sanitizing; Templater fires post-creation and can rename for length but cannot rescue a failed Windows file creation.]]**
+**[[CLM - File Regex Templates in Templater allow per-node-type template routing from a flat folder, which folder templates cannot do.]]**
+**[[EVD - All discourse nodes land in DiscourseGraph/ with a type prefix (RES, CLM, QUE, etc.), making prefix-based regex matching reliable.]]**
+
+**[[RES - Illegal chars are a user-convention concern (don't use ? : * etc. in node titles); length truncation is handled by a Templater block in each node template. The full pre-truncation title is written to aliases for autocomplete. Templater file regex templates route each node type prefix to the correct template file; a catch-all template covers types without custom body structure.]]**
+
+**[[CLM - DG uses vault.create(fullPath) directly, bypassing Obsidian's default new note location entirely; core Templates is only used to resolve the template folder path.]]**
+**[[CLM - Intermittent duplicate at vault root is caused by tp.file.rename() emitting a create event that races with DG's concurrent vault.append, not by Obsidian's default note location.]]**
+**[[EVD - Duplicate only appeared when filename exceeded 60 chars, confirming the rename code path as the trigger.]]**
+
+**[[RES - Removed tp.file.rename() from all node templates. Aliases alone solve the autocomplete problem; filename length is addressed by user convention rather than automation.]]**
+
+**[[RES - Switched to a Datacore button in each node template for alias writing and filename truncation. Button is user-triggered (no creation race), self-hiding once aliases are populated, uses app.fileManager.processFrontMatter and app.fileManager.renameFile. Templater file regex templates disabled; DG plugin continues applying body structure via core Templates.]]**
