@@ -35,10 +35,24 @@
             "id": "7d559888d19f1797",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test 002.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test 002"
             }
           }
         ],
@@ -205,6 +219,7 @@
   },
   "active": "7d559888d19f1797",
   "lastOpenFiles": [
+    "test 002.md",
     "test note 001.md",
     "DECISIONS.md.tmp.797.1776883247751",
     "Meta/Templates/Experiment.md.tmp.797.1776883211494",

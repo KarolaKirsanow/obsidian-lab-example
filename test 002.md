@@ -1,7 +1,3 @@
----
-tags:
-contributors:
----
 ```datacorejsx
 return function NodeSetup() {
   const current = dc.useCurrentFile();
@@ -28,12 +24,4 @@ return function NodeSetup() {
   return <button onClick={handleClick}>Save full title as alias</button>;
 }
 ```
-
-## Summary
-
-
-## Grounding Context
-
-
-## Snippets
 

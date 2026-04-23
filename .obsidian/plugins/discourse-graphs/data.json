@@ -6,9 +6,11 @@
       "format": "QUE - {content}",
       "color": "#d2bb0f",
       "created": 1775758395954,
-      "modified": 1776873154825,
+      "modified": 1776950668783,
       "description": "The unknown we wish to make known",
-      "template": ""
+      "template": "",
+      "tag": "que-candidate",
+      "keyImage": true
     },
     {
       "id": "node_LwROzkVH_Zck7ZxDgN91E",
@@ -16,9 +18,10 @@
       "format": "CLM - {content}",
       "color": "#7DA13E",
       "created": 1775758395954,
-      "modified": 1776873169665,
+      "modified": 1776950678794,
       "description": "An assertion that purports to answer a Question",
-      "template": ""
+      "template": "",
+      "tag": "clm-candidate"
     },
     {
       "id": "node_xQmEzWQFHdHy2swhrugrF",
@@ -26,9 +29,11 @@
       "format": "EVD - {content}",
       "color": "#DB134A",
       "created": 1775758395954,
-      "modified": 1776870377561,
+      "modified": 1776950690700,
       "description": "A specific empirical observation",
-      "template": "_Discourse Node"
+      "template": "_Discourse Node",
+      "tag": "evd-candiadte",
+      "keyImage": true
     },
     {
       "id": "node_Qbdr-LbBCb_WjPFNTnjTX",
@@ -47,8 +52,10 @@
       "template": "Result",
       "color": "#df3434",
       "created": 1775758395954,
-      "modified": 1776712187879,
-      "description": "A synonym for Result, *or* a Result extracted from a literature Source "
+      "modified": 1776950709595,
+      "description": "A synonym for Result, *or* a Result extracted from a literature Source ",
+      "tag": "res-candidate",
+      "keyImage": true
     },
     {
       "id": "node_-PIYSmr5icSFMACYAUobE",
@@ -57,8 +64,10 @@
       "template": "",
       "color": "#b7b4b4",
       "created": 1775758395954,
-      "modified": 1776712268391,
-      "description": "Some research source that reports/generates evidence (e.g. Experiment or journal article)"
+      "modified": 1776950725332,
+      "description": "Some research source that reports/generates evidence (e.g. Experiment or journal article)",
+      "tag": "src-candidate",
+      "keyImage": true
     },
     {
       "id": "node_2unblKFUVJkOdOnT8MstZ",
@@ -88,10 +97,10 @@
       "name": "Hypothesis",
       "format": "HYP- {content}",
       "template": "",
-      "tag": "",
+      "tag": "hyp-candidate",
       "color": "#34ad01",
       "created": 1776698405622,
-      "modified": 1776700520552,
+      "modified": 1776950743970,
       "description": "An untested claim posed for discussion",
       "keyImage": true
     }
