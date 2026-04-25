@@ -1,0 +1,3288 @@
+{
+  "defaultZoteroScope": "My Library",
+  "localLibraryJsonPath": "My Library.json",
+  "autocompleteMinQueryLength": 2,
+  "searchPanelMaxResults": 80,
+  "normalizeCitekeyOnInsert": true,
+  "preloadIndexOnStartup": true,
+  "indexRefreshMinutes": 15,
+  "autoBootstrapSourcePages": true,
+  "autoCreateSourceOnCitationSelect": false,
+  "sourceNotesFolderPath": "source",
+  "sourceTemplatePath": "",
+  "enableSidebarAttachments": true,
+  "zoteroDataDir": "",
+  "showSourceRelatedPapers": true,
+  "relatedPapersProvider": "auto",
+  "citationInsertFormat": "pandoc",
+  "showCitationHoverCard": true,
+  "citationHoverOpenAction": "pdf-first",
+  "enableDiscourseGraphsCompatibility": true,
+  "discourseGraphVisibleNodeTypeIds": [],
+  "enableDiscourseDebugLogging": false,
+  "showJsonFallbackSettingInAdvanced": true,
+  "_internal": {
+    "citationIndexCacheByScope": {
+      "My Library": {
+        "rows": [
+          {
+            "id": "azoulaynber",
+            "title": "NBER WORKING PAPER SERIES",
+            "meta": "Azoulay",
+            "raw": {
+              "key": "R4QBMN59",
+              "version": 884,
+              "itemType": "journalArticle",
+              "title": "NBER WORKING PAPER SERIES",
+              "citationKey": "azoulaynber",
+              "language": "en",
+              "libraryCatalog": "Zotero",
+              "extra": "azoulaynber",
+              "creators": [
+                {
+                  "firstName": "Pierre",
+                  "lastName": "Azoulay",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Joshua S Graff",
+                  "lastName": "Zivin",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Jialan",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-03-24T19:05:16Z",
+              "dateModified": "2026-03-24T19:05:16Z",
+              "id": "azoulaynber",
+              "citation-key": "azoulaynber",
+              "itemKey": "R4QBMN59",
+              "zotero": "zotero://select/library/items/R4QBMN59",
+              "type": "journalArticle"
+            }
+          },
+          {
+            "id": "azoulay2012Matthew",
+            "title": "Matthew: Effect or Fable?",
+            "meta": "Azoulay (2014)",
+            "raw": {
+              "key": "VS2IRSIM",
+              "version": 878,
+              "itemType": "journalArticle",
+              "title": "Matthew: Effect or Fable?",
+              "abstractNote": "In a market context, a status effect occurs when actors are accorded differential recognition for their efforts depending on their location in a status ordering, holding constant the quality of these efforts. In practice, because it is very difficult to measure quality, this ceteris paribus proviso often precludes convincing empirical assessments of the magnitude of status effects. We address this problem by examining the impact of a major status-conferring prize that shifts actors' positions in a prestige ordering. Specifically, using a precisely constructed matched sample, we estimate the effect of a scientist becoming a Howard Hughes Medical Institute (HHMI) Investigator on citations to articles the scientist published before the prize was awarded. We do find evidence of a postappointment citation boost, but the effect is small and limited to a short window of time. Consistent with theories of status, however, the effect of the prize is significantly larger when there is uncertainty about article quality, and when prize winners are of (relatively) low status at the time of election to the HHMI Investigator Program.\n            This paper was accepted by David Hsu, entrepreneurship and innovation.",
+              "date": "01/2014",
+              "DOI": "10.1287/mnsc.2013.1755",
+              "citationKey": "azoulay2012Matthew",
+              "url": "https://pubsonline.informs.org/doi/10.1287/mnsc.2013.1755",
+              "accessDate": "2026-03-18T15:06:48Z",
+              "shortTitle": "Matthew",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "extra": "Citation Key: azoulay2014Matthew",
+              "volume": "60",
+              "pages": "92-109",
+              "publicationTitle": "Management Science",
+              "ISSN": "0025-1909, 1526-5501",
+              "issue": "1",
+              "journalAbbreviation": "Management Science",
+              "creators": [
+                {
+                  "firstName": "Pierre",
+                  "lastName": "Azoulay",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Toby",
+                  "lastName": "Stuart",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Yanbo",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "metaresearch"
+                }
+              ],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2026-03-18T15:06:48Z",
+              "dateModified": "2026-03-18T16:39:26Z",
+              "id": "azoulay2012Matthew",
+              "citation-key": "azoulay2012Matthew",
+              "itemKey": "VS2IRSIM",
+              "zotero": "zotero://select/library/items/VS2IRSIM",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2014
+                  ]
+                ]
+              },
+              "year": "2014",
+              "container-title": "Management Science",
+              "container-title-short": "Management Science",
+              "URL": "https://pubsonline.informs.org/doi/10.1287/mnsc.2013.1755"
+            }
+          },
+          {
+            "id": "azoulay2012turn",
+            "title": "Turn the scientific method on ourselves",
+            "meta": "Azoulay (2012)",
+            "raw": {
+              "key": "CJIMWSR6",
+              "version": 899,
+              "itemType": "journalArticle",
+              "title": "Turn the scientific method on ourselves",
+              "abstractNote": "How can we know whether funding models for research work? By relentlessly testing them using randomized controlled trials, says Pierre Azoulay.",
+              "date": "2012-04",
+              "DOI": "10.1038/484031a",
+              "citationKey": "azoulay2012turn",
+              "url": "https://www.nature.com/articles/484031a",
+              "accessDate": "2026-03-09T20:31:05Z",
+              "language": "en",
+              "libraryCatalog": "www.nature.com",
+              "rights": "2012 Springer Nature Limited",
+              "extra": "Citation Key: azoulay2012turn",
+              "volume": "484",
+              "publisher": "Nature Publishing Group",
+              "pages": "31-32",
+              "publicationTitle": "Nature",
+              "ISSN": "1476-4687",
+              "issue": "7392",
+              "creators": [
+                {
+                  "firstName": "Pierre",
+                  "lastName": "Azoulay",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Economics",
+                  "type": 1
+                },
+                {
+                  "tag": "Institutions",
+                  "type": 1
+                },
+                {
+                  "tag": "Research management",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {
+                "owl:sameAs": [
+                  "http://zotero.org/groups/6518479/items/PXEWUND8"
+                ]
+              },
+              "dateAdded": "2026-03-09T20:31:05Z",
+              "dateModified": "2026-03-18T16:07:46Z",
+              "id": "azoulay2012turn",
+              "citation-key": "azoulay2012turn",
+              "itemKey": "CJIMWSR6",
+              "zotero": "zotero://select/library/items/CJIMWSR6",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2012
+                  ]
+                ]
+              },
+              "year": "2012",
+              "container-title": "Nature",
+              "URL": "https://www.nature.com/articles/484031a"
+            }
+          },
+          {
+            "id": "ossowska1964science",
+            "title": "The Science of Science",
+            "meta": "Ossowska (1964)",
+            "raw": {
+              "key": "BURM922Q",
+              "version": 898,
+              "itemType": "journalArticle",
+              "title": "The Science of Science",
+              "date": "1964",
+              "citationKey": "ossowska1964science",
+              "url": "https://www.jstor.org/stable/41822059",
+              "accessDate": "2026-03-09T20:37:16Z",
+              "libraryCatalog": "JSTOR",
+              "volume": "3",
+              "publisher": "Springer",
+              "pages": "72-82",
+              "publicationTitle": "Minerva",
+              "ISSN": "0026-4695",
+              "issue": "1",
+              "creators": [
+                {
+                  "firstName": "María",
+                  "lastName": "Ossowska",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Stanislaw",
+                  "lastName": "Ossowski",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {
+                "owl:sameAs": [
+                  "http://zotero.org/groups/6518479/items/9GW9HU7E"
+                ]
+              },
+              "dateAdded": "2026-03-09T20:37:16Z",
+              "dateModified": "2026-03-09T20:37:16Z",
+              "id": "ossowska1964science",
+              "citation-key": "ossowska1964science",
+              "itemKey": "BURM922Q",
+              "zotero": "zotero://select/library/items/BURM922Q",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    1964
+                  ]
+                ]
+              },
+              "year": "1964",
+              "container-title": "Minerva",
+              "URL": "https://www.jstor.org/stable/41822059"
+            }
+          },
+          {
+            "id": "what",
+            "title": "In what sense is the science of science a science?",
+            "meta": "",
+            "raw": {
+              "key": "PTUYXK2M",
+              "version": 888,
+              "itemType": "webpage",
+              "title": "In what sense is the science of science a science?",
+              "citationKey": "what",
+              "url": "https://scienceplusplus.org/what_is_sos/index.html",
+              "accessDate": "2026-03-09T20:30:53Z",
+              "creators": [],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {
+                "owl:sameAs": [
+                  "http://zotero.org/groups/6518479/items/ZH9AWPCQ"
+                ]
+              },
+              "dateAdded": "2026-03-09T20:30:53Z",
+              "dateModified": "2026-03-09T20:30:53Z",
+              "id": "what",
+              "citation-key": "what",
+              "itemKey": "PTUYXK2M",
+              "zotero": "zotero://select/library/items/PTUYXK2M",
+              "type": "webpage",
+              "URL": "https://scienceplusplus.org/what_is_sos/index.html"
+            }
+          },
+          {
+            "id": "krauss2024science",
+            "title": "Science of Science: Understanding the Foundations and Limits of Science from an Interdisciplinary Perspective",
+            "meta": "Krauss (2024)",
+            "raw": {
+              "key": "JPBYKM66",
+              "version": 897,
+              "itemType": "book",
+              "title": "Science of Science: Understanding the Foundations and Limits of Science from an Interdisciplinary Perspective",
+              "abstractNote": "Abstract\n            How do we drive new knowledge and science? What are their present boundaries? And how can we improve science? We still do not understand these essential questions about science well, even though science is at the foundation of modern society. The field of science of science can provide answers to these foundational questions. The central challenge of the field is integrating the different empirical and theoretical knowledge across disciplines into a holistic field and uncovering the general mechanism driving science across fields. This is the first book to offer an integrated framework for the science of science and thus aims to provide a comprehensive understanding of the foundations and limits of science. The book integrates 14 scientific fields and illustrates how our evolved mind (that enables us to observe, experiment and solve problems) makes doing science possible but also shapes what and how we observe. Our scientific methods and instruments (such as statistics and telescopes) enable us to study a much larger range of phenomena but also have constraints to how we measure them. Institutions and funding shape what knowledge we produce and how we evaluate our evidence, among other influences. By integrating the fields together, we are able to identify the common mechanism that underpins the different factors studied across all these fields: our powerful scientific methods and instruments. The book explains how the sophisticated scientific tools we develop are the main driving force for creating new knowledge and advancing science. This methodological toolbox of ours sets the scope and present limits of what we can know and what is possible in science—while economic, social and historical influences help shape what we study within that scope and those limits. The book offers a unifying theory for the field of science of science—the new-methods-drive-science theory. By better understanding the foundations of science we will also show how we can reduce the constraints and biases that we and our scientific methods and instruments face to advance science and push its present boundaries. This book is written in an easily accessible way for readers interested in understanding how science works.",
+              "date": "2024-12-10",
+              "DOI": "10.1093/9780198937401.001.0001",
+              "citationKey": "krauss2024science",
+              "url": "https://academic.oup.com/book/58964",
+              "accessDate": "2026-03-09T20:26:58Z",
+              "shortTitle": "Science of Science",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "rights": "https://creativecommons.org/licenses/by-nc/4.0/",
+              "publisher": "Oxford University PressOxford",
+              "ISBN": "978-0-19-893740-1 978-0-19-893737-1",
+              "edition": "1",
+              "creators": [
+                {
+                  "firstName": "Alexander",
+                  "lastName": "Krauss",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {
+                "owl:sameAs": [
+                  "http://zotero.org/groups/6518479/items/XII6TRJM"
+                ]
+              },
+              "dateAdded": "2026-03-09T20:26:58Z",
+              "dateModified": "2026-03-09T20:26:58Z",
+              "id": "krauss2024science",
+              "citation-key": "krauss2024science",
+              "itemKey": "JPBYKM66",
+              "zotero": "zotero://select/library/items/JPBYKM66",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2024
+                  ]
+                ]
+              },
+              "year": "2024",
+              "URL": "https://academic.oup.com/book/58964"
+            }
+          },
+          {
+            "id": "fortunato2018science",
+            "title": "Science of science",
+            "meta": "Fortunato (2018)",
+            "raw": {
+              "key": "VUTE9E6H",
+              "version": 896,
+              "itemType": "journalArticle",
+              "title": "Science of science",
+              "abstractNote": "The complexity of science. Science can be seen as an expanding and evolving network of ideas, scholars and papers. SciSci searches for universal and domain-specific laws underlying the structure and dynamics of science.,",
+              "date": "2018-3-02",
+              "DOI": "10.1126/science.aao0185",
+              "citationKey": "fortunato2018science",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5949209/",
+              "accessDate": "2026-03-09T20:26:11Z",
+              "libraryCatalog": "PubMed Central",
+              "volume": "359",
+              "pages": "eaao0185",
+              "publicationTitle": "Science (New York, N.Y.)",
+              "ISSN": "0036-8075",
+              "issue": "6379",
+              "journalAbbreviation": "Science",
+              "PMID": "29496846",
+              "PMCID": "PMC5949209",
+              "creators": [
+                {
+                  "firstName": "Santo",
+                  "lastName": "Fortunato",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Carl T.",
+                  "lastName": "Bergstrom",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Katy",
+                  "lastName": "Börner",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "James A.",
+                  "lastName": "Evans",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Dirk",
+                  "lastName": "Helbing",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Staša",
+                  "lastName": "Milojević",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Alexander M.",
+                  "lastName": "Petersen",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Filippo",
+                  "lastName": "Radicchi",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Roberta",
+                  "lastName": "Sinatra",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Brian",
+                  "lastName": "Uzzi",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Alessandro",
+                  "lastName": "Vespignani",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Ludo",
+                  "lastName": "Waltman",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Dashun",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Albert-László",
+                  "lastName": "Barabási",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {
+                "owl:sameAs": [
+                  "http://zotero.org/groups/6518479/items/ZNF9P9M6"
+                ]
+              },
+              "dateAdded": "2026-03-09T20:26:11Z",
+              "dateModified": "2026-03-09T20:26:17Z",
+              "id": "fortunato2018science",
+              "citation-key": "fortunato2018science",
+              "itemKey": "VUTE9E6H",
+              "zotero": "zotero://select/library/items/VUTE9E6H",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              },
+              "year": "2018",
+              "container-title": "Science (New York, N.Y.)",
+              "container-title-short": "Science",
+              "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5949209/"
+            }
+          },
+          {
+            "id": "suntolashort",
+            "title": "THE SHORT HISTORY OF SCIENCE",
+            "meta": "Suntola",
+            "raw": {
+              "key": "SPYWPGR9",
+              "version": 855,
+              "itemType": "journalArticle",
+              "title": "THE SHORT HISTORY OF SCIENCE",
+              "citationKey": "suntolashort",
+              "language": "en",
+              "libraryCatalog": "Zotero",
+              "creators": [
+                {
+                  "firstName": "Tuomo",
+                  "lastName": "Suntola",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [],
+              "relations": {},
+              "dateAdded": "2026-03-09T20:23:48Z",
+              "dateModified": "2026-03-09T20:23:48Z",
+              "id": "suntolashort",
+              "citation-key": "suntolashort",
+              "itemKey": "SPYWPGR9",
+              "zotero": "zotero://select/library/items/SPYWPGR9",
+              "type": "journalArticle"
+            }
+          },
+          {
+            "id": "latour2022lockdown",
+            "title": "After lockdown: a metamorphosis",
+            "meta": "Latour (2022)",
+            "raw": {
+              "key": "GMIYWZR6",
+              "version": 852,
+              "itemType": "book",
+              "title": "After lockdown: a metamorphosis",
+              "abstractNote": "After the harrowing experience of the pandemic and the lockdowns, both states and individuals have been searching for ways to exit the crisis, hoping to return as soon as possible to 'the world as it was before the pandemic'. But there is another way to learn the lessons of this ordeal: as inhabitants of the earth, we may not be able to exit the lockdown so easily after all, since the global health crisis is embedded in another larger and more serious crisis - that brought about by the New Climate Regime. Learning to live in lockdown might be an opportunity to be seized: a dress-rehearsal for the climate mutation, an opportunity to understand at last where we - inhabitants of the earth - live, what kind of place 'earth' is and how we will be able to orient ourselves and exist in this world in the years to come. We might finally be able to explore the land in which we live, begin to understand the true nature of the climate mutation we are living through and discover what kind of freedom is possible - a freedom differently situated and differently understood. In this sequel to Down to Earth, Bruno Latour provides a compass for this necessary re-orientation of our lives, outlining the metaphysics of confinement and deconfinement with which we will all be obliged to come to terms by the strange times in which we are living. --",
+              "date": "2022",
+              "citationKey": "latour2022lockdown",
+              "shortTitle": "After lockdown",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2022lockdown",
+              "publisher": "polity",
+              "place": "Cambridge Medford",
+              "ISBN": "978-1-5095-5002-9 978-1-5095-5001-2",
+              "edition": "Reprinted",
+              "numPages": "148",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Julie",
+                  "lastName": "Rose",
+                  "creatorType": "translator"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Topic 1"
+                }
+              ],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:04:05Z",
+              "dateModified": "2026-03-09T15:29:20Z",
+              "id": "latour2022lockdown",
+              "citation-key": "latour2022lockdown",
+              "itemKey": "GMIYWZR6",
+              "zotero": "zotero://select/library/items/GMIYWZR6",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2022
+                  ]
+                ]
+              },
+              "year": "2022"
+            }
+          },
+          {
+            "id": "Citation Key: ioannidis2005why",
+            "title": "Why Most Published Research Findings Are False",
+            "meta": "Ioannidis (2005)",
+            "raw": {
+              "key": "AR6YCMHJ",
+              "version": 900,
+              "itemType": "journalArticle",
+              "title": "Why Most Published Research Findings Are False",
+              "date": "2005-8-30",
+              "DOI": "10.1371/journal.pmed.0020124",
+              "citationKey": "Citation Key: ioannidis2005why",
+              "url": "https://dx.plos.org/10.1371/journal.pmed.0020124",
+              "accessDate": "2026-03-04T13:49:21Z",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "extra": "ioannidis2005why",
+              "volume": "2",
+              "pages": "e124",
+              "publicationTitle": "PLoS Medicine",
+              "ISSN": "1549-1676",
+              "issue": "8",
+              "journalAbbreviation": "PLoS Med",
+              "creators": [
+                {
+                  "firstName": "John P. A.",
+                  "lastName": "Ioannidis",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {
+                "owl:sameAs": [
+                  "http://zotero.org/groups/6518479/items/HXZIQZPW"
+                ]
+              },
+              "dateAdded": "2026-03-04T14:00:41Z",
+              "dateModified": "2026-03-04T15:32:10Z",
+              "id": "Citation Key: ioannidis2005why",
+              "citation-key": "Citation Key: ioannidis2005why",
+              "itemKey": "AR6YCMHJ",
+              "zotero": "zotero://select/library/items/AR6YCMHJ",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2005
+                  ]
+                ]
+              },
+              "year": "2005",
+              "container-title": "PLoS Medicine",
+              "container-title-short": "PLoS Med",
+              "URL": "https://dx.plos.org/10.1371/journal.pmed.0020124"
+            }
+          },
+          {
+            "id": "latour2002aramis",
+            "title": "Aramis, or the love of technology",
+            "meta": "Latour (2002)",
+            "raw": {
+              "key": "NAM24FFS",
+              "version": 901,
+              "itemType": "book",
+              "title": "Aramis, or the love of technology",
+              "date": "2002",
+              "citationKey": "latour2002aramis",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2002aramis",
+              "publisher": "Harvard University Press",
+              "place": "Cambridge, Massachusetts London",
+              "ISBN": "978-0-674-04323-7 978-0-674-04322-0",
+              "edition": "4. printing",
+              "numPages": "314",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Catherine",
+                  "lastName": "Porter",
+                  "creatorType": "translator"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {
+                "owl:sameAs": [
+                  "http://zotero.org/groups/6518479/items/NWPJ27AC"
+                ]
+              },
+              "dateAdded": "2025-12-15T14:03:50Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "latour2002aramis",
+              "citation-key": "latour2002aramis",
+              "itemKey": "NAM24FFS",
+              "zotero": "zotero://select/library/items/NAM24FFS",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2002
+                  ]
+                ]
+              },
+              "year": "2002"
+            }
+          },
+          {
+            "id": "latour1987science",
+            "title": "Science in action: how to follow scientists and engineers through society",
+            "meta": "Latour (1987)",
+            "raw": {
+              "key": "VM9IN28V",
+              "version": 895,
+              "itemType": "book",
+              "title": "Science in action: how to follow scientists and engineers through society",
+              "abstractNote": "\"Science and technology have immense authority and influence in our society, yet their working remains little understood. The conventional perception of science in Western societies has been modified in recent years by the work of philosophers, sociologists and historians of science. In this book Bruno Latour brings together these different approaches to provide a lively and challenging analysis of science, demonstrating how social context and technical content are both essential to a proper understanding of scientific activity. Emphasizing that science can only be understood through its practice, the author examines science and technology in action: the role of scientific literature, the activities of laboratories, the institutional context of science in the modern world, and the means by which inventions and discoveries become accepted. From the study of scientific practice he develops an analysis of science as the building of networks. Throughout, Bruno Latour shows how a lively and realistic picture of science in action alters our conception of not only the natural sciences but also the social sciences and the sociology of knowledge in general. This stimulating book, drawing on a wealth of examples from a wide range of scientific activities, will interest all philosophers, sociologists and historians of science, scientists and engineers, and students of the philosophy of social science and the sociology of knowledge\". Harvard University Press",
+              "date": "1987",
+              "citationKey": "latour1987science",
+              "shortTitle": "Science in action",
+              "language": "eng",
+              "libraryCatalog": "BnF ISBN",
+              "callNumber": "306.45",
+              "extra": "Citation Key: latour1987science",
+              "publisher": "Harvard University press",
+              "place": "Cambridge (Mass.)",
+              "ISBN": "978-0-674-79291-3",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {
+                "owl:sameAs": [
+                  "http://zotero.org/groups/6518479/items/EQQGAF3Z"
+                ]
+              },
+              "dateAdded": "2025-12-15T14:03:46Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "latour1987science",
+              "citation-key": "latour1987science",
+              "itemKey": "VM9IN28V",
+              "zotero": "zotero://select/library/items/VM9IN28V",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1987
+                  ]
+                ]
+              },
+              "year": "1987"
+            }
+          },
+          {
+            "id": "latour2013laboratory",
+            "title": "Laboratory life: the construction of scientific facts",
+            "meta": "Latour (2013)",
+            "raw": {
+              "key": "YASUDRBA",
+              "version": 889,
+              "itemType": "book",
+              "title": "Laboratory life: the construction of scientific facts",
+              "abstractNote": "This highly original work presents laboratory science in a deliberately skeptical way: as an anthropological approach to the culture of the scientist. Drawing on recent work in literary criticism, the authors study how the social world of the laboratory produces papers and other \"texts,\"' and how the scientific vision of reality becomes that set of statements considered, for the time being, too expensive to change. The book is based on field work done by Bruno Latour in Roger Guillemin's laboratory at the Salk Institute and provides an important link between the sociology of modern sciences and laboratory studies in the history of science",
+              "date": "2013",
+              "DOI": "10.1515/9781400820412",
+              "citationKey": "latour2013laboratory",
+              "shortTitle": "Laboratory life",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2013laboratory",
+              "publisher": "Princeton University Press",
+              "place": "Princeton, New Jersey",
+              "ISBN": "978-0-691-09418-2 978-1-4008-2041-2",
+              "numPages": "1",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Steve",
+                  "lastName": "Woolgar",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Jonas",
+                  "lastName": "Salk",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {
+                "owl:sameAs": [
+                  "http://zotero.org/groups/6518479/items/37B6G4A7"
+                ]
+              },
+              "dateAdded": "2025-12-15T13:56:41Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "latour2013laboratory",
+              "citation-key": "latour2013laboratory",
+              "itemKey": "YASUDRBA",
+              "zotero": "zotero://select/library/items/YASUDRBA",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2013
+                  ]
+                ]
+              },
+              "year": "2013"
+            }
+          },
+          {
+            "id": "cruz2010birth",
+            "title": "The birth of modern Europe: culture and economy, 1400-1800 essays in honor ofJan de Vries",
+            "meta": "Cruz (2010)",
+            "raw": {
+              "key": "ZMWPR2VM",
+              "version": 833,
+              "itemType": "book",
+              "title": "The birth of modern Europe: culture and economy, 1400-1800 essays in honor ofJan de Vries",
+              "date": "2010",
+              "citationKey": "cruz2010birth",
+              "shortTitle": "The birth of modern Europe",
+              "language": "eng",
+              "libraryCatalog": "BnF ISBN",
+              "extra": "Citation Key: cruz2010birth",
+              "publisher": "Brill",
+              "place": "Leiden",
+              "ISBN": "978-90-04-18934-8",
+              "series": "Library of economic history",
+              "seriesNumber": "Vol. 2",
+              "creators": [
+                {
+                  "firstName": "Laura",
+                  "lastName": "Cruz",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:11:09Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "cruz2010birth",
+              "citation-key": "cruz2010birth",
+              "itemKey": "ZMWPR2VM",
+              "zotero": "zotero://select/library/items/ZMWPR2VM",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2010
+                  ]
+                ]
+              },
+              "year": "2010"
+            }
+          },
+          {
+            "id": "landes2010invention",
+            "title": "The invention of enterprise: entrepreneurship from ancient Mesopotamia to modern times",
+            "meta": "Landes (2010)",
+            "raw": {
+              "key": "QKKS9HRY",
+              "version": 833,
+              "itemType": "book",
+              "title": "The invention of enterprise: entrepreneurship from ancient Mesopotamia to modern times",
+              "date": "2010",
+              "citationKey": "landes2010invention",
+              "shortTitle": "The invention of enterprise",
+              "language": "eng",
+              "libraryCatalog": "BnF ISBN",
+              "extra": "Citation Key: landes2010invention",
+              "publisher": "Princeton university press",
+              "place": "Princeton",
+              "ISBN": "978-0-691-14370-5",
+              "series": "Kauffman foundation series on innovation and entrepreneurship",
+              "creators": [
+                {
+                  "firstName": "David S.",
+                  "lastName": "Landes",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "William J.",
+                  "lastName": "Baumol",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:11:08Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "landes2010invention",
+              "citation-key": "landes2010invention",
+              "itemKey": "QKKS9HRY",
+              "zotero": "zotero://select/library/items/QKKS9HRY",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2010
+                  ]
+                ]
+              },
+              "year": "2010"
+            }
+          },
+          {
+            "id": "mokyr2009enlightened",
+            "title": "The enlightened economy: an economic history of Britain, 1700 - 1850",
+            "meta": "Mokyr (2009)",
+            "raw": {
+              "key": "QTPSHQ4L",
+              "version": 833,
+              "itemType": "book",
+              "title": "The enlightened economy: an economic history of Britain, 1700 - 1850",
+              "date": "2009",
+              "citationKey": "mokyr2009enlightened",
+              "shortTitle": "The enlightened economy",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: mokyr2009enlightened",
+              "publisher": "Yale University Press",
+              "place": "New Haven, Conn.",
+              "ISBN": "978-0-300-18951-3 978-0-300-12455-2",
+              "series": "The new economic history of Britain",
+              "numPages": "564",
+              "creators": [
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:11:07Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "mokyr2009enlightened",
+              "citation-key": "mokyr2009enlightened",
+              "itemKey": "QTPSHQ4L",
+              "zotero": "zotero://select/library/items/QTPSHQ4L",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2009
+                  ]
+                ]
+              },
+              "year": "2009"
+            }
+          },
+          {
+            "id": "mokyr1992lever",
+            "title": "The lever of riches: technological creativity and economic progress",
+            "meta": "Mokyr (1992)",
+            "raw": {
+              "key": "NNVHBJCB",
+              "version": 833,
+              "itemType": "book",
+              "title": "The lever of riches: technological creativity and economic progress",
+              "date": "1992",
+              "citationKey": "mokyr1992lever",
+              "shortTitle": "The lever of riches",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: mokyr1992lever",
+              "publisher": "Oxford Univ. Press",
+              "place": "New York",
+              "ISBN": "978-0-19-506113-0 978-0-19-507477-2",
+              "series": "Oxford paperbacks",
+              "edition": "1. issued as an Oxford Univ. Press paperback",
+              "numPages": "349",
+              "creators": [
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:11:01Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "mokyr1992lever",
+              "citation-key": "mokyr1992lever",
+              "itemKey": "NNVHBJCB",
+              "zotero": "zotero://select/library/items/NNVHBJCB",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1992
+                  ]
+                ]
+              },
+              "year": "1992"
+            }
+          },
+          {
+            "id": "mokyr1985why",
+            "title": "Why Ireland starved: a quantitative and analyt. history of the Irish economy, 1800 - 1850",
+            "meta": "Mokyr (1985)",
+            "raw": {
+              "key": "RLCQMUUQ",
+              "version": 832,
+              "itemType": "book",
+              "title": "Why Ireland starved: a quantitative and analyt. history of the Irish economy, 1800 - 1850",
+              "date": "1985",
+              "citationKey": "mokyr1985why",
+              "shortTitle": "Why Ireland starved",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: mokyr1985why",
+              "publisher": "Allen & Unwin",
+              "place": "London",
+              "ISBN": "978-0-04-941014-5 978-0-04-941010-7",
+              "numPages": "330",
+              "creators": [
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:10:57Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "mokyr1985why",
+              "citation-key": "mokyr1985why",
+              "itemKey": "RLCQMUUQ",
+              "zotero": "zotero://select/library/items/RLCQMUUQ",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1985
+                  ]
+                ]
+              },
+              "year": "1985"
+            }
+          },
+          {
+            "id": "mokyr1990twentyfive",
+            "title": "Twenty-five centuries of technological change: an historical survey",
+            "meta": "Mokyr (1990)",
+            "raw": {
+              "key": "R9RFRQCT",
+              "version": 832,
+              "itemType": "book",
+              "title": "Twenty-five centuries of technological change: an historical survey",
+              "date": "1990",
+              "citationKey": "mokyr1990twentyfive",
+              "shortTitle": "Twenty-five centuries of technological change",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: mokyr1990twentyfive",
+              "publisher": "Harwood Academic Publishers",
+              "place": "Chur",
+              "ISBN": "978-3-7186-4936-5",
+              "series": "Fundamentals of pure and applied economics Economics of technological change section",
+              "seriesNumber": "35",
+              "numPages": "142",
+              "creators": [
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:10:59Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "mokyr1990twentyfive",
+              "citation-key": "mokyr1990twentyfive",
+              "itemKey": "R9RFRQCT",
+              "zotero": "zotero://select/library/items/R9RFRQCT",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1990
+                  ]
+                ]
+              },
+              "year": "1990"
+            }
+          },
+          {
+            "id": "mokyr1989economics",
+            "title": "The economics of the industrial revolution",
+            "meta": "Mokyr (1989)",
+            "raw": {
+              "key": "SLMUMBBH",
+              "version": 832,
+              "itemType": "book",
+              "title": "The economics of the industrial revolution",
+              "date": "1989",
+              "citationKey": "mokyr1989economics",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: mokyr1989economics",
+              "publisher": "Rowman & Littlefield",
+              "place": "Savage",
+              "ISBN": "978-0-86598-148-5 978-0-86598-154-6",
+              "numPages": "267",
+              "creators": [
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "editor"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:10:58Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "mokyr1989economics",
+              "citation-key": "mokyr1989economics",
+              "itemKey": "SLMUMBBH",
+              "zotero": "zotero://select/library/items/SLMUMBBH",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1989
+                  ]
+                ]
+              },
+              "year": "1989"
+            }
+          },
+          {
+            "id": "latour2018earth",
+            "title": "Down to earth: politics in the new climatic regime",
+            "meta": "Latour (2018)",
+            "raw": {
+              "key": "U6NHNJ6Z",
+              "version": 832,
+              "itemType": "book",
+              "title": "Down to earth: politics in the new climatic regime",
+              "date": "2018",
+              "citationKey": "latour2018earth",
+              "shortTitle": "Down to earth",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2018earth",
+              "publisher": "Polity",
+              "place": "Cambridge, UK Medford, MA, USA",
+              "ISBN": "978-1-5095-3059-5",
+              "series": "ProQuest Ebook Central",
+              "numPages": "1",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Catherine",
+                  "lastName": "Porter",
+                  "creatorType": "translator"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:04:04Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "latour2018earth",
+              "citation-key": "latour2018earth",
+              "itemKey": "U6NHNJ6Z",
+              "zotero": "zotero://select/library/items/U6NHNJ6Z",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              },
+              "year": "2018"
+            }
+          },
+          {
+            "id": "latour2017facing",
+            "title": "Facing Gaia: eight lectures on the new climatic regime",
+            "meta": "Latour (2017)",
+            "raw": {
+              "key": "UMVVSV39",
+              "version": 832,
+              "itemType": "book",
+              "title": "Facing Gaia: eight lectures on the new climatic regime",
+              "date": "2017",
+              "citationKey": "latour2017facing",
+              "shortTitle": "Facing Gaia",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2017facing",
+              "publisher": "Polity",
+              "place": "Cambridge, UK Medford, MA",
+              "ISBN": "978-0-7456-8433-8 978-0-7456-8436-9 978-0-7456-8437-6",
+              "edition": "First published",
+              "numPages": "1",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Catherine",
+                  "lastName": "Porter",
+                  "creatorType": "translator"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:04:03Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "latour2017facing",
+              "citation-key": "latour2017facing",
+              "itemKey": "UMVVSV39",
+              "zotero": "zotero://select/library/items/UMVVSV39",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2017
+                  ]
+                ]
+              },
+              "year": "2017"
+            }
+          },
+          {
+            "id": "latour2007reassembling",
+            "title": "Reassembling the social: an introduction to Actor-Network-Theory",
+            "meta": "Latour (2007)",
+            "raw": {
+              "key": "R7HCRI6L",
+              "version": 831,
+              "itemType": "book",
+              "title": "Reassembling the social: an introduction to Actor-Network-Theory",
+              "date": "2007",
+              "citationKey": "latour2007reassembling",
+              "shortTitle": "Reassembling the social",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2007reassembling",
+              "publisher": "Oxford Univ. Press",
+              "place": "Oxford",
+              "ISBN": "978-0-19-925604-4 978-0-19-925605-1",
+              "series": "Clarendon lectures in management studies",
+              "edition": "1. publ. in pbk",
+              "numPages": "301",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:03:56Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "latour2007reassembling",
+              "citation-key": "latour2007reassembling",
+              "itemKey": "R7HCRI6L",
+              "zotero": "zotero://select/library/items/R7HCRI6L",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2007
+                  ]
+                ]
+              },
+              "year": "2007"
+            }
+          },
+          {
+            "id": "latour2000pandoras",
+            "title": "Pandora's hope: essays on the reality of science studies",
+            "meta": "Latour (2000)",
+            "raw": {
+              "key": "TB5SN6JQ",
+              "version": 831,
+              "itemType": "book",
+              "title": "Pandora's hope: essays on the reality of science studies",
+              "date": "2000",
+              "citationKey": "latour2000pandoras",
+              "shortTitle": "Pandora's hope",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2000pandoras",
+              "publisher": "Harvard University Press",
+              "place": "Cambridge, Mass.",
+              "ISBN": "978-0-674-65336-8 978-0-674-65335-1",
+              "edition": "2. print",
+              "numPages": "324",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:03:51Z",
+              "dateModified": "2026-02-26T20:07:16Z",
+              "id": "latour2000pandoras",
+              "citation-key": "latour2000pandoras",
+              "itemKey": "TB5SN6JQ",
+              "zotero": "zotero://select/library/items/TB5SN6JQ",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2000
+                  ]
+                ]
+              },
+              "year": "2000"
+            }
+          },
+          {
+            "id": "latour2010modern",
+            "title": "On the modern cult of the factish gods",
+            "meta": "Latour (2010)",
+            "raw": {
+              "key": "6SCD5YF3",
+              "version": 892,
+              "itemType": "book",
+              "title": "On the modern cult of the factish gods",
+              "abstractNote": "On the cult of the factish gods -- What is iconoclash? or is there a world beyond the image wars? -- \"Thou shalt not freeze frame,\" or how not to misunderstand the science and religion debate",
+              "date": "2010",
+              "citationKey": "latour2010modern",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2010modern",
+              "publisher": "Duke University Press",
+              "place": "Durham, [NC]",
+              "ISBN": "978-0-8223-4825-2 978-0-8223-4816-0",
+              "series": "Science and cultural theory",
+              "numPages": "157",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Catherine",
+                  "lastName": "Porter",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {
+                "owl:sameAs": [
+                  "http://zotero.org/groups/6518479/items/AEIQPKGH"
+                ]
+              },
+              "dateAdded": "2025-12-15T14:03:58Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "latour2010modern",
+              "citation-key": "latour2010modern",
+              "itemKey": "6SCD5YF3",
+              "zotero": "zotero://select/library/items/6SCD5YF3",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2010
+                  ]
+                ]
+              },
+              "year": "2010"
+            }
+          },
+          {
+            "id": "krauss2025science",
+            "title": "Science of science: understanding the foundations and limits of science from an interdisciplinary perspective",
+            "meta": "Krauss (2025)",
+            "raw": {
+              "key": "58NF39YJ",
+              "version": 833,
+              "itemType": "book",
+              "title": "Science of science: understanding the foundations and limits of science from an interdisciplinary perspective",
+              "abstractNote": "\"How do we drive new knowledge and science? What are their present boundaries? And how can we improve science? We still do not understand these essential questions about science well, even though science is at the foundation of modern society. The field of science of science can provide answers to these foundational questions. The central challenge of the field is integrating the different empirical and theoretical knowledge across disciplines into a holistic field and uncovering the general mechanism driving science across fields. This is the first book to offer an integrated framework for the science of science and thus aims to provide a comprehensive understanding of the foundations and limits of science. The book integrates 14 scientific fields and illustrates how our evolved mind (that enables us to observe, experiment and solve problems) makes doing science possible but also shapes what and how we observe. Our scientific methods and instruments (such as statistics and telescopes) enable us to study a much larger range of phenomena but also have constraints to how we measure them. Institutions and funding shape what knowledge we produce and how we evaluate our evidence, among other influences. By integrating the fields together, we are able to identify the common mechanism that underpins the different factors studied across all these fields: our powerful scientific methods and instruments. The book explains how the sophisticated scientific tools we develop are the main driving force for creating new knowledge and advancing science. This methodological toolbox of ours sets the scope and present limits of what we can know and what is possible in science—while economic, social and historical influences help shape what we study within that scope and those limits. The book offers a unifying theory for the field of science of science—the new-methods-drive-science theory. By better understanding the foundations of science we will also show how we can reduce the constraints and biases that we and our scientific methods and instruments face to advance science and push its present boundaries. This book is written in an easily accessible way for readers interested in understanding how science works\"--Publisher's description",
+              "date": "2025",
+              "citationKey": "krauss2025science",
+              "shortTitle": "Science of science",
+              "language": "eng",
+              "libraryCatalog": "Open WorldCat",
+              "extra": "Citation Key: krauss2025science\nOCLC: 1463928884",
+              "publisher": "Oxford University Press",
+              "place": "Oxford",
+              "ISBN": "978-0-19-893740-1",
+              "creators": [
+                {
+                  "firstName": "Alexander",
+                  "lastName": "Krauss",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:11:11Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "krauss2025science",
+              "citation-key": "krauss2025science",
+              "itemKey": "58NF39YJ",
+              "zotero": "zotero://select/library/items/58NF39YJ",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2025
+                  ]
+                ]
+              },
+              "year": "2025"
+            }
+          },
+          {
+            "id": "greif2025two",
+            "title": "Two Paths to Prosperity: Culture and Institutions in Europe and China, 1000-2000",
+            "meta": "Greif (2025)",
+            "raw": {
+              "key": "4KKZTEPD",
+              "version": 833,
+              "itemType": "book",
+              "title": "Two Paths to Prosperity: Culture and Institutions in Europe and China, 1000-2000",
+              "date": "2025",
+              "citationKey": "greif2025two",
+              "shortTitle": "Two Paths to Prosperity",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: greif2025two",
+              "publisher": "Princeton University Press",
+              "place": "Princeton, NJ",
+              "ISBN": "978-0-691-26594-0",
+              "numPages": "544",
+              "creators": [
+                {
+                  "firstName": "Avner",
+                  "lastName": "Greif",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Guido Enrico",
+                  "lastName": "Tabellini",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:11:14Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "greif2025two",
+              "citation-key": "greif2025two",
+              "itemKey": "4KKZTEPD",
+              "zotero": "zotero://select/library/items/4KKZTEPD",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2025
+                  ]
+                ]
+              },
+              "year": "2025"
+            }
+          },
+          {
+            "id": "mokyr2017culture",
+            "title": "A culture of growth: the origins of the modern economy",
+            "meta": "Mokyr (2017)",
+            "raw": {
+              "key": "9WTJH382",
+              "version": 833,
+              "itemType": "book",
+              "title": "A culture of growth: the origins of the modern economy",
+              "date": "2017",
+              "citationKey": "mokyr2017culture",
+              "shortTitle": "A culture of growth",
+              "language": "eng",
+              "libraryCatalog": "BnF ISBN",
+              "extra": "Citation Key: mokyr2017culture",
+              "publisher": "Princeton university press",
+              "place": "Princeton",
+              "ISBN": "978-0-691-16888-3",
+              "series": "The Graz Schumpeter lectures",
+              "creators": [
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:11:09Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "mokyr2017culture",
+              "citation-key": "mokyr2017culture",
+              "itemKey": "9WTJH382",
+              "zotero": "zotero://select/library/items/9WTJH382",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2017
+                  ]
+                ]
+              },
+              "year": "2017"
+            }
+          },
+          {
+            "id": "mokyr2005gifts",
+            "title": "The gifts of Athena: historical origins of the knowledge economy",
+            "meta": "Mokyr (2005)",
+            "raw": {
+              "key": "ICZHCH75",
+              "version": 833,
+              "itemType": "book",
+              "title": "The gifts of Athena: historical origins of the knowledge economy",
+              "abstractNote": "The growth of technological and scientific knowledge in the past two centuries has been the overriding dynamic element in the economic and social history of the world. Its result is now often called the knowledge economy. But what are the historical origins of this revolution and what have been its mechanisms? In The Gifts of Athena, Joel Mokyr constructs an original framework to analyze the concept of \"useful\" knowledge. He argues that the growth explosion in the modern West in the past two centuries was driven not just by the appearance of new technological ideas but also by the improved ac",
+              "date": "2005",
+              "citationKey": "mokyr2005gifts",
+              "shortTitle": "The gifts of Athena",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: mokyr2005gifts",
+              "publisher": "Princeton University Press",
+              "place": "Princeton N.J",
+              "ISBN": "978-0-691-09483-0 978-1-4008-2943-9",
+              "numPages": "359",
+              "creators": [
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "editor"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:11:02Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "mokyr2005gifts",
+              "citation-key": "mokyr2005gifts",
+              "itemKey": "ICZHCH75",
+              "zotero": "zotero://select/library/items/ICZHCH75",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2005
+                  ]
+                ]
+              },
+              "year": "2005"
+            }
+          },
+          {
+            "id": "mokyr1999british",
+            "title": "The British industrial revolution: an economic perspective",
+            "meta": "Mokyr (1999)",
+            "raw": {
+              "key": "7UBXHBV6",
+              "version": 833,
+              "itemType": "book",
+              "title": "The British industrial revolution: an economic perspective",
+              "date": "1999",
+              "citationKey": "mokyr1999british",
+              "shortTitle": "The British industrial revolution",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: mokyr1999british",
+              "publisher": "Westview Press",
+              "place": "Boulder, Colo.",
+              "ISBN": "978-0-8133-3389-2",
+              "edition": "2. ed",
+              "numPages": "354",
+              "creators": [
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "editor"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:11:01Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "mokyr1999british",
+              "citation-key": "mokyr1999british",
+              "itemKey": "7UBXHBV6",
+              "zotero": "zotero://select/library/items/7UBXHBV6",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1999
+                  ]
+                ]
+              },
+              "year": "1999"
+            }
+          },
+          {
+            "id": "mokyr1991vital",
+            "title": "The vital one: essays in honor of Jonathan R. T. Hughes",
+            "meta": "Mokyr (1991)",
+            "raw": {
+              "key": "LSI4NZSS",
+              "version": 833,
+              "itemType": "book",
+              "title": "The vital one: essays in honor of Jonathan R. T. Hughes",
+              "date": "1991",
+              "citationKey": "mokyr1991vital",
+              "shortTitle": "The vital one",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: mokyr1991vital",
+              "publisher": "Jai Press",
+              "place": "Greenwich, Conn.",
+              "ISBN": "978-1-55938-150-5",
+              "series": "Research in economic history Supplement",
+              "seriesNumber": "6",
+              "numPages": "348",
+              "creators": [
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "editor"
+                },
+                {
+                  "firstName": "Jonathan R. T.",
+                  "lastName": "Hughes",
+                  "creatorType": "editor"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:11:00Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "mokyr1991vital",
+              "citation-key": "mokyr1991vital",
+              "itemKey": "LSI4NZSS",
+              "zotero": "zotero://select/library/items/LSI4NZSS",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1991
+                  ]
+                ]
+              },
+              "year": "1991"
+            }
+          },
+          {
+            "id": "latour2022emergence",
+            "title": "On the emergence of an ecological class - a memo: subject: how to promote the emergence of an ecological class that's self-aware and proud",
+            "meta": "Latour (2022)",
+            "raw": {
+              "key": "MY692RTN",
+              "version": 832,
+              "itemType": "book",
+              "title": "On the emergence of an ecological class - a memo: subject: how to promote the emergence of an ecological class that's self-aware and proud",
+              "date": "2022",
+              "citationKey": "latour2022emergence",
+              "shortTitle": "On the emergence of an ecological class - a memo",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2022emergence",
+              "publisher": "Polity Press",
+              "place": "Cambridge Hoboken",
+              "ISBN": "978-1-5095-5507-9 978-1-5095-5505-5 978-1-5095-5506-2",
+              "numPages": "92",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Nikolaj",
+                  "lastName": "Schultz",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Julie",
+                  "lastName": "Rose",
+                  "creatorType": "translator"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:04:06Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "latour2022emergence",
+              "citation-key": "latour2022emergence",
+              "itemKey": "MY692RTN",
+              "zotero": "zotero://select/library/items/MY692RTN",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2022
+                  ]
+                ]
+              },
+              "year": "2022"
+            }
+          },
+          {
+            "id": "mokyr1976industrialization",
+            "title": "Industrialization in the low countries, 1795 - 1850",
+            "meta": "Mokyr (1976)",
+            "raw": {
+              "key": "35CCNWWC",
+              "version": 832,
+              "itemType": "book",
+              "title": "Industrialization in the low countries, 1795 - 1850",
+              "date": "1976",
+              "citationKey": "mokyr1976industrialization",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: mokyr1976industrialization",
+              "publisher": "Yale University Press",
+              "place": "New Haven",
+              "ISBN": "978-0-300-01892-9",
+              "series": "Yale series in economic history",
+              "numPages": "295",
+              "creators": [
+                {
+                  "firstName": "Joel",
+                  "lastName": "Mokyr",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:10:57Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "mokyr1976industrialization",
+              "citation-key": "mokyr1976industrialization",
+              "itemKey": "35CCNWWC",
+              "zotero": "zotero://select/library/items/35CCNWWC",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1976
+                  ]
+                ]
+              },
+              "year": "1976"
+            }
+          },
+          {
+            "id": "latour2018inquiry",
+            "title": "An inquiry into modes of existence: an anthropology of the moderns",
+            "meta": "Latour (2018)",
+            "raw": {
+              "key": "73CAV79V",
+              "version": 832,
+              "itemType": "book",
+              "title": "An inquiry into modes of existence: an anthropology of the moderns",
+              "date": "2018",
+              "citationKey": "latour2018inquiry",
+              "shortTitle": "An inquiry into modes of existence",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2018inquiry",
+              "publisher": "Harvard University Press",
+              "place": "Cambridge, Massachusetts London, England",
+              "ISBN": "978-0-674-72499-0 978-0-674-98402-8",
+              "edition": "First Harvard University Press paperback edition",
+              "numPages": "486",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Catherine",
+                  "lastName": "Porter",
+                  "creatorType": "translator"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:04:02Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "latour2018inquiry",
+              "citation-key": "latour2018inquiry",
+              "itemKey": "73CAV79V",
+              "zotero": "zotero://select/library/items/73CAV79V",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2018
+                  ]
+                ]
+              },
+              "year": "2018"
+            }
+          },
+          {
+            "id": "latour2013rejoicing",
+            "title": "Rejoicing: or the torments of religious speech",
+            "meta": "Latour (2013)",
+            "raw": {
+              "key": "7AEFMGEE",
+              "version": 832,
+              "itemType": "book",
+              "title": "Rejoicing: or the torments of religious speech",
+              "date": "2013",
+              "citationKey": "latour2013rejoicing",
+              "shortTitle": "Rejoicing",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2013rejoicing",
+              "publisher": "Polity Press",
+              "place": "Cambridge",
+              "ISBN": "978-0-7456-6007-3 978-0-7456-6006-6",
+              "numPages": "174",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Julie",
+                  "lastName": "Rose",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:04:02Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "latour2013rejoicing",
+              "citation-key": "latour2013rejoicing",
+              "itemKey": "7AEFMGEE",
+              "zotero": "zotero://select/library/items/7AEFMGEE",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2013
+                  ]
+                ]
+              },
+              "year": "2013"
+            }
+          },
+          {
+            "id": "latour2009politics",
+            "title": "Politics of Nature: How to Bring the Sciences into Democracy",
+            "meta": "Latour (2009)",
+            "raw": {
+              "key": "IWJVR3QG",
+              "version": 831,
+              "itemType": "book",
+              "title": "Politics of Nature: How to Bring the Sciences into Democracy",
+              "abstractNote": "Intro -- Contents -- Introduction: What Is to Be Done with Political Ecology? -- 1. Why Political Ecology Has to Let Go of Nature -- First, Get Out of the Cave -- Ecological Crisis or Crisis of Objectivity? -- The End of Nature -- The Pitfall of \"Social Representations\" of Nature -- The Fragile Aid of Comparative Anthropology -- What Successor for the Bicameral Collective? -- 2. How to Bring the Collective Together -- Difficulties in Convoking the Collective -- First Division: Learning to Be Circumspect with Spokespersons -- Second Division: Associations of Humans and Nonhumans -- Third Division between Humans and Nonhumans: Reality and Recalcitrance -- A More or Less Articulated Collective -- The Return to Civil Peace -- 3. A New Separation of Powers -- Some Disadvantages of the Concepts of Fact and Value -- The Power to Take into Account and the Power to Put in Order -- The Collective's Two Powers of Representation -- Verifying That the Essential Guarantees Have Been Maintained -- A New Exteriority -- 4. Skills for the Collective -- The Third Nature and the Quarrel between the Two \"Eco\" Sciences -- Contribution of the Professions to the Procedures of the Houses -- The Work of the Houses -- The Common Dwelling, the Oikos -- 5. Exploring Common Worlds -- Time's Two Arrows -- The Learning Curve -- The Third Power and the Question of the State -- The Exercise of Diplomacy -- War and Peace for the Sciences -- Conclusion: What Is to Be Done? Political Ecology! -- Summary of the Argument (for Readers in a Hurry . . .) -- Glossary -- Notes -- Bibliography -- Index",
+              "date": "2009",
+              "citationKey": "latour2009politics",
+              "shortTitle": "Politics of Nature",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2009politics",
+              "publisher": "Harvard University Press",
+              "place": "Cambridge",
+              "ISBN": "978-0-674-01347-6 978-0-674-03996-4",
+              "numPages": "1",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Catherine",
+                  "lastName": "Porter",
+                  "creatorType": "contributor"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:03:52Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "latour2009politics",
+              "citation-key": "latour2009politics",
+              "itemKey": "IWJVR3QG",
+              "zotero": "zotero://select/library/items/IWJVR3QG",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2009
+                  ]
+                ]
+              },
+              "year": "2009"
+            }
+          },
+          {
+            "id": "latour1993pasteurization",
+            "title": "The pasteurization of France",
+            "meta": "Latour (1993)",
+            "raw": {
+              "key": "288LEKCE",
+              "version": 831,
+              "itemType": "book",
+              "title": "The pasteurization of France",
+              "date": "1993",
+              "citationKey": "latour1993pasteurization",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour1993pasteurization",
+              "publisher": "Harvard Univ. Press",
+              "place": "Cambridge, Mass.",
+              "ISBN": "978-0-674-65761-8 978-0-674-65760-1",
+              "edition": "First Harvard University Press paperback ed",
+              "numPages": "273",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:03:47Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "latour1993pasteurization",
+              "citation-key": "latour1993pasteurization",
+              "itemKey": "288LEKCE",
+              "zotero": "zotero://select/library/items/288LEKCE",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1993
+                  ]
+                ]
+              },
+              "year": "1993"
+            }
+          },
+          {
+            "id": "latour2005making",
+            "title": "Making things public: atmospheres of democracy ; [exhibition at ZKM, Center for Art and Media Karlsruhe 20.03. - 03.10.2005]",
+            "meta": "Latour (2005)",
+            "raw": {
+              "key": "CTK6HQCU",
+              "version": 831,
+              "itemType": "book",
+              "title": "Making things public: atmospheres of democracy ; [exhibition at ZKM, Center for Art and Media Karlsruhe 20.03. - 03.10.2005]",
+              "date": "2005",
+              "citationKey": "latour2005making",
+              "shortTitle": "Making things public",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2005making",
+              "publisher": "MIT Press [u.a.]",
+              "place": "Cambridge, Mass.",
+              "ISBN": "978-0-262-12279-5",
+              "numPages": "1072",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "editor"
+                },
+                {
+                  "firstName": "Peter",
+                  "lastName": "Weibel",
+                  "creatorType": "editor"
+                },
+                {
+                  "name": "Zentrum für Kunst und Medientechnologie Karlsruhe",
+                  "creatorType": "editor"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:03:53Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "latour2005making",
+              "citation-key": "latour2005making",
+              "itemKey": "CTK6HQCU",
+              "zotero": "zotero://select/library/items/CTK6HQCU",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2005
+                  ]
+                ]
+              },
+              "year": "2005"
+            }
+          },
+          {
+            "id": "latour1994we",
+            "title": "We have never been modern",
+            "meta": "Latour (1994)",
+            "raw": {
+              "key": "BHSZTSYB",
+              "version": 831,
+              "itemType": "book",
+              "title": "We have never been modern",
+              "date": "1994",
+              "citationKey": "latour1994we",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour1994we",
+              "publisher": "Harvard Univ. Press",
+              "place": "Cambridge, Mass",
+              "ISBN": "978-0-674-94839-6 978-0-674-94838-9",
+              "edition": "3. print.",
+              "numPages": "157",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:03:49Z",
+              "dateModified": "2026-02-26T20:07:15Z",
+              "id": "latour1994we",
+              "citation-key": "latour1994we",
+              "itemKey": "BHSZTSYB",
+              "zotero": "zotero://select/library/items/BHSZTSYB",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    1994
+                  ]
+                ]
+              },
+              "year": "1994"
+            }
+          },
+          {
+            "id": "latour2024how",
+            "title": "How to inhabit the earth: interviews with Nicolas Truong",
+            "meta": "Latour (2024)",
+            "raw": {
+              "key": "6A4599B8",
+              "version": 830,
+              "itemType": "book",
+              "title": "How to inhabit the earth: interviews with Nicolas Truong",
+              "abstractNote": "In a series of televised interviews broadcast in spring 2022, Bruno Latour explained, in clear and straightforward terms, how humans have changed the planet and why environmental disasters are an intrinsic part of modern life. We have now come to realize that all life depends on a thin skin of our planet that is only few kilometres thick - what scientists call the 'critical zone'. Our capacity to continue to live on a planet we are transforming is now at risk and if we wish to survive as a species, we must put an end to the mechanisms of destruction, rethink our connection to living beings, and face head-on the confrontation between the extractivists who are exploiting the Earth's resources and the ecologists. This poignant reflection on the greatest challenge of our time was also an opportunity for Latour to explain the underlying thread that guided his work throughout his career, from his pathbreaking research on the social construction of scientific knowledge to his last writings on the Anthropocene",
+              "date": "2024",
+              "citationKey": "latour2024how",
+              "shortTitle": "How to inhabit the earth",
+              "language": "eng",
+              "libraryCatalog": "K10plus ISBN",
+              "extra": "Citation Key: latour2024how",
+              "publisher": "Polity",
+              "place": "Cambridge Hoboken, NJ",
+              "ISBN": "978-1-5095-5946-6 978-1-5095-5947-3",
+              "edition": "English edition",
+              "numPages": "103",
+              "creators": [
+                {
+                  "firstName": "Bruno",
+                  "lastName": "Latour",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Nicolas",
+                  "lastName": "Truong",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Rose",
+                  "lastName": "Vidal",
+                  "creatorType": "contributor"
+                },
+                {
+                  "firstName": "Julie",
+                  "lastName": "Rose",
+                  "creatorType": "translator"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "RZD6NFCJ"
+              ],
+              "relations": {},
+              "dateAdded": "2025-12-15T14:04:07Z",
+              "dateModified": "2026-02-26T19:55:50Z",
+              "id": "latour2024how",
+              "citation-key": "latour2024how",
+              "itemKey": "6A4599B8",
+              "zotero": "zotero://select/library/items/6A4599B8",
+              "type": "book",
+              "issued": {
+                "date-parts": [
+                  [
+                    2024
+                  ]
+                ]
+              },
+              "year": "2024"
+            }
+          },
+          {
+            "id": "2025brunoa",
+            "title": "Bruno Latour",
+            "meta": "(2025)",
+            "raw": {
+              "key": "GX4V5I95",
+              "version": 819,
+              "itemType": "encyclopediaArticle",
+              "title": "Bruno Latour",
+              "abstractNote": "Bruno Latour (; French: [latuʁ]; 22 June 1947 – 9 October 2022) was a French philosopher, anthropologist and sociologist. He was especially known for his work in the field of science and technology studies (STS). After teaching at the École des Mines de Paris (Centre de Sociologie de l'Innovation) from 1982 to 2006, he became a professor at Sciences Po Paris (2006–2017), where he was the scientific director of the Sciences Po Medialab. He retired from several university activities in 2017. He was also a Centennial Professor at the London School of Economics.\nLatour is best known for his books We Have Never Been Modern (1991; English translation, 1993), Laboratory Life (with Steve Woolgar, 1979) and Science in Action (1987). Although his studies of scientific practice were at one time associated with social constructionist approaches to the philosophy of science, Latour diverged significantly from such approaches. He was best known for withdrawing from the subjective/objective division and redeveloping the approach to work in practice. Latour said in 2017 that he is interested in helping to rebuild trust in science and that some of the authority of science needs to be regained. Along with Michel Callon, Madeleine Akrich, and John Law, Latour is one of the primary developers of actor–network theory (ANT), a constructionist approach influenced by the ethnomethodology of Harold Garfinkel, the generative semiotics of Algirdas Julien Greimas, and (more recently) the sociology of Émile Durkheim's rival Gabriel Tarde.",
+              "date": "2025-09-25T02:43:26Z",
+              "citationKey": "2025brunoa",
+              "url": "https://en.wikipedia.org/w/index.php?title=Bruno_Latour&oldid=1313239636",
+              "accessDate": "2025-12-15T13:55:42Z",
+              "language": "en",
+              "libraryCatalog": "Wikipedia",
+              "rights": "Creative Commons Attribution-ShareAlike License",
+              "extra": "Page Version ID: 1313239636",
+              "encyclopediaTitle": "Wikipedia",
+              "creators": [],
+              "tags": [],
+              "collections": [],
+              "relations": {},
+              "dateAdded": "2025-12-15T13:55:42Z",
+              "dateModified": "2025-12-15T13:55:43Z",
+              "id": "2025brunoa",
+              "citation-key": "2025brunoa",
+              "itemKey": "GX4V5I95",
+              "zotero": "zotero://select/library/items/GX4V5I95",
+              "type": "encyclopediaArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2025
+                  ]
+                ]
+              },
+              "year": "2025",
+              "URL": "https://en.wikipedia.org/w/index.php?title=Bruno_Latour&oldid=1313239636"
+            }
+          },
+          {
+            "id": "uschold2015ontology",
+            "title": "Ontology and database schema: What’s the difference?",
+            "meta": "Uschold (2015)",
+            "raw": {
+              "key": "U9J4WTH8",
+              "version": 819,
+              "itemType": "journalArticle",
+              "title": "Ontology and database schema: What’s the difference?",
+              "abstractNote": "This paper analyzes the similarities and differences between an ontology (focused on meaning), and a database schema (focused on data). We address questions about purpose, representation, creation, usage and semantics of each. We distill out twenty-ﬁve features that characterize these two representational artifacts, the majority of which are relevant to both. Each has a strong semantic heritage using formal logic to build conceptual models of some subject matter. And while there are differences in 90% of the features, the differences are mostly historical, not technical. We identify pros and cons for each, and notice that there is usually no free lunch. The disadvantage that you think you are getting rid of may show up elsewhere in a different and unexpected way. We close by considering how ontology contributes to enterprise data integration. The emergence of using URIs as global identiﬁers (e.g. in OWL) dramatically enhances data integration as well as schema reuse and sharing. The primary focus on meaning helps ontology break through a lot of unnecessary complexity that exists in large traditional databases and greatly simpliﬁes the process of integration. Ontology is providing a glimmer of light at the end of the tunnel for enterprise-wide data integration.",
+              "date": "2015-12-15",
+              "DOI": "10.3233/AO-150158",
+              "citationKey": "uschold2015ontology",
+              "url": "https://www.medra.org/servlet/aliasResolver?alias=iospress&doi=10.3233/AO-150158",
+              "accessDate": "2023-01-25T16:01:55Z",
+              "shortTitle": "Ontology and database schema",
+              "language": "en",
+              "libraryCatalog": "DOI.org (Crossref)",
+              "volume": "10",
+              "pages": "243-258",
+              "publicationTitle": "Applied Ontology",
+              "ISSN": "18758533, 15705838",
+              "issue": "3-4",
+              "journalAbbreviation": "AO",
+              "creators": [
+                {
+                  "firstName": "Michael",
+                  "lastName": "Uschold",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "MBMM77SH"
+              ],
+              "relations": {},
+              "dateAdded": "2023-01-25T16:01:55Z",
+              "dateModified": "2025-12-04T12:41:43Z",
+              "id": "uschold2015ontology",
+              "citation-key": "uschold2015ontology",
+              "itemKey": "U9J4WTH8",
+              "zotero": "zotero://select/library/items/U9J4WTH8",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2015
+                  ]
+                ]
+              },
+              "year": "2015",
+              "container-title": "Applied Ontology",
+              "container-title-short": "AO",
+              "URL": "https://www.medra.org/servlet/aliasResolver?alias=iospress&doi=10.3233/AO-150158"
+            }
+          },
+          {
+            "id": "rinbergPrivacyWhenEveryone2022",
+            "title": "Privacy when Everyone is Watching: An SOK on Anonymity on the Blockchain",
+            "meta": "Rinberg (2022)",
+            "raw": {
+              "key": "39LPEIM8",
+              "version": 819,
+              "itemType": "journalArticle",
+              "title": "Privacy when Everyone is Watching: An SOK on Anonymity on the Blockchain",
+              "date": "2022",
+              "citationKey": "rinbergPrivacyWhenEveryone2022",
+              "shortTitle": "Privacy when Everyone is Watching",
+              "libraryCatalog": "Google Scholar",
+              "publicationTitle": "Cryptology ePrint Archive",
+              "creators": [
+                {
+                  "firstName": "Roy",
+                  "lastName": "Rinberg",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Nilaksh",
+                  "lastName": "Agarwal",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-15T20:49:45Z",
+              "dateModified": "2025-12-02T15:01:39Z",
+              "id": "rinbergPrivacyWhenEveryone2022",
+              "citation-key": "rinbergPrivacyWhenEveryone2022",
+              "itemKey": "39LPEIM8",
+              "zotero": "zotero://select/library/items/39LPEIM8",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2022
+                  ]
+                ]
+              },
+              "year": "2022",
+              "container-title": "Cryptology ePrint Archive"
+            }
+          },
+          {
+            "id": "tiwanaBoundedRationalityBias2007",
+            "title": "The bounded rationality bias in managerial valuation of real options: Theory and evidence from IT projects",
+            "meta": "Tiwana (2007)",
+            "raw": {
+              "key": "RMKZK7P7",
+              "version": 819,
+              "itemType": "journalArticle",
+              "title": "The bounded rationality bias in managerial valuation of real options: Theory and evidence from IT projects",
+              "date": "2007",
+              "citationKey": "tiwanaBoundedRationalityBias2007",
+              "shortTitle": "The bounded rationality bias in managerial valuation of real options",
+              "libraryCatalog": "Google Scholar",
+              "volume": "38",
+              "publisher": "Wiley Online Library",
+              "pages": "157–181",
+              "publicationTitle": "Decision Sciences",
+              "issue": "1",
+              "creators": [
+                {
+                  "firstName": "Amrit",
+                  "lastName": "Tiwana",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Jijie",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Mark",
+                  "lastName": "Keil",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Punit",
+                  "lastName": "Ahluwalia",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:08:11Z",
+              "dateModified": "2025-12-02T15:01:39Z",
+              "id": "tiwanaBoundedRationalityBias2007",
+              "citation-key": "tiwanaBoundedRationalityBias2007",
+              "itemKey": "RMKZK7P7",
+              "zotero": "zotero://select/library/items/RMKZK7P7",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2007
+                  ]
+                ]
+              },
+              "year": "2007",
+              "container-title": "Decision Sciences"
+            }
+          },
+          {
+            "id": "jangApplicationRealOptions2011",
+            "title": "The application of real options theory in defense R&D projects: An eight-fold sequential compound option model",
+            "meta": "Jang (2011)",
+            "raw": {
+              "key": "PSWGIRMB",
+              "version": 818,
+              "itemType": "journalArticle",
+              "title": "The application of real options theory in defense R&D projects: An eight-fold sequential compound option model",
+              "date": "2011",
+              "citationKey": "jangApplicationRealOptions2011",
+              "shortTitle": "The application of real options theory in defense R&D projects",
+              "libraryCatalog": "Google Scholar",
+              "volume": "8",
+              "publisher": "World Scientific",
+              "pages": "95–112",
+              "publicationTitle": "International Journal of Innovation and Technology Management",
+              "issue": "01",
+              "creators": [
+                {
+                  "firstName": "Won-Joon",
+                  "lastName": "Jang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Jeong-Dong",
+                  "lastName": "Lee",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:08:11Z",
+              "dateModified": "2025-12-02T15:01:39Z",
+              "id": "jangApplicationRealOptions2011",
+              "citation-key": "jangApplicationRealOptions2011",
+              "itemKey": "PSWGIRMB",
+              "zotero": "zotero://select/library/items/PSWGIRMB",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2011
+                  ]
+                ]
+              },
+              "year": "2011",
+              "container-title": "International Journal of Innovation and Technology Management"
+            }
+          },
+          {
+            "id": "brandonValuationIlliquidAssets2022",
+            "title": "The Valuation of Illiquid Assets: A Focus on Private Equity and Real Estate",
+            "meta": "Brandon (2022)",
+            "raw": {
+              "key": "6Y6DNIBE",
+              "version": 818,
+              "itemType": "journalArticle",
+              "title": "The Valuation of Illiquid Assets: A Focus on Private Equity and Real Estate",
+              "date": "2022",
+              "citationKey": "brandonValuationIlliquidAssets2022",
+              "shortTitle": "The Valuation of Illiquid Assets",
+              "libraryCatalog": "Google Scholar",
+              "publisher": "Institutional Investor Journals Umbrella",
+              "publicationTitle": "The Journal of Alternative Investments",
+              "creators": [
+                {
+                  "firstName": "Rajna Gibson",
+                  "lastName": "Brandon",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Martin",
+                  "lastName": "Hoesli",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Jiajun",
+                  "lastName": "Shan",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T12:51:56Z",
+              "dateModified": "2025-12-02T15:01:39Z",
+              "id": "brandonValuationIlliquidAssets2022",
+              "citation-key": "brandonValuationIlliquidAssets2022",
+              "itemKey": "6Y6DNIBE",
+              "zotero": "zotero://select/library/items/6Y6DNIBE",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2022
+                  ]
+                ]
+              },
+              "year": "2022",
+              "container-title": "The Journal of Alternative Investments"
+            }
+          },
+          {
+            "id": "borissioukRealOptionApproach2001",
+            "title": "Real option approach to R&D project valuation: Case study at Serono International SA",
+            "meta": "Borissiouk (2001)",
+            "raw": {
+              "key": "V5N6QM43",
+              "version": 818,
+              "itemType": "journalArticle",
+              "title": "Real option approach to R&D project valuation: Case study at Serono International SA",
+              "date": "2001",
+              "citationKey": "borissioukRealOptionApproach2001",
+              "shortTitle": "Real option approach to R&D project valuation",
+              "libraryCatalog": "Google Scholar",
+              "volume": "8",
+              "publisher": "Financier, Inc.",
+              "pages": "7–72",
+              "publicationTitle": "The Financier",
+              "issue": "1-4",
+              "creators": [
+                {
+                  "firstName": "Olena",
+                  "lastName": "Borissiouk",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Janos",
+                  "lastName": "Peli",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:08:11Z",
+              "dateModified": "2025-12-02T15:01:39Z",
+              "id": "borissioukRealOptionApproach2001",
+              "citation-key": "borissioukRealOptionApproach2001",
+              "itemKey": "V5N6QM43",
+              "zotero": "zotero://select/library/items/V5N6QM43",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2001
+                  ]
+                ]
+              },
+              "year": "2001",
+              "container-title": "The Financier"
+            }
+          },
+          {
+            "id": "streetRealOptionsLogic2011a",
+            "title": "Real options logic in R&D project valuation: a useful tool for decision making through the lens of heuristics",
+            "meta": "Street (2011)",
+            "raw": {
+              "key": "I9NEIHH4",
+              "version": 818,
+              "itemType": "journalArticle",
+              "title": "Real options logic in R&D project valuation: a useful tool for decision making through the lens of heuristics",
+              "date": "2011",
+              "citationKey": "streetRealOptionsLogic2011a",
+              "shortTitle": "Real options logic in R&D project valuation",
+              "libraryCatalog": "Google Scholar",
+              "publisher": "Emerald Group Publishing Limited",
+              "publicationTitle": "Journal of strategy and management",
+              "creators": [
+                {
+                  "firstName": "Jeffrey N.",
+                  "lastName": "Street",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Mukunthan",
+                  "lastName": "Santhanakrishnan",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:08:11Z",
+              "dateModified": "2025-12-02T15:01:39Z",
+              "id": "streetRealOptionsLogic2011a",
+              "citation-key": "streetRealOptionsLogic2011a",
+              "itemKey": "I9NEIHH4",
+              "zotero": "zotero://select/library/items/I9NEIHH4",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2011
+                  ]
+                ]
+              },
+              "year": "2011",
+              "container-title": "Journal of strategy and management"
+            }
+          },
+          {
+            "id": "perlitzRealOptionsValuation1999",
+            "title": "Real options valuation: the new frontier in R&D project evaluation?",
+            "meta": "Perlitz (1999)",
+            "raw": {
+              "key": "FY683RUK",
+              "version": 818,
+              "itemType": "journalArticle",
+              "title": "Real options valuation: the new frontier in R&D project evaluation?",
+              "date": "1999",
+              "citationKey": "perlitzRealOptionsValuation1999",
+              "shortTitle": "Real options valuation",
+              "libraryCatalog": "Google Scholar",
+              "volume": "29",
+              "publisher": "Wiley Online Library",
+              "pages": "255–270",
+              "publicationTitle": "R&d Management",
+              "issue": "3",
+              "creators": [
+                {
+                  "firstName": "Manfred",
+                  "lastName": "Perlitz",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Thorsten",
+                  "lastName": "Peske",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Randolf",
+                  "lastName": "Schrank",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:08:11Z",
+              "dateModified": "2025-12-02T15:01:39Z",
+              "id": "perlitzRealOptionsValuation1999",
+              "citation-key": "perlitzRealOptionsValuation1999",
+              "itemKey": "FY683RUK",
+              "zotero": "zotero://select/library/items/FY683RUK",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    1999
+                  ]
+                ]
+              },
+              "year": "1999",
+              "container-title": "R&d Management"
+            }
+          },
+          {
+            "id": "streetRealOptionsLogic2011",
+            "title": "Real options logic in R&D project valuation: A useful tool for decision making through the lens of heuristics",
+            "meta": "Street (2011)",
+            "raw": {
+              "key": "KZT76YQA",
+              "version": 818,
+              "itemType": "journalArticle",
+              "title": "Real options logic in R&D project valuation: A useful tool for decision making through the lens of heuristics",
+              "abstractNote": "Purpose – Decision making for acceptance of an R&D project occurs under uncertainty and may involve predominantly quantitative analyses, such as net‐present value, predominantly intuitive analyses, such as real options logic, or some combination thereof. This paper attempts to bring together two concepts of decision theory, i.e. heuristics and framing, and real options logic into one integrated view relative to R&D project valuation. It is believed that the integration of theory helps explain expected and unexpected decisions resulting from the R&D project valuation process. Design/methodology/approach – It is proposed here that, under a typical R&D project review, aspects of two theoretical concepts integrate to aid project valuation and decision making. The aim of this paper is to develop a research framework leading to advancement in the understanding of the relationship of heuristic principles from decision theory and the valuation methodology of real options logic. Findings – As a conceptual paper, propositions and a research model representing the conceptual framework are presented. Research limitations/implications – Stemming from the propositions and research model, it is believed that the degree of influence that heuristics potentially exhibit on real options logic can be successfully measured. Confirming the degree of influence is a matter for future empirical research. Originality/value – The originality of this paper is to develop a research framework leading to advancement in the understanding of the relationship of heuristic principles from decision theory and the valuation methodology of real options logic. In this framework, heuristics has been positioned as a moderator affecting project valuation derived by real options logic.",
+              "date": "2011-01-01",
+              "DOI": "10.1108/17554251111128628",
+              "citationKey": "streetRealOptionsLogic2011",
+              "url": "https://doi.org/10.1108/17554251111128628",
+              "accessDate": "2022-12-12T13:06:35Z",
+              "shortTitle": "Real options logic in R&D project valuation",
+              "libraryCatalog": "Emerald Insight",
+              "volume": "4",
+              "publisher": "Emerald Group Publishing Limited",
+              "pages": "155-171",
+              "publicationTitle": "Journal of Strategy and Management",
+              "ISSN": "1755-425X",
+              "issue": "2",
+              "creators": [
+                {
+                  "firstName": "Jeffrey N.",
+                  "lastName": "Street",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Mukunthan",
+                  "lastName": "Santhanakrishnan",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Decision making",
+                  "type": 1
+                },
+                {
+                  "tag": "Project evaluation",
+                  "type": 1
+                },
+                {
+                  "tag": "Research and development",
+                  "type": 1
+                },
+                {
+                  "tag": "Return on investment",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:06:35Z",
+              "dateModified": "2025-12-02T15:01:39Z",
+              "id": "streetRealOptionsLogic2011",
+              "citation-key": "streetRealOptionsLogic2011",
+              "itemKey": "KZT76YQA",
+              "zotero": "zotero://select/library/items/KZT76YQA",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2011
+                  ]
+                ]
+              },
+              "year": "2011",
+              "container-title": "Journal of Strategy and Management",
+              "URL": "https://doi.org/10.1108/17554251111128628"
+            }
+          },
+          {
+            "id": "herathRealoptionValuationResearch2005",
+            "title": "Real‐option valuation of research and development investments: Implications for performance measurement",
+            "meta": "Herath (2005)",
+            "raw": {
+              "key": "9QKHX8L9",
+              "version": 818,
+              "itemType": "journalArticle",
+              "title": "Real‐option valuation of research and development investments: Implications for performance measurement",
+              "abstractNote": "Purpose – Aims to promote an integrated performance measurement system. Design/methodology/approach – The literature on R&D performance measurement identifies the need for an integrated performance measurement system for strategy implementation. Develops a theoretical framework for R&D performance measures, incorporating real options to define strategic net present value, which values the plan to make R&D investments. Findings – Real options techniques can be used to value managers' options to shelter investments from adverse effects and exploit upside potential. The shift in valuation paradigms from a naïve net present value model to active risk management implicit in real options requires performance measures that reflect real option value and defines strategic value created (SVC), which is based on residual income concepts. Since residual income is known to be superior to ROI in motivating goal congruence, infers that SVC has similar advantages. Originality/value – Illustrates how SVC would be used as a performance measure for a new drug in the commercialization stage, considers several relevant questions and discusses how SVC could be used in a firm's balanced scorecard.",
+              "date": "2005-01-01",
+              "DOI": "10.1108/02686900510570704",
+              "citationKey": "herathRealoptionValuationResearch2005",
+              "url": "https://doi.org/10.1108/02686900510570704",
+              "accessDate": "2022-12-12T13:06:02Z",
+              "shortTitle": "Real‐option valuation of research and development investments",
+              "libraryCatalog": "Emerald Insight",
+              "volume": "20",
+              "publisher": "Emerald Group Publishing Limited",
+              "pages": "55-72",
+              "publicationTitle": "Managerial Auditing Journal",
+              "ISSN": "0268-6902",
+              "issue": "1",
+              "creators": [
+                {
+                  "firstName": "Hemantha S.B.",
+                  "lastName": "Herath",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Wayne G.",
+                  "lastName": "Bremser",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Gerald",
+                  "lastName": "Vinten",
+                  "creatorType": "editor"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Research and development",
+                  "type": 1
+                },
+                {
+                  "tag": "Income",
+                  "type": 1
+                },
+                {
+                  "tag": "Performance measures",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:06:02Z",
+              "dateModified": "2025-12-02T15:01:39Z",
+              "id": "herathRealoptionValuationResearch2005",
+              "citation-key": "herathRealoptionValuationResearch2005",
+              "itemKey": "9QKHX8L9",
+              "zotero": "zotero://select/library/items/9QKHX8L9",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2005
+                  ]
+                ]
+              },
+              "year": "2005",
+              "container-title": "Managerial Auditing Journal",
+              "URL": "https://doi.org/10.1108/02686900510570704"
+            }
+          },
+          {
+            "id": "carlssonFuzzyRealOptions2005",
+            "title": "A fuzzy real options model for R&D project evaluation",
+            "meta": "Carlsson (2005)",
+            "raw": {
+              "key": "TEJN8FUJ",
+              "version": 819,
+              "itemType": "conferencePaper",
+              "title": "A fuzzy real options model for R&D project evaluation",
+              "date": "2005",
+              "citationKey": "carlssonFuzzyRealOptions2005",
+              "libraryCatalog": "Google Scholar",
+              "pages": "1650–1654",
+              "proceedingsTitle": "Proceedings of the Eleventh IFSA World Congress, Beijing, China",
+              "creators": [
+                {
+                  "firstName": "Christer",
+                  "lastName": "Carlsson",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Robert",
+                  "lastName": "Fullér",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Péter",
+                  "lastName": "Majlender",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:08:11Z",
+              "dateModified": "2025-12-02T15:01:38Z",
+              "id": "carlssonFuzzyRealOptions2005",
+              "citation-key": "carlssonFuzzyRealOptions2005",
+              "itemKey": "TEJN8FUJ",
+              "zotero": "zotero://select/library/items/TEJN8FUJ",
+              "type": "conferencePaper",
+              "issued": {
+                "date-parts": [
+                  [
+                    2005
+                  ]
+                ]
+              },
+              "year": "2005"
+            }
+          },
+          {
+            "id": "schneiderMakingRealOptions2008",
+            "title": "Making real options work for practitioners: a generic model for valuing R&D projects",
+            "meta": "Schneider (2008)",
+            "raw": {
+              "key": "C9QBAWLZ",
+              "version": 819,
+              "itemType": "journalArticle",
+              "title": "Making real options work for practitioners: a generic model for valuing R&D projects",
+              "date": "2008",
+              "citationKey": "schneiderMakingRealOptions2008",
+              "shortTitle": "Making real options work for practitioners",
+              "libraryCatalog": "Google Scholar",
+              "volume": "38",
+              "publisher": "Wiley Online Library",
+              "pages": "85–106",
+              "publicationTitle": "R&d Management",
+              "issue": "1",
+              "creators": [
+                {
+                  "firstName": "Malte",
+                  "lastName": "Schneider",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Mauricio",
+                  "lastName": "Tejeda",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Gabriel",
+                  "lastName": "Dondi",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Florian",
+                  "lastName": "Herzog",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Simon",
+                  "lastName": "Keel",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Hans",
+                  "lastName": "Geering",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:08:11Z",
+              "dateModified": "2025-12-02T15:01:38Z",
+              "id": "schneiderMakingRealOptions2008",
+              "citation-key": "schneiderMakingRealOptions2008",
+              "itemKey": "C9QBAWLZ",
+              "zotero": "zotero://select/library/items/C9QBAWLZ",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2008
+                  ]
+                ]
+              },
+              "year": "2008",
+              "container-title": "R&d Management"
+            }
+          },
+          {
+            "id": "faulknerApplyingOptionsThinkingto1996",
+            "title": "Applying ‘options thinking’to R&D valuation",
+            "meta": "Faulkner (1996)",
+            "raw": {
+              "key": "4Q56B6DA",
+              "version": 819,
+              "itemType": "journalArticle",
+              "title": "Applying ‘options thinking’to R&D valuation",
+              "date": "1996",
+              "citationKey": "faulknerApplyingOptionsThinkingto1996",
+              "libraryCatalog": "Google Scholar",
+              "volume": "39",
+              "publisher": "Taylor & Francis",
+              "pages": "50–56",
+              "publicationTitle": "Research-Technology Management",
+              "issue": "3",
+              "creators": [
+                {
+                  "firstName": "Terrence W.",
+                  "lastName": "Faulkner",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:08:11Z",
+              "dateModified": "2025-12-02T15:01:38Z",
+              "id": "faulknerApplyingOptionsThinkingto1996",
+              "citation-key": "faulknerApplyingOptionsThinkingto1996",
+              "itemKey": "4Q56B6DA",
+              "zotero": "zotero://select/library/items/4Q56B6DA",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    1996
+                  ]
+                ]
+              },
+              "year": "1996",
+              "container-title": "Research-Technology Management"
+            }
+          },
+          {
+            "id": "herathEconomicAnalysisRD1999",
+            "title": "Economic analysis of R&D projects: an options approach",
+            "meta": "Herath (1999)",
+            "raw": {
+              "key": "DQX3FZ3X",
+              "version": 819,
+              "itemType": "journalArticle",
+              "title": "Economic analysis of R&D projects: an options approach",
+              "date": "1999",
+              "citationKey": "herathEconomicAnalysisRD1999",
+              "shortTitle": "Economic analysis of R&D projects",
+              "libraryCatalog": "Google Scholar",
+              "volume": "44",
+              "publisher": "Taylor & Francis",
+              "pages": "1–35",
+              "publicationTitle": "The Engineering Economist",
+              "issue": "1",
+              "creators": [
+                {
+                  "firstName": "Hemantha SB",
+                  "lastName": "Herath",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Chan S.",
+                  "lastName": "Park",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T13:08:11Z",
+              "dateModified": "2025-12-02T15:01:38Z",
+              "id": "herathEconomicAnalysisRD1999",
+              "citation-key": "herathEconomicAnalysisRD1999",
+              "itemKey": "DQX3FZ3X",
+              "zotero": "zotero://select/library/items/DQX3FZ3X",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    1999
+                  ]
+                ]
+              },
+              "year": "1999",
+              "container-title": "The Engineering Economist"
+            }
+          },
+          {
+            "id": "budhrajaHowRiskyAre2005",
+            "title": "How Risky Are Illiquid Investments?",
+            "meta": "Budhraja (2005)",
+            "raw": {
+              "key": "URFLVU3S",
+              "version": 818,
+              "itemType": "journalArticle",
+              "title": "How Risky Are Illiquid Investments?",
+              "date": "2005",
+              "citationKey": "budhrajaHowRiskyAre2005",
+              "libraryCatalog": "Google Scholar",
+              "volume": "31",
+              "publisher": "Institutional Investor Journals Umbrella",
+              "pages": "83–93",
+              "publicationTitle": "The Journal of Portfolio Management",
+              "issue": "2",
+              "creators": [
+                {
+                  "firstName": "Vineet",
+                  "lastName": "Budhraja",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Rui JP",
+                  "lastName": "de Figueiredo",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T12:51:56Z",
+              "dateModified": "2025-12-02T15:01:38Z",
+              "id": "budhrajaHowRiskyAre2005",
+              "citation-key": "budhrajaHowRiskyAre2005",
+              "itemKey": "URFLVU3S",
+              "zotero": "zotero://select/library/items/URFLVU3S",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2005
+                  ]
+                ]
+              },
+              "year": "2005",
+              "container-title": "The Journal of Portfolio Management"
+            }
+          },
+          {
+            "id": "boyleEstimatingUnobservableValuation2009",
+            "title": "Estimating unobservable valuation parameters for illiquid assets",
+            "meta": "Boyle (2009)",
+            "raw": {
+              "key": "N8QP2S5T",
+              "version": 818,
+              "itemType": "journalArticle",
+              "title": "Estimating unobservable valuation parameters for illiquid assets",
+              "date": "2009",
+              "citationKey": "boyleEstimatingUnobservableValuation2009",
+              "libraryCatalog": "Google Scholar",
+              "volume": "49",
+              "publisher": "Wiley Online Library",
+              "pages": "465–479",
+              "publicationTitle": "Accounting & Finance",
+              "issue": "3",
+              "creators": [
+                {
+                  "firstName": "Glenn",
+                  "lastName": "Boyle",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Graeme",
+                  "lastName": "Guthrie",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Neil",
+                  "lastName": "Quigley",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T12:51:56Z",
+              "dateModified": "2025-12-02T15:01:38Z",
+              "id": "boyleEstimatingUnobservableValuation2009",
+              "citation-key": "boyleEstimatingUnobservableValuation2009",
+              "itemKey": "N8QP2S5T",
+              "zotero": "zotero://select/library/items/N8QP2S5T",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2009
+                  ]
+                ]
+              },
+              "year": "2009",
+              "container-title": "Accounting & Finance"
+            }
+          },
+          {
+            "id": "tebaldiIlliquidAssetsOptimal2006",
+            "title": "Illiquid assets and optimal portfolio choice",
+            "meta": "Tebaldi (2006)",
+            "raw": {
+              "key": "S9EE9PSS",
+              "version": 818,
+              "itemType": "journalArticle",
+              "title": "Illiquid assets and optimal portfolio choice",
+              "date": "2006",
+              "citationKey": "tebaldiIlliquidAssetsOptimal2006",
+              "libraryCatalog": "Google Scholar",
+              "publicationTitle": "Available at SSRN 938959",
+              "creators": [
+                {
+                  "firstName": "Claudio",
+                  "lastName": "Tebaldi",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Eduardo S.",
+                  "lastName": "Schwartz",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "N63CGZP3"
+              ],
+              "relations": {},
+              "dateAdded": "2022-12-12T12:51:56Z",
+              "dateModified": "2025-12-02T15:01:38Z",
+              "id": "tebaldiIlliquidAssetsOptimal2006",
+              "citation-key": "tebaldiIlliquidAssetsOptimal2006",
+              "itemKey": "S9EE9PSS",
+              "zotero": "zotero://select/library/items/S9EE9PSS",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2006
+                  ]
+                ]
+              },
+              "year": "2006",
+              "container-title": "Available at SSRN 938959"
+            }
+          },
+          {
+            "id": "W3CSemanticWeb",
+            "title": "W3C Semantic Web Best Practices and Deployment Working Group",
+            "meta": "",
+            "raw": {
+              "key": "CZDK4HHW",
+              "version": 825,
+              "itemType": "webpage",
+              "title": "W3C Semantic Web Best Practices and Deployment Working Group",
+              "citationKey": "W3CSemanticWeb",
+              "url": "https://www.w3.org/2001/sw/BestPractices/",
+              "accessDate": "2023-01-25T16:01:58Z",
+              "creators": [],
+              "tags": [],
+              "collections": [
+                "MBMM77SH"
+              ],
+              "relations": {},
+              "dateAdded": "2023-01-25T16:01:58Z",
+              "dateModified": "2023-01-25T16:01:58Z",
+              "id": "W3CSemanticWeb",
+              "citation-key": "W3CSemanticWeb",
+              "itemKey": "CZDK4HHW",
+              "zotero": "zotero://select/library/items/CZDK4HHW",
+              "type": "webpage",
+              "URL": "https://www.w3.org/2001/sw/BestPractices/"
+            }
+          }
+        ],
+        "cachedAt": 1777115427976,
+        "source": "local-api"
+      }
+    }
+  }
+}

@@ -122,3 +122,27 @@ See CLAUDE.md for format and conventions.
 **[[RES - Removed tp.file.rename() from all node templates. Aliases alone solve the autocomplete problem; filename length is addressed by user convention rather than automation.]]**
 
 **[[RES - Switched to a Datacore button in each node template for alias writing and filename truncation. Button is user-triggered (no creation race), self-hiding once aliases are populated, uses app.fileManager.processFrontMatter and app.fileManager.renameFile. Templater file regex templates disabled; DG plugin continues applying body structure via core Templates.]]**
+
+---
+
+## 2026-04-23 — RES nodes link to SRC via frontmatter
+
+**[[QUE - Should RES nodes reference their supporting SRC (EXP or @ publication) in frontmatter or in the note body?]]**
+
+**[[CLM - Frontmatter is preferable: it is queryable in Bases/Datacore, consistent with how EXP nodes store structured relationships (targetQuestionOrHyp, rel_* keys), and keeps the epistemic link machine-readable.]]**
+**[[EVD - EXP nodes already use named frontmatter fields for their structured links to RES and QUE nodes; body wikilinks are reserved for prose annotation.]]**
+
+**[[CLM - The field should be named supported_by rather than source, because "source" is ambiguous (data provenance vs. citation), while supported_by expresses the epistemic relationship explicitly.]]**
+
+**[[RES - Added supported_by: list field to RES node template frontmatter. Values are wikilinks to EXP or @ nodes. Prose context about those sources continues to live in ## Grounding Context in the note body.]]**
+
+---
+
+## 2026-04-24 — Move aliasing button to bottom of node templates
+
+**[[HYP - The NodeSetup aliasing button at the top of node templates confronts users with a code block immediately on node creation.]]**
+
+**[[CLM - Moving the button to the bottom of each template means the cursor lands on the first content section instead, and the button remains accessible by scrolling down.]]**
+**[[EVD - The button is self-hiding once aliases are set, so it adds no lasting clutter at the bottom.]]**
+
+**[[RES - Moved NodeSetup datacorejsx button to the bottom of Result.md, Experiment.md, and the RES instance template. _Discourse Node.md is a bare button snippet with no sections and was left unchanged.]]**

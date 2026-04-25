@@ -1,7 +1,19 @@
 ---
-aliases:
-  - test 002
+nodeTypeId: node_i7PzyKw2NfkA8asBfxeey
+tags:
+contributors:
+supported_by:
+  - 
 ---
+
+## Summary
+
+
+## Grounding Context
+
+
+## Snippets
+
 ```datacorejsx
 return function NodeSetup() {
   const current = dc.useCurrentFile();
@@ -28,13 +40,4 @@ return function NodeSetup() {
   return <button onClick={handleClick}>Save full title as alias</button>;
 }
 ```
-
-[[RES - testing result node template]]
-
-#res-candidate testing candidate nodes
-
-[[@fake paper]]
- 
-
-[[EXP - test experiment]]
 
