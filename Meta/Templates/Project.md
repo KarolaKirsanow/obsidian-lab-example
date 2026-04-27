@@ -233,3 +233,63 @@ return function View() {
   );
 }
 ```
+# Project Meetings
+
+```datacorejsx
+return function ProjectMeetings() {
+  const current = dc.useCurrentFile();
+  const name = current.$name;
+
+  const pages = dc.useQuery('@page');
+
+  const meetings = dc.useMemo(() =>
+    pages
+      .filter(p => {
+        const path = String(p.$path);
+        if (path.includes("DiscourseGraph")) return false;
+        if (path.includes("Daily Notes")) return false;
+        if (path.includes("Meta")) return false;
+        const proj = p.value("project");
+        if (!proj) return false;
+        return String(proj).includes(name);
+      })
+      .sort((a, b) => {
+        const da = String(a.value("date") || a.$name);
+        const db = String(b.value("date") || b.$name);
+        return db.localeCompare(da);
+      }),
+    [pages, name]
+  );
+
+  if (meetings.length === 0)
+    return (
+      <p>
+        <em>
+          No meetings yet. Create a meeting note with{" "}
+          <code>{"project: [[" + name + "]]"}</code> in its frontmatter.
+        </em>
+      </p>
+    );
+
+  return (
+    <ul>
+      {meetings.map((p, i) => {
+        const href = String(p.$path).replace(/\.md$/, "");
+        const date = p.value("date");
+        return (
+          <li key={i}>
+            <a href={href} className="internal-link" data-href={href}>
+              {p.$name}
+            </a>
+            {date && (
+              <span style={{ opacity: 0.55, fontSize: "0.85em", marginLeft: "0.5em" }}>
+                {String(date).substring(0, 10)}
+              </span>
+            )}
+          </li>
+        );
+      })}
+    </ul>
+  );
+}
+```

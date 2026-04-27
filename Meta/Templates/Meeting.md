@@ -1,3 +1,8 @@
+---
+series:
+date:
+attendees:
+---
 # Resources
 
 **Zoom link:**

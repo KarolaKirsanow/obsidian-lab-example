@@ -202,6 +202,26 @@ See CLAUDE.md for format and conventions.
 
 ---
 
+## 2026-04-27 — Meeting-to-project affiliation via frontmatter vs. daily note inline field
+
+**[[HYP - Adding project: frontmatter to meeting notes is the right way to affiliate a meeting with a project.]]**
+
+**[[CLM - Meetings either belong to one project (use project: frontmatter on the meeting note) or to no project (captured by #🤝MeetingLog:: on the daily note alone). The two cases are not in conflict: all meetings flow through the daily note log; only project-affiliated ones additionally carry project: metadata.]]**
+
+**[[RES - Meeting.md template gets a project: frontmatter field. The # Project Meetings section in Project.md gets a Datacore query filtering meeting notes where project == current page name. The global 00 Meeting Log continues to aggregate from daily note MeetingLog:: entries.]]**
+
+---
+
+## 2026-04-27 — Recurring meetings: index note + per-instance notes
+
+**[[QUE - What is the best strategy for recurring meetings — one note with a log, or multiple notes?]]**
+
+**[[CLM - An index note per series plus one note per instance gives the best of both: the index is the stable face of the series (linkable, carries project: frontmatter, holds standing agenda and zoom link); instance notes are individually linkable for citation in RES/EXP nodes.]]**
+
+**[[RES - Two templates: Meeting Series.md (index, has project: frontmatter, Datacore query collecting instances via series: field) and Meeting.md (instance, has series: and date: instead of project:). Project Meetings query on Project.md picks up series index notes only. Global Meeting Log picks up instance notes via daily note MeetingLog:: entries.]]**
+
+---
+
 ## 2026-04-27 — Project Template: Todos, Issues query, and Project Log promoted from test page
 
 **[[HYP - The Todos aggregator, Issues in this Project query, and Project Log with entry button are ready to move from the test page into the shared Project.md template.]]**

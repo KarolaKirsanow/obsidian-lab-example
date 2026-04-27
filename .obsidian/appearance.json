@@ -2,5 +2,7 @@
   "interfaceFontFamily": "Segoe UI,Segoe UI Emoji",
   "textFontFamily": "Calibri",
   "monospaceFontFamily": "Consolas",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "log-callout"
+  ]
 }
