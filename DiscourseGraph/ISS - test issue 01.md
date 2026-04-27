@@ -4,7 +4,7 @@ status:
 lead:
 contributors:
 targetQuestionOrHyp:
-project:
+project: PRJ - Horizontal Dashboard test
 ---
 
 # Resources

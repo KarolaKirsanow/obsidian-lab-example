@@ -4,7 +4,7 @@ status:
 lead:
 contributors:
 targetQuestionOrHyp:
-project:
+project: PRJ - Horizontal Dashboard test
 aliases:
   - EXP - test experiment
 ---
@@ -44,6 +44,8 @@ Benchling:
 
 ![[Results.base#Results from this Experiment]]
 # Todos
+
+- [ ] #task redo gels
 ```tasks
 not done
 path includes {{query.file.path}}

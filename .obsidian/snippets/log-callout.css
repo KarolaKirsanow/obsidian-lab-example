@@ -1,0 +1,21 @@
+/* [!log] callout — full-width horizontal band for log sections */
+
+.callout[data-callout="log"] {
+  background-color: #7a5c2e33;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 14px;
+  margin: 1.4em 0 0.5em 0;
+}
+
+.callout[data-callout="log"] .callout-title {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: var(--text-normal);
+  gap: 8px;
+}
+
+.callout[data-callout="log"] .callout-content {
+  padding: 0;
+  margin: 0;
+}

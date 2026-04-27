@@ -181,6 +181,16 @@ See CLAUDE.md for format and conventions.
 
 ---
 
+## 2026-04-27 — Todo flow architecture across PRJ / EXP / ISS / daily notes
+
+**[[HYP - There is no need for a todo query on a PRJ page that collects tasks written on that same PRJ page. All PRJ todos should aggregate from related EXP and ISS nodes; daily note todos should flow into whichever EXP/ISS node they tag.]]**
+
+**[[CLM - This gives a clean three-level flow: daily note todo with [[EXP-X]] wikilink → EXP-X todo section; EXP/ISS todos → PRJ aggregated todo section. PRJ pages are display-only for todos, not authoring surfaces.]]**
+
+**[[RES - PRJ todo section: DatacoreJSX aggregator only (no Tasks plugin block). EXP/ISS todo section: Tasks query with OR clause — tasks in the note itself OR tasks in Daily Notes whose description includes the note filename. Template updated in Experiment.md and Issue.md.]]**
+
+---
+
 ## 2026-04-27 — Hover Reveal plugin for inline tooltips; ℹ glyph for info buttons
 
 **[[QUE - Is there a way to do hover-over info buttons in Obsidian?]]**
@@ -189,3 +199,13 @@ See CLAUDE.md for format and conventions.
 **[[EVD - Alternatives (abbr tag, CSS span data-tooltip) are reading-view-only and require raw HTML or a CSS snippet to look reasonable.]]**
 
 **[[RES - Use Hover Reveal plugin for inline tooltips with ℹ (U+2139, the standard Unicode information symbol) as the visible trigger glyph: [ℹ]{tooltip text here}.]]**
+
+---
+
+## 2026-04-27 — Project Template: Todos, Issues query, and Project Log promoted from test page
+
+**[[HYP - The Todos aggregator, Issues in this Project query, and Project Log with entry button are ready to move from the test page into the shared Project.md template.]]**
+
+**[[CLM - The horizontal dashboard (3-column DatacoreJSX) is not yet promoted — it remains on the test page pending further validation.]]**
+
+**[[RES - Project.md template updated with: (1) # Todos section — a manual entry placeholder followed by the DatacoreJSX aggregator pulling open tasks from related EXP/ISS/RES nodes; (2) # Issues in this Project — Base transclusion via ![[Issues.base#Issues in this Project]]; (3) # Project Log — DatacoreJSX "+ New log entry" button that inserts dated ## headings above the --- separator, followed by the daily-notes aggregator below the separator. Old Tasks plugin block and static ## YYYY-MM-DD placeholder removed.]]**

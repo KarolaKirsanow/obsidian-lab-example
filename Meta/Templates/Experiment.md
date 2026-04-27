@@ -15,17 +15,18 @@ Benchling:
 
 ![[Results.base#Results from this Experiment]]
 # Todos
+
 ```tasks
 not done
-path includes {{query.file.path}}
+(path includes {{query.file.path}}) OR (path includes Daily Notes AND description includes {{query.file.name}})
 ```
-# Log
+> [!log] Log
 
 ## YYYY-MM-DD
 
 
 ---
-## From daily notes
+> [!log] From daily notes
 
 ```datacorejsx
 return function View() {

@@ -1,7 +1,17 @@
 ---
-aliases:
-  - test 002
+nodeTypeId: node_i7PzyKw2NfkA8asBfxeey
+tags:
+contributors:
 ---
+
+## Summary
+
+
+## Grounding Context
+
+[[PRJ - Horizontal Dashboard test]]
+## Snippets
+
 ```datacorejsx
 return function NodeSetup() {
   const current = dc.useCurrentFile();
@@ -29,16 +39,3 @@ return function NodeSetup() {
 }
 ```
 
-[[RES - testing result node template]]
-
-#res-candidate testing candidate nodes
-
-[[@fake paper]]
- 
-
-[[EXP - test experiment]]
-
-[[ISS - test issue 01]]
-[[ISS - test issue 02]]
-
-[[RES - test result for horizontal dashboard project]]

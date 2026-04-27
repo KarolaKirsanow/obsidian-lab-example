@@ -1,8 +1,0 @@
-views:
-  - type: table
-    name: Issue Nodes
-    filters:
-      and:
-        - nodeTypeId == "node_2unblKFUVJkOdOnT8MstZ"
-    order:
-      - file.name

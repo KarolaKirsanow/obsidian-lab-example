@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Issue Nodes
+    filters:
+      and:
+        - nodeTypeId == "node_2unblKFUVJkOdOnT8MstZ"
+    order:
+      - file.name
+  - type: table
+    name: Issues in this Project
+    filters:
+      and:
+        - nodeTypeId == "node_2unblKFUVJkOdOnT8MstZ"
+        - project == this.file.name
+    order:
+      - file.name

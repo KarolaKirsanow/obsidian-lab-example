@@ -1,5 +1,6 @@
 {
   "interfaceFontFamily": "Segoe UI,Segoe UI Emoji",
   "textFontFamily": "Calibri",
-  "monospaceFontFamily": "Consolas"
+  "monospaceFontFamily": "Consolas",
+  "enabledCssSnippets": []
 }

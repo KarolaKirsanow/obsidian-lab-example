@@ -49,6 +49,86 @@ return function CanvasButton() {
 
 # Aims
 
+# Dashboard
+
+```datacorejsx
+return function ProjectDashboard() {
+  const current = dc.useCurrentFile();
+  const name = current.$name;
+
+  const nodes = dc.useQuery('@page and path("DiscourseGraph")');
+
+  const EXP_ID = "node_Qbdr-LbBCb_WjPFNTnjTX";
+  const ISS_ID = "node_2unblKFUVJkOdOnT8MstZ";
+  const RES_ID = "node_i7PzyKw2NfkA8asBfxeey";
+  const CON_ID = "node_J9JyrRTQj6nuJs6IY83Mo";
+
+  const exps = dc.useMemo(() =>
+    nodes.filter(p =>
+      p.value("nodeTypeId") === EXP_ID &&
+      String(p.value("project") || "") === name
+    ), [nodes, name]);
+
+  const issues = dc.useMemo(() =>
+    nodes.filter(p =>
+      p.value("nodeTypeId") === ISS_ID &&
+      String(p.value("project") || "") === name
+    ), [nodes, name]);
+
+  const rescons = dc.useMemo(() =>
+    nodes.filter(p =>
+      [RES_ID, CON_ID].includes(p.value("nodeTypeId")) &&
+      (p.$links || []).some(l => String(l.path || l).includes(name))
+    ), [nodes, name]);
+
+  const NodeLink = ({ page }) => {
+    const href = page.$path.replace(/\.md$/, "");
+    return (
+      <li style={{ marginBottom: "0.25em" }}>
+        <a href={href} className="internal-link" data-href={href}>
+          {page.$name}
+        </a>
+      </li>
+    );
+  };
+
+  const Column = ({ title, items, isLast }) => (
+    <div style={{
+      flex: 1,
+      minWidth: 0,
+      paddingRight: isLast ? 0 : "1em",
+      marginRight: isLast ? 0 : "1em",
+      borderRight: isLast ? "none" : "1px solid var(--background-modifier-border)"
+    }}>
+      <div style={{
+        fontWeight: "bold",
+        marginBottom: "0.5em",
+        paddingBottom: "0.25em",
+        borderBottom: "1px solid var(--background-modifier-border)"
+      }}>
+        {title}{" "}
+        <span style={{ opacity: 0.45, fontWeight: "normal", fontSize: "0.85em" }}>
+          ({items.length})
+        </span>
+      </div>
+      {items.length === 0
+        ? <span style={{ opacity: 0.4, fontStyle: "italic", fontSize: "0.9em" }}>None</span>
+        : <ul style={{ margin: 0, paddingLeft: "1.2em" }}>
+            {items.map((p, i) => <NodeLink key={i} page={p} />)}
+          </ul>
+      }
+    </div>
+  );
+
+  return (
+    <div style={{ display: "flex", alignItems: "flex-start", padding: "0.25em 0" }}>
+      <Column title="Experiments" items={exps} />
+      <Column title="Issues" items={issues} />
+      <Column title="Results & Conclusions" items={rescons} isLast />
+    </div>
+  );
+}
+```
 
 # Experiments in this Project
 
@@ -56,6 +136,8 @@ return function CanvasButton() {
 
 # Issues in this Project
 ![[Issues.base#Issues in this Project]]
+
+
 # Results and Conclusions
 
 ![[Results.base#Results and Conclusions in this Project]]
@@ -63,7 +145,6 @@ return function CanvasButton() {
 
 # Todos
 
-- [ ] #task 📅 
 
 ```datacorejsx
 return function ProjectTodos() {
@@ -139,10 +220,9 @@ return function ProjectTodos() {
   );
 }
 ```
+# Project Meeting Notes
 
-# Notes
-
-> [!log] Project Log
+# Project Log
 
 ```datacorejsx
 return function AddLogEntry() {
@@ -179,7 +259,7 @@ return function AddLogEntry() {
 ```
 
 ---
-> [!log] From daily notes
+## From daily notes
 
 ```datacorejsx
 return function View() {

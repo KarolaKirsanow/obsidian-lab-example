@@ -1,0 +1,48 @@
+/* Colored background bands for headings — reading view + live preview */
+
+/* Reading view */
+.markdown-preview-view h1,
+.markdown-rendered h1 {
+  background-color: #4a3f6b33;
+  border-left: 4px solid #7c6fbb;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+.markdown-preview-view h2,
+.markdown-rendered h2 {
+  background-color: #1e5f6833;
+  border-left: 3px solid #2e9aad;
+  padding: 3px 10px;
+  border-radius: 4px;
+}
+
+.markdown-preview-view h3,
+.markdown-rendered h3 {
+  background-color: #1e4a2833;
+  border-left: 3px solid #3aad6f;
+  padding: 3px 10px;
+  border-radius: 4px;
+}
+
+/* Live preview (source) mode */
+.cm-line .cm-header-1 {
+  background-color: #4a3f6b22;
+  border-left: 4px solid #7c6fbb;
+  padding-left: 10px;
+  border-radius: 3px;
+}
+
+.cm-line .cm-header-2 {
+  background-color: #1e5f6822;
+  border-left: 3px solid #2e9aad;
+  padding-left: 10px;
+  border-radius: 3px;
+}
+
+.cm-line .cm-header-3 {
+  background-color: #1e4a2822;
+  border-left: 3px solid #3aad6f;
+  padding-left: 10px;
+  border-radius: 3px;
+}

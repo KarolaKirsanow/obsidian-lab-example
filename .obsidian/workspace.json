@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "DiscourseGraph/RES - test result for horizontal dashboard project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RES - test result for horizontal dashboard project"
+            }
+          },
+          {
+            "id": "6000a57b7bfc8218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "DiscourseGraph/ISS - test issue 02.md",
                 "mode": "source",
                 "source": false,
@@ -54,9 +78,57 @@
               "icon": "lucide-file",
               "title": "ISS - test issue 02"
             }
+          },
+          {
+            "id": "8b6a1e2ce164c020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-04-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-22"
+            }
+          },
+          {
+            "id": "e6449e7e8c03a837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Meeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Meeting"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,21 +299,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d559888d19f1797",
+  "active": "e6449e7e8c03a837",
   "lastOpenFiles": [
-    "DiscourseGraph/ISS - test issue 01.md",
+    "Meta/Templates/Project.md",
+    "Meta/Templates/Project.md.tmp.17195.1777307779588",
+    "Meta/Templates/Project.md.tmp.17195.1777307778546",
+    "Meta/Templates/Experiment.md.tmp.17195.1777307777532",
+    "Meta/Templates/Issue.md.tmp.17195.1777307776520",
+    "DECISIONS.md.tmp.1125.1777307125399",
+    "Projects/PRJ - Horizontal Dashboard test.md",
+    "Meta/Templates/00 Project Log.md",
+    "Meta/Templates/Meeting.md",
+    "Meta/Templates/Project.md.tmp.1125.1777306781403",
+    "Projects/PRJ - Horizontal Dashboard test.md.tmp.1125.1777306384295",
+    "Daily Notes/2026-04-22.md",
+    "DECISIONS.md.tmp.1125.1777304403577",
+    "Meta/Templates/Issue.md.tmp.1125.1777304387589",
+    "Meta/Templates/Experiment.md.tmp.1125.1777304386568",
+    "DiscourseGraph/EXP - test experiment.md",
     "DiscourseGraph/ISS - test issue 02.md",
+    "Meta/Templates/Experiment.md",
     "Meta/Templates/Issue.md",
+    "DiscourseGraph/ISS - test issue 01.md",
+    "Projects/PRJ - my awesome new project.md",
+    "DiscourseGraph/RES - test result for horizontal dashboard project.md",
     "test 002.md",
     "DiscourseGraph/CON - test issue 02.md",
-    "DECISIONS.md.tmp.7816.1777282462782",
-    "Meta/Templates/Experiment.md",
     "Meta/Templates/_New Experiment.md",
     "README.md",
-    "DiscourseGraph/EXP - test experiment.md",
     "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
     "Joshua Lederberg.md",
-    "Issue Nodes.base",
     "Daily Notes/2026-04-21.md",
     "Daily Notes/2026-04-24.md",
     "Meta/Templates/00 Bullet Journal Log.md",
@@ -249,22 +336,6 @@
     "Daily Notes/2026-04-14.md",
     "Daily Notes/2026-04-13.md",
     "DiscourseGraph/RES - testing result node template.md",
-    "DECISIONS.md.tmp.2266.1777039743383",
-    "DiscourseGraph/RES - testing result node template.md.tmp.2266.1777039721816",
-    "Meta/Templates/Experiment.md.tmp.2266.1777039716292",
-    "Meta/Templates/Experiment.md.tmp.2266.1777039696923",
-    "Meta/Templates/Result.md.tmp.2266.1777039694487",
-    "DECISIONS.md.tmp.1018.1776953368699",
-    "DiscourseGraph/RES - testing result node template.md.tmp.1018.1776953356093",
-    "DiscourseGraph/RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
-    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
-    "DiscourseGraph/EXP - protocol with cell line xyz.md",
-    "DiscourseGraph/RES - cells emitted xyz measures over the time course of the simulation.md",
-    "DiscourseGraph/RES - maybe later we can follow up on this with another chimera variant.md",
-    "DiscourseGraph/@fake paper.md",
-    "test note 001.md",
-    "DECISIONS.md.tmp.797.1776883247751",
-    "CLM - hrm looks like templates is screwing up and creating  double files.md",
     "Projects/My awseome new projects.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",

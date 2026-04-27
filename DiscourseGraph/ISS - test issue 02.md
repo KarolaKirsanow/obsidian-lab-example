@@ -4,7 +4,7 @@ status:
 lead:
 contributors:
 targetQuestionOrHyp:
-project:
+project: PRJ - Horizontal Dashboard test
 Issue Type:
 ---
 ### Description 
@@ -21,6 +21,9 @@ Benchling:
 
 ![[Results.base#Results from this Experiment]]
 # Todos
+
+- [ ] #task order more reagents
+
 ```tasks
 not done
 path includes {{query.file.path}}
