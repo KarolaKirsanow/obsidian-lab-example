@@ -146,3 +146,46 @@ See CLAUDE.md for format and conventions.
 **[[EVD - The button is self-hiding once aliases are set, so it adds no lasting clutter at the bottom.]]**
 
 **[[RES - Moved NodeSetup datacorejsx button to the bottom of Result.md, Experiment.md, and the RES instance template. _Discourse Node.md is a bare button snippet with no sections and was left unchanged.]]**
+
+---
+
+## 2026-04-27 — Horizontal 3-column project dashboard via DatacoreJSX
+
+**[[QUE - How best to replicate the Roam project page layout (metadata + canvas link + horizontal 3-column query dashboard) in Obsidian?]]**
+
+**[[CLM - DatacoreJSX flex layout is the right approach for the horizontal columns.]]**
+**[[EVD - Base transclusion always stacks vertically; CSS multi-column is fragile across theme updates; DatacoreJSX is already in use for the canvas button so the infrastructure is present.]]**
+**[[CLM - The three columns map to existing query logic: EXP nodes filtered by project property, ISS nodes filtered by backlink, RES+CON nodes filtered by backlink (already in Results.base).]]**
+
+**[[RES - Build the dashboard as a single DatacoreJSX block rendering three flex columns (EXP | ISS | RES+CON), each running dc.useQuery() filtered to the current project file.]]**
+
+---
+
+## 2026-04-27 — Test horizontal dashboard on a new page before touching the shared template
+
+**[[HYP - The horizontal dashboard should be prototyped on a dedicated test project page rather than modifying the existing Project.md template directly.]]**
+
+**[[RES - Build and validate the layout on "Horizontal Dashboard Test" first; only promote to Project.md template once the design is confirmed. ISS node schema must be inspected before the JSX query can be written.]]**
+
+---
+
+## 2026-04-27 — Protocol/Git repo/Benchling as properties vs. body text in Project notes
+
+**[[QUE - Is there a benefit to making Protocol, Git repo, and Benchling structured frontmatter properties rather than plain body text? Tradeoffs?]]**
+
+**[[CLM - Properties enable cross-project Bases/Datacore queries (e.g. a table of all projects with their protocol and repo) and URL-typed properties render as clickable links in the Properties panel; body text only supports full-text search, which both approaches share.]]**
+**[[CLM - Protocol is the strongest candidate for a property if it uses a wikilink to a Protocol note, since Obsidian then tracks it as a backlink and enables "all projects using this protocol" queries for free.]]**
+**[[CLM - Git repo and Benchling are worth making URL-typed properties primarily for the clickable link rendering in the Properties panel; their cross-project query value is low.]]**
+
+**[[RES - Decision deferred to user. Recommendation: make Protocol a wikilink property and Git repo/Benchling URL-typed properties if cross-project rollup views are wanted; leave as body text if these are reference-only fields accessed from within individual project notes.]]**
+
+---
+
+## 2026-04-27 — Hover Reveal plugin for inline tooltips; ℹ glyph for info buttons
+
+**[[QUE - Is there a way to do hover-over info buttons in Obsidian?]]**
+
+**[[CLM - Hover Reveal plugin (community, by Asrieal, added to registry early 2025) is the best option: syntax [visibleText]{tooltip}, works in both Live Preview and Reading View, no raw HTML in notes.]]**
+**[[EVD - Alternatives (abbr tag, CSS span data-tooltip) are reading-view-only and require raw HTML or a CSS snippet to look reasonable.]]**
+
+**[[RES - Use Hover Reveal plugin for inline tooltips with ℹ (U+2139, the standard Unicode information symbol) as the visible trigger glyph: [ℹ]{tooltip text here}.]]**

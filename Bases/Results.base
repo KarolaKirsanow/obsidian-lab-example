@@ -17,7 +17,7 @@ views:
         - file.hasLink(this.file.name)
     sort:
       - property: file.name
-        direction: ASC
+        direction: DESC
   - type: table
     name: Results and Conclusions in this Project
     filters:

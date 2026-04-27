@@ -73,11 +73,11 @@
       "id": "node_2unblKFUVJkOdOnT8MstZ",
       "name": "Issue",
       "format": "ISS - {content}",
-      "template": "Experiment",
+      "template": "Issue",
       "tag": "iss-candidate",
       "color": "#1505fa",
       "created": 1776167517532,
-      "modified": 1776700498134,
+      "modified": 1777285934323,
       "description": "a request for an experiment/study/action"
     },
     {

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DiscourseGraph/ISS - test issue 02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ISS - test issue 02"
             }
           }
         ],
@@ -229,7 +229,15 @@
   },
   "active": "7d559888d19f1797",
   "lastOpenFiles": [
+    "DiscourseGraph/ISS - test issue 01.md",
+    "DiscourseGraph/ISS - test issue 02.md",
+    "Meta/Templates/Issue.md",
     "test 002.md",
+    "DiscourseGraph/CON - test issue 02.md",
+    "DECISIONS.md.tmp.7816.1777282462782",
+    "Meta/Templates/Experiment.md",
+    "Meta/Templates/_New Experiment.md",
+    "README.md",
     "DiscourseGraph/EXP - test experiment.md",
     "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
     "Joshua Lederberg.md",
@@ -240,7 +248,6 @@
     "Daily Notes/2026-04-23.md",
     "Daily Notes/2026-04-14.md",
     "Daily Notes/2026-04-13.md",
-    "Meta/Templates/Experiment.md",
     "DiscourseGraph/RES - testing result node template.md",
     "DECISIONS.md.tmp.2266.1777039743383",
     "DiscourseGraph/RES - testing result node template.md.tmp.2266.1777039721816",
@@ -257,14 +264,7 @@
     "DiscourseGraph/@fake paper.md",
     "test note 001.md",
     "DECISIONS.md.tmp.797.1776883247751",
-    "Meta/Templates/Experiment.md.tmp.797.1776883211494",
     "CLM - hrm looks like templates is screwing up and creating  double files.md",
-    "CLM - test making a longwinded claim with templates and templates  - this filename is very long and should be shortened to 60 chars.md",
-    "CLM - testing selecting \"no template\" for several node types to avoid template-templates conflicts.md",
-    "DECISIONS.md",
-    "DiscourseGraph/CLM - testing to see if the empty template field guarantees.md",
-    "DiscourseGraph/CLM - testing selecting no template for several node types t.md",
-    "DiscourseGraph/QUE - testing automatic node aliasing by creating a long fil.md",
     "Projects/My awseome new projects.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
