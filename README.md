@@ -17,17 +17,21 @@ This is an example vault that illustrates potential usage of the [discourse grap
 
 ### Recommended
 - **[Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)** (recommended): makes it easier to create/query/manage todos
-- **[Outliner](https://github.com/vslinko/obsidian-outliner)** (optional): makes it easier and nicer
+- **[Outliner](https://github.com/vslinko/obsidian-outliner)** (optional): 
+- [Calendar](https://obsidian.md/plugins?id=calendar): supports a Daily Notes workflow
+- [Style Settings](https://obsidian.md/plugins?id=obsidian-style-settings): adjust themes & CSS snippets
+- [Templater](https://obsidian.md/plugins?id=templater-obsidian): create more advanced templates (including the Daily Note Template)
+- [Zotsidian](https://github.com/obsidian-community/obsidian-zotero-integration): connect your Zotero library to Obsidian
 
 # Overall structure of the vault (and why)
 
-The current structure is loosely based on existing lab discourse graphs workflows in Roam - we haven't actually observed or developed workflows in practice for labs in Obsidian/git yet. So this is definitely up for revision! We've tried to support reasoning about the folder structure with some rationales and marking where the existence of certain folders is important.
+The current structure of this vault parallels lab discourse graphs workflows we've developed in Roam, modified for the affordances provided by Obsidian/git yet. But little of this structure is written in stone -- we follow the Obsidian convention that your vault is your own. We've tried to support reasoning about the folder structure with some rationales and marking where the existence of certain folders is important.
 
-- `Bases/` no particular reason that the `.base` files should all live in here. could easily see them living inside the respective content folders (e.g., a `Projects.base` in the Project folder)
-- `DiscourseGraph/` not a bad idea to set a default location for new discourse nodes
+- `Bases/` Your `.base` files could also inside their respective content folders (e.g., a `Projects.base` in the Project folder). Putting them in one place allows you to see which bases you've created, which is #clm-candidate more valuable as you set up your vault and less important later.
+- `DiscourseGraph/` not a bad idea to set a default location for new discourse nodes #hyp-candidate this separation-of-concerns is especially useful for users grafting the discourse graph protocol onto an mature vault.
 - `Meta/`
 	- `Attachments/` usually it's good set a folder for attachments to go to, but it can be anywhere
-	- `Templates/` the discourse nodes can be created based on a template. the plugin needs to be pointed to a folder that contains templates to use. templates in these folder can also be used for other notes, not just discourse nodes
+	- `Templates/` the discourse nodes can be created based on a template. the plugin needs to be pointed to a folder that contains templates to use. Templates in these folder can also be used for other notes, not just discourse nodes
 	- `Conventions.md` this might be a good place to write down the conventions/workflows for your lab
 - `Projects/` pretty self-explanatory, and probably something you want to do to track projects. 
 - `Protocols/` optional, if you want to create and track specific protocols and link to them in your experiments, and what questions they can address

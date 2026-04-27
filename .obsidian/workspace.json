@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test 002.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "test 002"
+              "title": "README"
             }
           }
         ],
@@ -229,9 +229,9 @@
   },
   "active": "7d559888d19f1797",
   "lastOpenFiles": [
+    "test 002.md",
     "DiscourseGraph/EXP - test experiment.md",
     "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
-    "test 002.md",
     "Joshua Lederberg.md",
     "Issue Nodes.base",
     "Daily Notes/2026-04-21.md",
