@@ -1,4 +1,5 @@
 ---
+template: "[[Experiment]]"
 tags:
 cssclasses: dg-exp
 status:

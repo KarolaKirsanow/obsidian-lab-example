@@ -1,40 +1,14 @@
 ---
 nodeTypeId: node_Qbdr-LbBCb_WjPFNTnjTX
+project: PRJ - Passarine Songbird Cargo Capacity
+template: "[[Experiment]]"
 status:
+targetQuestionOrHyp:
+tags:
+cssclasses: dg-exp
 lead:
 contributors:
-targetQuestionOrHyp:
-project: PRJ - Horizontal Dashboard test
-aliases:
-  - EXP - test experiment
-template: "[[Experiment]]"
 ---
-```datacorejsx
-return function NodeSetup() {
-  const current = dc.useCurrentFile();
-  const aliases = current.value("aliases");
-  if (aliases && aliases.length > 0) return null;
-
-  const handleClick = async () => {
-    const full = current.$name;
-    const MAX = 60;
-    const slug = full.replace(/[?:*"<>|\\]/g, '').slice(0, MAX).trimEnd();
-    const file = app.vault.getAbstractFileByPath(current.$path);
-    if (!file) return;
-
-    await app.fileManager.processFrontMatter(file, fm => {
-      fm.aliases = [full];
-    });
-
-    if (slug !== full) {
-      const newPath = `${file.parent.path}/${slug}.md`;
-      await app.fileManager.renameFile(file, newPath);
-    }
-  };
-
-  return <button onClick={handleClick}>Save full title as alias</button>;
-}
-```
 
 # Resources
 
@@ -46,18 +20,17 @@ Benchling:
 ![[Results.base#Results from this Experiment]]
 # Todos
 
-- [ ] #task redo gels
 ```tasks
 not done
-path includes {{query.file.path}}
+(path includes {{query.file.path}}) OR (path includes Daily Notes AND description includes {{query.file.filenameWithoutExtension}})
 ```
-# Log
+> [!log] Log
 
 ## YYYY-MM-DD
 
 
 ---
-## From daily notes
+> [!log] From daily notes
 
 ```datacorejsx
 return function View() {
@@ -109,5 +82,32 @@ return function View() {
       })}
     </ul>
   );
+}
+```
+
+```datacorejsx
+return function NodeSetup() {
+  const current = dc.useCurrentFile();
+  const aliases = current.value("aliases");
+  if (aliases && aliases.length > 0) return null;
+
+  const handleClick = async () => {
+    const full = current.$name;
+    const MAX = 60;
+    const slug = full.replace(/[?:*"<>|\\]/g, '').slice(0, MAX).trimEnd();
+    const file = app.vault.getAbstractFileByPath(current.$path);
+    if (!file) return;
+
+    await app.fileManager.processFrontMatter(file, fm => {
+      fm.aliases = [full];
+    });
+
+    if (slug !== full) {
+      const newPath = `${file.parent.path}/${slug}.md`;
+      await app.fileManager.renameFile(file, newPath);
+    }
+  };
+
+  return <button onClick={handleClick}>Save full title as alias</button>;
 }
 ```

@@ -1,4 +1,5 @@
 ---
+template: "[[Hypothesis]]"
 tags:
 cssclasses: dg-hyp
 ---

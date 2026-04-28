@@ -1,8 +1,9 @@
 ---
 status: Ongoing
-targetQuestionOrHyp: can a
+targetQuestionOrHyp: "[[QUE - Can a 5 ounce bird carry a one-pound coconut|QUE - Can a 5 ounce bird carry a one-pound coconut?]]"
 lead:
 contributors:
+template: "[[Project]]"
 ---
 ## Resources
 
@@ -49,7 +50,7 @@ return function CanvasButton() {
 ## Aims
 
 
-[[QUE - Can a 5 ounce bird can carry a one-pound coconut]]
+[[QUE - Can a 5 ounce bird carry a one-pound coconut]]
 
 
 # Experiments in this Project

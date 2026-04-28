@@ -4,6 +4,7 @@ tags:
 contributors:
 supported_by:
   - 
+template: "[[Result]]"
 ---
 
 ## Summary

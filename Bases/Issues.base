@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - nodeTypeId == "node_2unblKFUVJkOdOnT8MstZ"
+        - template == "[[Issue]]"
     order:
       - file.name
   - type: table
@@ -12,5 +13,6 @@ views:
       and:
         - nodeTypeId == "node_2unblKFUVJkOdOnT8MstZ"
         - project == this.file.name
+        - template == "[[Issue]]"
     order:
       - file.name

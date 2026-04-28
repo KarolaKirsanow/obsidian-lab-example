@@ -9,6 +9,7 @@ contributors:
   - "[[Rosalind Franklin]]"
   - "[[Joshua Lederberg]]"
 nodeInstanceId: 019d7372-cb57-780e-b858-a9b4f03fc7d9
+template: "[[Experiment]]"
 ---
 # Resources
 

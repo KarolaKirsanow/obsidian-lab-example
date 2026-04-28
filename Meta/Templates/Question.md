@@ -1,4 +1,5 @@
 ---
+template: "[[Question]]"
 tags:
 cssclasses: dg-que
 ---

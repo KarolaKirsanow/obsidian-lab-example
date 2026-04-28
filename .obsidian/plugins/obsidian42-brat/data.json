@@ -1,9 +1,14 @@
 {
   "pluginList": [
+    "theol0403/obsidian-bases-new-with-template",
     "DiscourseGraphs/discourse-graph-obsidian",
     "blacksmithgu/datacore"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "theol0403/obsidian-bases-new-with-template",
+      "version": "latest"
+    },
     {
       "repo": "DiscourseGraphs/discourse-graph-obsidian",
       "version": "1.1.0"

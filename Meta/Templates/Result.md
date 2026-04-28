@@ -1,4 +1,5 @@
 ---
+template: "[[Result]]"
 tags:
 cssclasses: dg-res
 contributors:

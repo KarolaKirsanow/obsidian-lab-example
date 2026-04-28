@@ -267,4 +267,18 @@ See CLAUDE.md for format and conventions.
 
 **[[EVD - The DailyLog view on the Personal Home Page joins five distinct inline fields per daily note into a single grouped display, limiting to the most recent 7 entries. Dataview GROUP BY cannot join multiple fields per row in this way without significant complexity.]]**
 
-**[[RES - Decision pending discussion with eng team. Candidates for Dataview replacement: (1) the five 00 Log aggregate views; (2) the three "from daily notes" views in EXP, ISS, and PRJ templates; (3) ProjectMeetings in Project.md; (4) MeetingInstances in Meeting Series.md. All other DatacoreJSX blocks should remain. Net effect if all candidates are switched: ~8 blocks shrink from ~30–50 lines each to ~4 lines each, with identical rendered output.]]****
+**[[RES - Decision pending discussion with eng team. Candidates for Dataview replacement: (1) the five 00 Log aggregate views; (2) the three "from daily notes" views in EXP, ISS, and PRJ templates; (3) ProjectMeetings in Project.md; (4) MeetingInstances in Meeting Series.md. All other DatacoreJSX blocks should remain. Net effect if all candidates are switched: ~8 blocks shrink from ~30–50 lines each to ~4 lines each, with identical rendered output.]]**
+
+---
+
+## 2026-04-28 — Template auto-apply for notes created via Bases "New" button
+
+**[[QUE - Why doesn't creating a new note from a Base use the correct template?]]**
+
+**[[CLM - Obsidian Bases has no native support for specifying a template per base; the "New +" button creates a blank note.]]**
+**[[EVD - Multiple open feature requests on the Obsidian forum confirm this is unimplemented in core Bases.]]**
+**[[CLM - The community plugin "Bases New with Template" (theol0403) fills this gap: it watches for new notes with a `template: [[TemplateName]]` frontmatter property and auto-applies the named template.]]**
+**[[CLM - Obsidian Bases pre-fills frontmatter properties from AND-level equality filters as "implied properties" on new notes; adding `template == "[[TemplateName]]"` to a base's filter causes new notes to receive the property automatically.]]**
+**[[EVD - Backfilling `template:` into all existing nodes is required so they continue to appear in filtered views; existing notes without the property would otherwise be hidden by the new filter.]]**
+
+**[[RES - Installed "Bases New with Template" plugin. Added `template == "[[TemplateName]]"` filter to all views in all node-type bases (EXP, ISS, RES, QUE, HYP, CON, PRJ). Backfilled `template: [[TemplateName]]` into all existing notes of each type. Added `template:` to each node template so notes created via Discourse Graphs plugin also carry the property from creation.]]**

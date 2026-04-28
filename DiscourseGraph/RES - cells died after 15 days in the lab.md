@@ -3,6 +3,7 @@ nodeTypeId: node_i7PzyKw2NfkA8asBfxeey
 tags:
 contributors:
 nodeInstanceId: 019d7372-cb30-7f14-a41b-3a6dca490492
+template: "[[Result]]"
 ---
 ## Data / Plots
 

@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.folder == "Projects"
+        - template == "[[Project]]"
     order:
       - file.name
       - status
@@ -13,6 +14,7 @@ views:
     filters:
       and:
         - file.folder == "Projects"
+        - template == "[[Project]]"
         - or:
             - lead == this.file.name
             - contributors.contains(this.file.name)

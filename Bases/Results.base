@@ -5,6 +5,7 @@ views:
       and:
         - file.hasProperty("nodeTypeId")
         - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
+        - template == "[[Result]]"
     order:
       - file.name
       - rel_5nnUOb6wBzlAwAF2Wk-ts
@@ -15,6 +16,7 @@ views:
       and:
         - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
         - file.hasLink(this.file.name)
+        - template == "[[Result]]"
     sort:
       - property: file.name
         direction: DESC

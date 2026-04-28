@@ -1,4 +1,5 @@
 ---
+template: "[[Issue]]"
 tags:
 cssclasses: dg-iss
 status:

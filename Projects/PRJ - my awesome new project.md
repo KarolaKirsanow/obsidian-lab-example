@@ -3,6 +3,7 @@ status:
 targetQuestionOrHyp:
 lead:
 contributors:
+template: "[[Project]]"
 ---
 # Resources
 

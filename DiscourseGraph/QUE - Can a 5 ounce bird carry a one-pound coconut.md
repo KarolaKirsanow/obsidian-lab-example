@@ -3,6 +3,7 @@ nodeTypeId: node_4SqRl5RIkaUMb9fLOpdhq
 tags:
 aliases:
   - QUE - Can a 5 ounce bird can carry a one-pound coconut?
+template: "[[Question]]"
 ---
 
 # Summary
@@ -10,6 +11,10 @@ aliases:
 ## Related QUE/CLM/EVD
 
 ## Testable Hypotheses
+
+The loadbearing capacity of a 5 ounce bird can be estimated mathematically
+
+The loadbearing capacity of a 5 ounce bird can be determined empirically
 
 ## Snippets
 
@@ -22,6 +27,8 @@ aliases:
 > [!log] Log
 
 ## YYYY-MM-DD
+
+2026-04-28 
 
 ```datacorejsx
 return function NodeSetup() {

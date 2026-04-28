@@ -6,6 +6,7 @@ contributors:
 targetQuestionOrHyp:
 project: PRJ - Horizontal Dashboard test
 Issue Type:
+template: "[[Issue]]"
 ---
 ### Description 
 ### Purpose 

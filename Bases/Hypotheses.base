@@ -4,5 +4,6 @@ views:
     filters:
       and:
         - nodeTypeId == "node_8eLgGKXiSzIWJvcrGCBFE"
+        - template == "[[Hypothesis]]"
     order:
       - file.name

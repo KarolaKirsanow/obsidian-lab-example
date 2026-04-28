@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - nodeTypeId == "node_Qbdr-LbBCb_WjPFNTnjTX"
+        - template == "[[Experiment]]"
     order:
       - file.name
       - status
@@ -19,6 +20,7 @@ views:
       and:
         - nodeTypeId == "node_Qbdr-LbBCb_WjPFNTnjTX"
         - project == this.file.name
+        - template == "[[Experiment]]"
     order:
       - file.name
       - status

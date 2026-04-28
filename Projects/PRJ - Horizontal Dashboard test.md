@@ -3,6 +3,7 @@ status:
 targetQuestionOrHyp:
 lead:
 contributors:
+template: "[[Project]]"
 ---
 # Resources
 > [!info] Add links to datasets, analysis files, manuscript files, etc. The button below will create a Project Canvas

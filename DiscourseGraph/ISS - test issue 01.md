@@ -5,6 +5,7 @@ lead:
 contributors:
 targetQuestionOrHyp:
 project: PRJ - Horizontal Dashboard test
+template: "[[Issue]]"
 ---
 
 # Resources

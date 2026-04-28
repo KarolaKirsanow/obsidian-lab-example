@@ -5,6 +5,7 @@ lead: "[[Rosalind Franklin]]"
 contributors:
   - "[[Joshua Lederberg]]"
   - "[[Esther Lederberg]]"
+template: "[[Project]]"
 ---
 # Resources
 

@@ -1,4 +1,5 @@
 ---
+template: "[[Conclusion]]"
 tags:
 cssclasses: dg-con
 contributors:

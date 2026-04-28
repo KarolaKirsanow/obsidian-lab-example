@@ -6,6 +6,7 @@ contributors:
 targetQuestionOrHyp: "[[CLM - the barrier helps cells regulate breathing by injecting fun]]"
 project: "[[PRJ - my awesome new project]]"
 nodeInstanceId: 019d7372-cb0c-7dda-b9c9-7392a4fee39f
+template: "[[Experiment]]"
 ---
 # Resources
 

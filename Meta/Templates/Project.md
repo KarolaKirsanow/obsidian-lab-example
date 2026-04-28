@@ -1,4 +1,5 @@
 ---
+template: "[[Project]]"
 status:
 targetQuestionOrHyp:
 lead:
