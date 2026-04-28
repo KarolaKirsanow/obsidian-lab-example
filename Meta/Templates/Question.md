@@ -20,7 +20,7 @@ cssclasses: dg-que
 
 > [!log] Log
 
-## YYYY-MM-DD
+### YYYY-MM-DD
 
 ```datacorejsx
 return function NodeSetup() {

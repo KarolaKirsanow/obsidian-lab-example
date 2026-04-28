@@ -1,6 +1,7 @@
 ---
 tags:
 cssclasses: dg-clm
+confidence:
 ---
 # Summary
 
@@ -10,7 +11,7 @@ cssclasses: dg-clm
 
 > [!log] Log
 
-## YYYY-MM-DD
+### YYYY-MM-DD
 
 ```datacorejsx
 return function NodeSetup() {

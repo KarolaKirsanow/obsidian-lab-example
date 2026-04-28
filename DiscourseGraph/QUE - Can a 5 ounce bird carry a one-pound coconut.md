@@ -26,7 +26,7 @@ The loadbearing capacity of a 5 ounce bird can be determined empirically
 
 > [!log] Log
 
-## YYYY-MM-DD
+### YYYY-MM-DD
 
 2026-04-28 
 

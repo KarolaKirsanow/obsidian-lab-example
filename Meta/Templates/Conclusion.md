@@ -11,7 +11,7 @@ contributors:
 ## Grounding Context
 
 
-## Snippets
+## Notes
 
 ```datacorejsx
 return function NodeSetup() {

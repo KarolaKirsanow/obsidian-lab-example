@@ -282,3 +282,25 @@ See CLAUDE.md for format and conventions.
 **[[EVD - Backfilling `template:` into all existing nodes is required so they continue to appear in filtered views; existing notes without the property would otherwise be hidden by the new filter.]]**
 
 **[[RES - Installed "Bases New with Template" plugin. Added `template == "[[TemplateName]]"` filter to all views in all node-type bases (EXP, ISS, RES, QUE, HYP, CON, PRJ). Backfilled `template: [[TemplateName]]` into all existing notes of each type. Added `template:` to each node template so notes created via Discourse Graphs plugin also carry the property from creation.]]**
+
+---
+
+## 2026-04-28 — Hashtags for log entry differentiation in node templates
+
+**[[QUE - How can log entries in QUE (and other node) templates be made searchable and differentiated from each other?]]**
+
+**[[CLM - Inline hashtags (e.g. #reading, #finding) appended to each log line are searchable vault-wide via Obsidian's tag pane and `tag:` search syntax, and are queryable in Datacore via `$tags`.]]**
+
+**[[RES - Use inline hashtags at the end of each log line for entry typing. Tag vocabulary is left to user convention; no prescribed set is baked into templates.]]**
+
+---
+
+## 2026-04-28 — QUE creation during EXP authoring
+
+**[[QUE - What is the fastest way to create a properly-templated QUE node and link it in EXP frontmatter without leaving the EXP page?]]**
+
+**[[HYP - A "Create linked QUE" Datacore button on the EXP template could prompt for question text, create the QUE file, and write the wikilink into targetQuestionOrHyp: in one action.]]**
+
+**[[CLM - Less busy templates are better; adding more buttons increases cognitive load on every EXP creation.]]**
+
+**[[RES - No button added. Current flow: type the wikilink directly in targetQuestionOrHyp: frontmatter, ctrl+click to create the blank file, then apply the Question template via Templater. Button remains a candidate if the two-step friction proves significant in practice.]]**

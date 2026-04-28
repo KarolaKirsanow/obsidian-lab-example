@@ -25,6 +25,8 @@
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
     "contributors": "multitext",
-    "targetQuestionOrHyp": "text"
+    "targetQuestionOrHyp": "text",
+    "confidence": "number",
+    "centrality": "number"
   }
 }

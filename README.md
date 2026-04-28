@@ -22,6 +22,7 @@ This is an example vault that illustrates potential usage of the [discourse grap
 - [Style Settings](https://obsidian.md/plugins?id=obsidian-style-settings): adjust themes & CSS snippets
 - [Templater](https://obsidian.md/plugins?id=templater-obsidian): create more advanced templates (including the Daily Note Template)
 - [Zotsidian](https://github.com/obsidian-community/obsidian-zotero-integration): connect your Zotero library to Obsidian
+- [ Obsidian-bases-new-with template](https://github.com/theol0403/obsidian-bases-new-with-template): apply the correct template when you create new discourse nodes directly from your Bases
 
 # Overall structure of the vault (and why)
 

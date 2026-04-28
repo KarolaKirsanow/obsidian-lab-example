@@ -3,5 +3,6 @@
   "attachmentFolderPath": "Meta/Attachments",
   "readableLineLength": false,
   "newFileLocation": "root",
-  "newFileFolderPath": "DiscourseGraph"
+  "newFileFolderPath": "DiscourseGraph",
+  "promptDelete": false
 }

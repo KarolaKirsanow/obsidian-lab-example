@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"1b836be504f620a3","x":-400,"y":-260,"width":400,"height":100,"type":"file","file":"DiscourseGraph/EXP - protocol with cell line xyz.md"},
-		{"id":"05dc7b153ea3ee65","x":-320,"y":-60,"width":400,"height":120,"type":"file","file":"DiscourseGraph/RES - cells died after 15 days in the lab.md"},
-		{"id":"730229477447fabe","x":100,"y":-60,"width":400,"height":120,"type":"file","file":"DiscourseGraph/RES - cells emitted xyz measures over the time course of the simulation.md"},
-		{"id":"acb7b305e8f13e4f","x":-600,"y":-840,"width":400,"height":411,"type":"file","file":"DiscourseGraph/QUE - What does the barrier do to help cells regulate breathing?.md"}
-	],
-	"edges":[]
-}

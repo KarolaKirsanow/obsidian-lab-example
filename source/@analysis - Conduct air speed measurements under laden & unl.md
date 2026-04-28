@@ -2,12 +2,19 @@
 nodeTypeId: node_Qbdr-LbBCb_WjPFNTnjTX
 project: PRJ - Passarine Songbird Cargo Capacity
 template: "[[Experiment]]"
-status:
+status: seed
 targetQuestionOrHyp:
 tags:
+  - dg/source
 cssclasses: dg-exp
 lead:
 contributors:
+aliases:
+  - "@analysis - Conduct air speed measurements under laden & unladen conditions"
+dg_type: Source
+keywords: ""
+rating: 3
+citekey: analysis - Conduct air speed measurements under laden & unl
 ---
 
 # Resources
@@ -26,7 +33,17 @@ not done
 ```
 > [!log] Log
 
-## YYYY-MM-DD
+### 2026-04-24
+- 
+### 2026-02-05
+- better weather measurements needed #iss-candidate 
+- weather disproportionately affects laden condition #iss-candidate 
+### 2026-02-06
+- coconut shape highly variable #iss-candidate 
+- European swallows are more  homogeneous in size & speed #res-candidate 
+- African swallows seem a bit faster #res-candidate 
+- 
+
 
 
 ---
