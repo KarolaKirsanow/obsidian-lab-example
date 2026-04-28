@@ -1,4 +1,6 @@
 ---
+tags:
+cssclasses: dg-exp
 status:
 lead:
 contributors:
@@ -18,7 +20,7 @@ Benchling:
 
 ```tasks
 not done
-(path includes {{query.file.path}}) OR (path includes Daily Notes AND description includes {{query.file.name}})
+(path includes {{query.file.path}}) OR (path includes Daily Notes AND description includes {{query.file.filenameWithoutExtension}})
 ```
 > [!log] Log
 

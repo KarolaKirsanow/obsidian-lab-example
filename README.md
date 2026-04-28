@@ -16,8 +16,8 @@ This is an example vault that illustrates potential usage of the [discourse grap
 - **[Discourse Graph](https://discoursegraphs.com/docs/obsidian/getting-started)** (required): this is our plugin :)
 
 ### Recommended
-- **[Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)** (recommended): makes it easier to create/query/manage todos
-- **[Outliner](https://github.com/vslinko/obsidian-outliner)** (optional): 
+- [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) (recommended): makes it easier to create/query/manage todos
+- [Outliner](https://github.com/vslinko/obsidian-outliner) (optional): 
 - [Calendar](https://obsidian.md/plugins?id=calendar): supports a Daily Notes workflow
 - [Style Settings](https://obsidian.md/plugins?id=obsidian-style-settings): adjust themes & CSS snippets
 - [Templater](https://obsidian.md/plugins?id=templater-obsidian): create more advanced templates (including the Daily Note Template)

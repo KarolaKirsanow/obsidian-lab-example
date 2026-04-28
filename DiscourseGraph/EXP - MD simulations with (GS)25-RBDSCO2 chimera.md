@@ -1,7 +1,7 @@
 ---
 nodeTypeId: node_Qbdr-LbBCb_WjPFNTnjTX
 targetQuestionOrHyp: "[[QUE - How do inert IDRs affect binding affinity?]]"
-rel_5nnUOb6wBzlAwAF2Wk-ts: "[[RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md]]"
+rel_5nnUOb6wBzlAwAF2Wk-ts: "[[RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs 1]]"
 project: "[[PRJ - Molecular determinants of evolutionary conservation in disordered protein regions]]"
 status: Completed
 lead: "[[Esther Lederberg]]"
@@ -34,7 +34,7 @@ New result! Discussed with team, looks like [[RES - (GS)25-RBD suppressed RNA bi
 
 ## 9/18/22
 
-Discussed plots with team. Think we can say that there's [[RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs]]
+Discussed plots with team. Think we can say that there's [[RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs 1]]
 
 ## 9/17/22
 

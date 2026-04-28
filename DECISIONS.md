@@ -222,10 +222,49 @@ See CLAUDE.md for format and conventions.
 
 ---
 
+## 2026-04-27 — ISS-to-EXP upgrade flow: rename not generate
+
+**[[HYP - A "claim issue" button on the Issue template should generate a new EXP note with data carried over from the ISS note.]]**
+
+**[[CLM - The correct user flow is to rename the ISS node as an EXP note directly, rather than generate a new note from it.]]**
+**[[CLM - A dedicated upgrade button is premature until multiplayer graphs exist; single-user flow does not need the extra ceremony.]]**
+
+**[[RES - No claim-issue button. To upgrade an ISS to an EXP, the user renames the file (ISS prefix → EXP prefix); all backlinks and log entries follow the rename automatically.]]**
+
+---
+
 ## 2026-04-27 — Project Template: Todos, Issues query, and Project Log promoted from test page
 
 **[[HYP - The Todos aggregator, Issues in this Project query, and Project Log with entry button are ready to move from the test page into the shared Project.md template.]]**
 
 **[[CLM - The horizontal dashboard (3-column DatacoreJSX) is not yet promoted — it remains on the test page pending further validation.]]**
 
-**[[RES - Project.md template updated with: (1) # Todos section — a manual entry placeholder followed by the DatacoreJSX aggregator pulling open tasks from related EXP/ISS/RES nodes; (2) # Issues in this Project — Base transclusion via ![[Issues.base#Issues in this Project]]; (3) # Project Log — DatacoreJSX "+ New log entry" button that inserts dated ## headings above the --- separator, followed by the daily-notes aggregator below the separator. Old Tasks plugin block and static ## YYYY-MM-DD placeholder removed.]]**
+**[[RES - Project.md template updated with: (1) # Todos section — a manual entry placeholder followed by the DatacoreJSX aggregator pulling open tasks from related EXP/ISS/RES nodes; (2) # Issues in this Project — Base transclusion via ![[Issues.base#Issues in this Project]]; (3) # Project Log — DatacoreJSX "+ New log entry" button that inserts dated ## headings above the --- separator, followed by the daily-notes aggregator below the separator. Old Tasks plugin block and static ## YYYY-MM-DD placeholder removed.]]
+
+---
+
+## 2026-04-27 — Datacore vs. Dataview: verbosity audit of existing queries
+
+**[[QUE - Which existing Datacore queries could be meaningfully shortened by switching to Dataview DQL?]]**
+
+**[[CLM - Eight query blocks across six templates are straightforward Dataview replacements with no functionality loss: the five "00 Log" aggregate views and the three "from daily notes" inline views (plus two meeting/series list queries).]]**
+
+**[[EVD - The five aggregate log views (00 Project Log, 00 Meeting Log, 00 Media Log, 00 Bullet Journal Log, 00 Experiment Log) each use ~30 lines of DatacoreJSX to produce a two-column table (date | log entry) from Daily Notes pages. The equivalent Dataview DQL is 4 lines: `TABLE ExperimentLog AS "Log" / FROM "Daily Notes" / WHERE ExperimentLog / SORT file.name DESC`. Emoji field names (e.g. 🧪ExperimentLog) require backtick quoting in DQL or can use the ALT name variants already present in each block.]]**
+
+**[[EVD - The three "From daily notes" inline views in Experiment.md, Issue.md, and Project.md each use ~40 lines of DatacoreJSX to filter daily notes whose inline field value contains the current file's name, then render a linked list. The equivalent Dataview DQL is 4 lines: `LIST ExperimentLog / FROM "Daily Notes" / WHERE contains(string(ExperimentLog), this.file.name) / SORT file.name DESC`.]]**
+
+**[[EVD - The ProjectMeetings block in Project.md (~50 lines) lists meeting notes with a project: frontmatter field referencing the current file. Dataview DQL equivalent: `LIST date / FROM "" / WHERE contains(string(project), this.file.name) / SORT date DESC` (4 lines).]]**
+
+**[[EVD - The MeetingInstances block in Meeting Series.md (~40 lines) lists notes with a series: frontmatter field referencing the current file. Same 4-line DQL pattern with `series` field.]]**
+
+**[[CLM - Six other Datacore blocks cannot meaningfully be replaced by Dataview and should remain as DatacoreJSX.]]**
+
+**[[EVD - NodeSetup (alias button), CanvasButton, AddLogEntry button, and NewItemButtons are imperative UI: they write frontmatter, rename files, create vault files, and open editor leaves. Dataview is read-only and has no equivalent capability.]]**
+
+**[[EVD - The ProjectTodos aggregator in Project.md computes a related-path set in two passes (first collecting EXP/ISS nodes by nodeTypeId, then RES/CON nodes by backlink), then filters the task index against that computed set. There is no DQL mechanism for multi-step computed sets or task filtering against a derived path list.]]**
+
+**[[EVD - The Todos view on the Personal Home Page applies custom bucketing (overdue / due today / upcoming / no due date) to tasks filtered by a non-standard `#`-prefix importance marker. Dataview has no bucketed task rendering and cannot filter on task text prefix.]]**
+
+**[[EVD - The DailyLog view on the Personal Home Page joins five distinct inline fields per daily note into a single grouped display, limiting to the most recent 7 entries. Dataview GROUP BY cannot join multiple fields per row in this way without significant complexity.]]**
+
+**[[RES - Decision pending discussion with eng team. Candidates for Dataview replacement: (1) the five 00 Log aggregate views; (2) the three "from daily notes" views in EXP, ISS, and PRJ templates; (3) ProjectMeetings in Project.md; (4) MeetingInstances in Meeting Series.md. All other DatacoreJSX blocks should remain. Net effect if all candidates are switched: ~8 blocks shrink from ~30–50 lines each to ~4 lines each, with identical rendered output.]]****

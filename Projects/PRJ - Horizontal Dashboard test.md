@@ -5,7 +5,7 @@ lead:
 contributors:
 ---
 # Resources
-
+> [!info] Add links to datasets, analysis files, manuscript files, etc. The button below will create a Project Canvas
 ```datacorejsx
 return function CanvasButton() {
   const current = dc.useCurrentFile();
@@ -49,7 +49,7 @@ return function CanvasButton() {
 
 # Aims
 
-# Dashboard
+# Experiments, Issues, & Results
 
 ```datacorejsx
 return function ProjectDashboard() {
@@ -135,6 +135,8 @@ return function ProjectDashboard() {
 ![[Experiments.base#Experiments in this Project]]
 
 # Issues in this Project
+> [!info] Issues are problems or questions that arise during the course of a Project that may require a new  Experiment to solve
+
 ![[Issues.base#Issues in this Project]]
 
 
@@ -144,8 +146,7 @@ return function ProjectDashboard() {
 
 
 # Todos
-
-
+> [!info] This space collates ToDos  related to this Project
 ```datacorejsx
 return function ProjectTodos() {
   const current = dc.useCurrentFile();
@@ -220,9 +221,9 @@ return function ProjectTodos() {
   );
 }
 ```
-# Project Meeting Notes
+# Notes
 
-# Project Log
+> [!log] Project Log
 
 ```datacorejsx
 return function AddLogEntry() {
@@ -259,7 +260,7 @@ return function AddLogEntry() {
 ```
 
 ---
-## From daily notes
+> [!log] From daily notes
 
 ```datacorejsx
 return function View() {
@@ -306,6 +307,66 @@ return function View() {
             </strong>
             {" — "}
             {v.replace("[[" + current.$name + "]]", "").trim()}
+          </li>
+        );
+      })}
+    </ul>
+  );
+}
+```
+> [!log] Project Meetings
+
+```datacorejsx
+return function ProjectMeetings() {
+  const current = dc.useCurrentFile();
+  const name = current.$name;
+
+  const pages = dc.useQuery('@page');
+
+  const meetings = dc.useMemo(() =>
+    pages
+      .filter(p => {
+        const path = String(p.$path);
+        if (path.includes("DiscourseGraph")) return false;
+        if (path.includes("Daily Notes")) return false;
+        if (path.includes("Meta")) return false;
+        const proj = p.value("project");
+        if (!proj) return false;
+        return String(proj).includes(name);
+      })
+      .sort((a, b) => {
+        const da = String(a.value("date") || a.$name);
+        const db = String(b.value("date") || b.$name);
+        return db.localeCompare(da);
+      }),
+    [pages, name]
+  );
+
+  if (meetings.length === 0)
+    return (
+      <p>
+        <em>
+          No meetings yet. Create a meeting note with{" "}
+          <code>{"project: [[" + name + "]]"}</code> in its frontmatter.
+        </em>
+      </p>
+    );
+
+  return (
+    <ul>
+      {meetings.map((p, i) => {
+        const href = String(p.$path).replace(/\.md$/, "");
+        const date = p.value("date");
+        return (
+          <li key={i}>
+            <a href={href} className="internal-link" data-href={href}>
+              {p.$name}
+            </a>
+            {date && (
+              <span style={{ opacity: 0.55, fontSize: "0.85em", marginLeft: "0.5em" }}>
+                {String(date).substring(0, 10)}
+              </span>
+            )}
           </li>
         );
       })}

@@ -1,7 +1,17 @@
 ---
 tags:
-cssclasses: dg-evd
+cssclasses: dg-clm
 ---
+# Summary
+
+# Source of Claim
+
+# Notes
+
+> [!log] Log
+
+## YYYY-MM-DD
+
 ```datacorejsx
 return function NodeSetup() {
   const current = dc.useCurrentFile();

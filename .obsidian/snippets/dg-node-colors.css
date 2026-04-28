@@ -1,0 +1,12 @@
+/* Discourse node inline title colors — matches colors in DG plugin settings */
+/* Requires cssclasses: dg-xxx in note frontmatter (set via templates)       */
+
+.dg-que .inline-title { color: #d2bb0f; }
+.dg-clm .inline-title { color: #7da13e; }
+.dg-evd .inline-title { color: #db134a; }
+.dg-exp .inline-title { color: #9a9898; }
+.dg-res .inline-title { color: #df3434; }
+.dg-src .inline-title { color: #b7b4b4; }
+.dg-iss .inline-title { color: #1505fa; }
+.dg-con .inline-title { color: #5a0202; }
+.dg-hyp .inline-title { color: #34ad01; }

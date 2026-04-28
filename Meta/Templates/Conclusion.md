@@ -1,7 +1,17 @@
 ---
 tags:
-cssclasses: dg-evd
+cssclasses: dg-con
+contributors:
 ---
+
+## Summary
+
+
+## Grounding Context
+
+
+## Snippets
+
 ```datacorejsx
 return function NodeSetup() {
   const current = dc.useCurrentFile();

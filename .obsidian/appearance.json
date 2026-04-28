@@ -3,6 +3,8 @@
   "textFontFamily": "Calibri",
   "monospaceFontFamily": "Consolas",
   "enabledCssSnippets": [
-    "log-callout"
+    "log-callout",
+    "header-colors",
+    "dg-node-colors"
   ]
 }

@@ -16,5 +16,22 @@
       ],
       "key": "Z"
     }
+  ],
+  "markdown:toggle-preview": [],
+  "templater-obsidian:Meta/Templates/_New Experiment.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ],
+  "templater-obsidian:Meta/Templates/_New Project.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }

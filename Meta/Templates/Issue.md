@@ -1,4 +1,6 @@
 ---
+tags:
+cssclasses: dg-iss
 status:
 lead:
 contributors:

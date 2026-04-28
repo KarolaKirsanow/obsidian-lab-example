@@ -1,7 +1,26 @@
 ---
 tags:
-cssclasses: dg-evd
+cssclasses: dg-que
 ---
+
+# Summary
+
+## Related QUE/CLM/EVD
+
+## Testable Hypotheses
+
+## Snippets
+
+# WorkBench
+
+## Papers
+
+## Notes
+
+> [!log] Log
+
+## YYYY-MM-DD
+
 ```datacorejsx
 return function NodeSetup() {
   const current = dc.useCurrentFile();

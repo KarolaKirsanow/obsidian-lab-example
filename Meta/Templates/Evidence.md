@@ -2,6 +2,13 @@
 tags:
 cssclasses: dg-evd
 ---
+
+# Evidence Summary
+
+# Grounding Context
+
+
+
 ```datacorejsx
 return function NodeSetup() {
   const current = dc.useCurrentFile();

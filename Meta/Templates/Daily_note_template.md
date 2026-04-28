@@ -1,6 +1,4 @@
----
-created: <% tp.file.creation_date() %>
----
+
 tags:: [[+Daily Notes]]
 
 # <% tp.file.title %>

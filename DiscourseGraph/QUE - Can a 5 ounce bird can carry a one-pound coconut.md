@@ -1,7 +1,28 @@
 ---
+nodeTypeId: node_4SqRl5RIkaUMb9fLOpdhq
 tags:
-cssclasses: dg-evd
+aliases:
+  - QUE - Can a 5 ounce bird can carry a one-pound coconut?
 ---
+
+# Summary
+
+## Related QUE/CLM/EVD
+
+## Testable Hypotheses
+
+## Snippets
+
+# WorkBench
+
+## Papers
+
+## Notes
+
+> [!log] Log
+
+## YYYY-MM-DD
+
 ```datacorejsx
 return function NodeSetup() {
   const current = dc.useCurrentFile();

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Templates/Meeting.md",
+                "file": "test 002.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Meeting"
+              "title": "test 002"
+            }
+          },
+          {
+            "id": "6b272f77b47582c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PRJ - Passarine Songbird Cargo Capacity"
+            }
+          },
+          {
+            "id": "544b0507ca61b354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Question.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question"
+            }
+          },
+          {
+            "id": "5af99afe76d0f155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Question.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question"
+            }
+          },
+          {
+            "id": "587b5cece4a7ba95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PRJ - Passarine Songbird Cargo Capacity"
+            }
+          },
+          {
+            "id": "15db59bcdef41bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PRJ - Passarine Songbird Cargo Capacity"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -299,44 +419,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6449e7e8c03a837",
+  "active": "15db59bcdef41bf2",
   "lastOpenFiles": [
-    "DECISIONS.md.tmp.25806.1777315156820",
+    "DiscourseGraph/QUE - Can a 5 ounce bird can carry a one-pound coconut.md",
+    "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
+    "Meta/Templates/Conclusion.md",
+    "Meta/Templates/Result.md.tmp.23656.1777383111573",
+    "Meta/Templates/Issue.md.tmp.23656.1777383110321",
+    "Meta/Templates/Experiment.md.tmp.23656.1777383109042",
+    "Meta/Templates/Hypothesis.md.tmp.23656.1777383103275",
+    "Meta/Templates/_Discourse Node.md.tmp.23656.1777383102256",
+    "Meta/Templates/Evidence.md.tmp.23656.1777383101245",
+    "Meta/Templates/Question.md.tmp.23656.1777383099218",
+    "Meta/Templates/Evidence.md",
+    "Meta/Templates/Result.md",
+    "Meta/Templates/Hypothesis.md",
+    "Meta/Templates/Experiment.md",
+    "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
+    "DiscourseGraph/QUE -  Can a 5 ounce bird can carry a one-pound coconut.md",
+    "Meta/Templates/Issue.md",
+    "Meta/Templates/Question.md",
+    "Meta/Templates/Claim.md",
+    "Meta/Templates/Claim.md.tmp.16351.1777370028841",
+    "Meta/Templates/Question.md.tmp.16351.1777370027826",
+    "Meta/Templates/00 Bullet Journal Log.md",
+    "Meta/Templates/Issue.md.tmp.16351.1777369149963",
+    "CLAUDE.md",
+    "QUE - Can a five ounce bird carry a one pound coconut?.md",
+    "test 002.md",
+    "DECISIONS.md",
+    "DiscourseGraph/EXP - protocol with cell line xyz.md",
+    "Meta/Templates/Daily_note_template.md",
     "Meta/Templates/Meeting Series.md",
-    "Meta/Templates/Meeting Series.md.tmp.25806.1777315146895",
-    "Meta/Templates/Meeting.md.tmp.25806.1777315137735",
-    "Meta/Templates/Project.md.tmp.25806.1777314560742",
-    "Meta/Templates/Meeting.md.tmp.25806.1777314557202",
-    "DECISIONS.md.tmp.25806.1777314427103",
     "Meta/Templates/Project.md",
     "Projects/PRJ - Horizontal Dashboard test.md",
-    "Meta/Templates/Meeting.md",
-    "Meta/Templates/Project.md.tmp.17195.1777307779588",
-    "Meta/Templates/Project.md.tmp.17195.1777307778546",
-    "Meta/Templates/Experiment.md.tmp.17195.1777307777532",
-    "Meta/Templates/Issue.md.tmp.17195.1777307776520",
-    "DECISIONS.md.tmp.1125.1777307125399",
-    "Meta/Templates/00 Project Log.md",
-    "Daily Notes/2026-04-22.md",
-    "DiscourseGraph/EXP - test experiment.md",
-    "DiscourseGraph/ISS - test issue 02.md",
-    "Meta/Templates/Experiment.md",
-    "Meta/Templates/Issue.md",
-    "DiscourseGraph/ISS - test issue 01.md",
-    "Projects/PRJ - my awesome new project.md",
-    "DiscourseGraph/RES - test result for horizontal dashboard project.md",
-    "test 002.md",
-    "DiscourseGraph/CON - test issue 02.md",
-    "Meta/Templates/_New Experiment.md",
+    "Start Here.md",
     "README.md",
-    "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
-    "Joshua Lederberg.md",
-    "Daily Notes/2026-04-21.md",
-    "Daily Notes/2026-04-24.md",
-    "Meta/Templates/00 Bullet Journal Log.md",
-    "Daily Notes/2026-04-23.md",
-    "Daily Notes/2026-04-14.md",
-    "Daily Notes/2026-04-13.md",
+    "Meta/Templates/Meeting.md",
+    "Meta/Templates/00 Project Log.md",
     "Projects/My awseome new projects.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",

@@ -1,5 +1,6 @@
 ---
 tags:
+cssclasses: dg-res
 contributors:
 ---
 

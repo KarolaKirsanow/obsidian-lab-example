@@ -6,9 +6,9 @@
       "format": "QUE - {content}",
       "color": "#d2bb0f",
       "created": 1775758395954,
-      "modified": 1776950668783,
+      "modified": 1777371323875,
       "description": "The unknown we wish to make known",
-      "template": "",
+      "template": "Question",
       "tag": "que-candidate",
       "keyImage": true
     },
@@ -18,9 +18,9 @@
       "format": "CLM - {content}",
       "color": "#7DA13E",
       "created": 1775758395954,
-      "modified": 1776950678794,
+      "modified": 1777371330931,
       "description": "An assertion that purports to answer a Question",
-      "template": "",
+      "template": "Claim",
       "tag": "clm-candidate"
     },
     {
@@ -84,7 +84,7 @@
       "id": "node_J9JyrRTQj6nuJs6IY83Mo",
       "name": "Conclusion",
       "format": "CON - {content}",
-      "template": "Result",
+      "template": "Conclusion",
       "tag": "con-candidate",
       "color": "#5a0202",
       "created": 1776167647362,
@@ -96,11 +96,11 @@
       "id": "node_8eLgGKXiSzIWJvcrGCBFE",
       "name": "Hypothesis",
       "format": "HYP- {content}",
-      "template": "",
+      "template": "Hypothesis",
       "tag": "hyp-candidate",
       "color": "#34ad01",
       "created": 1776698405622,
-      "modified": 1776950743970,
+      "modified": 1777371361833,
       "description": "An untested claim posed for discussion",
       "keyImage": true
     }
