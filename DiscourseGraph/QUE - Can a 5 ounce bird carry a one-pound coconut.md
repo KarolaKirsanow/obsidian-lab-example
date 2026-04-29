@@ -5,19 +5,26 @@ aliases:
   - QUE - Can a 5 ounce bird can carry a one-pound coconut?
 template: "[[Question]]"
 ---
-
+>[!tip] The "save full title as alias" button at the bottom of each newly-created Question node edits the filename to shorten it and remove unsafe characters. The full title is preserved as an alias and will surface in searches and autocomplete. Press it once and it disappears
 # Summary
+> [!info]- 
+> This should include everything needed to quickly grok the Question
 
 ## Related QUE/CLM/EVD
+>[!info]- 
+>Here you can log related Claims, Questions, & Evidence as they accumulate. A Base is a good way of organizing these nodes.
 
 ## Testable Hypotheses
+>[!info]- 
+>Alex Trebek voice: "Please restate your Question as a statement you can test"
 
-The loadbearing capacity of a 5 ounce bird can be estimated mathematically
+[[HYP- The loadbearing capacity of a 5 ounce bird can be estimated mathematically]]
 
-The loadbearing capacity of a 5 ounce bird can be determined empirically
+[[HYP- The loadbearing capacity of a 5 ounce bird can be determined empirically]]
 
 # WorkBench
-
+> [!info]- 
+> This area can be used to collate the resources you used to  formulate your Question
 ## Papers
 
 ### Screenshots & Direct Quotes
