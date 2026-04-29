@@ -19,9 +19,7 @@ citekey: analysis - Conduct air speed measurements under laden & unl
 
 # Resources
 
-Protocol:
-Git repo:
-Benchling: 
+
 # Results
 
 ![[Results.base#Results from this Experiment]]

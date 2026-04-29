@@ -125,6 +125,18 @@ See CLAUDE.md for format and conventions.
 
 ---
 
+## 2026-04-29 — Add `/` to NodeSetup filename strip regex
+
+**[[QUE - Can the NodeSetup aliasing button strip `/` from node titles to prevent ENOENT on creation?]]**
+
+**[[CLM - `/` is a filesystem path separator on all platforms; a title containing `/` causes `vault.create()` to fail with ENOENT before NodeSetup ever runs, so the button cannot rescue creation failures.]]**
+**[[CLM - Adding `/` to the strip regex is still correct hygiene: it will sanitize any existing note whose title contains `/` when the user clicks the button, and documents the character as forbidden.]]**
+**[[EVD - ENOENT triggered by `N/kg` in an EVD node title; the substring after `/` was interpreted as a nested directory that did not exist.]]**
+
+**[[RES - Added `/` to the NodeSetup strip regex (`/[/?:*"<>|\\]/g`) in all eight node templates (EXP, ISS, QUE, HYP, RES, CON, EVD, _Discourse Node). `/` joins `? : * " < > | \` as a character users must avoid in node titles at input time; the button handles it for existing notes but cannot prevent a failed creation.]]**
+
+---
+
 ## 2026-04-23 — RES nodes link to SRC via frontmatter
 
 **[[QUE - Should RES nodes reference their supporting SRC (EXP or @ publication) in frontmatter or in the note body?]]**

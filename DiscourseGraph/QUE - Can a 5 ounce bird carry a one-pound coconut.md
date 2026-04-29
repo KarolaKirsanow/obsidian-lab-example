@@ -14,6 +14,8 @@ template: "[[Question]]"
 >[!info]- 
 >Here you can log related Claims, Questions, & Evidence as they accumulate. A Base is a good way of organizing these nodes.
 
+[[CLM - Vertebrate fliers can lift roughly 6× their flight mus]]
+
 ## Testable Hypotheses
 >[!info]- 
 >Alex Trebek voice: "Please restate your Question as a statement you can test"

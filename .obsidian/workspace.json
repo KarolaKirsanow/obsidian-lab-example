@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ff6877ba1245243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "EXP - MD simulations with (GS)25-RBDSCO2 chimera"
-            }
-          },
-          {
-            "id": "7d559888d19f1797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/RES - test result for horizontal dashboard project.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RES - test result for horizontal dashboard project"
-            }
-          },
-          {
-            "id": "8b6a1e2ce164c020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2026-04-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-22"
-            }
-          },
-          {
             "id": "e6449e7e8c03a837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut.md",
+                "file": "DiscourseGraph/EVD - Maximum lift per unit flight muscle mass measured at 5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "QUE - Can a 5 ounce bird carry a one-pound coconut"
+              "title": "EVD - Maximum lift per unit flight muscle mass measured at 5"
             }
           },
           {
@@ -128,12 +56,12 @@
             }
           },
           {
-            "id": "01ed6ac669f9d2e8",
+            "id": "e8ed61f43abbfb96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Templates/Question.md",
+                "file": "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Question"
+              "title": "@biewenerBiomechanicsAvianFlight2022"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -323,48 +251,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e6449e7e8c03a837",
+  "active": "e8ed61f43abbfb96",
   "lastOpenFiles": [
-    "DiscourseGraph/HYP- The loadbearing capacity of a 5 ounce bird can be determined empirically.md",
-    "DiscourseGraph/HYP- The loadbearing capacity of a 5 ounce bird can be estimated mathematically.md",
     "test 002.md",
+    "DiscourseGraph/@mokyr1976industrialization.md",
+    "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
+    "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
+    "Meta/Templates/Source.md",
+    "source/@biewenerBiomechanicsAvianFlight2022.md",
+    "DiscourseGraph/EVD - Maximum lift per unit flight muscle mass measured at 5.md",
+    "Meta/Templates/Source",
+    "DiscourseGraph/image-2.png",
+    "Meta/Templates/Evidence.md",
+    "Meta/Attachments/rstb.366.issue-1570.largecover.jpeg:Zone.Identifier",
+    "Meta/Attachments/rstb.366.issue-1570.largecover.jpeg",
+    "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png:Zone.Identifier",
+    "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
+    "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png:Zone.Identifier",
+    "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
+    "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png:Zone.Identifier",
+    "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png",
+    "Meta/Attachments/1-s2.0-S0960982222010843-gr5.jpg:Zone.Identifier",
+    "Meta/Attachments/1-s2.0-S0960982222010843-gr5.jpg",
+    "Meta/Attachments/1-s2.0-S0960982222010843-gr3_lrg.jpg:Zone.Identifier",
+    "Meta/Attachments/1-s2.0-S0960982222010843-gr3_lrg.jpg",
+    "Meta/Attachments/1-s2.0-S0960982222010843-gr2_lrg.jpg:Zone.Identifier",
+    "Meta/Attachments/1-s2.0-S0960982222010843-gr2_lrg.jpg",
+    "Meta/Attachments/1-s2.0-S0960982222010843-gr1_lrg.jpg:Zone.Identifier",
+    "Meta/Attachments/1-s2.0-S0960982222010843-gr1_lrg.jpg",
+    "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
+    "Meta/Attachments/drmanhattan.jpg",
+    "Meta/Templates/Issue.md",
+    "DiscourseGraph/CLM - Vertebrate fliers can lift roughly 6× their flight mus.md",
+    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut.md",
+    "DiscourseGraph/RES - test result for horizontal dashboard project.md",
+    "Daily Notes/2026-04-22.md",
     "README.md",
     "Meta/Templates/Question.md",
-    "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut.md",
+    "Meta/Attachments/drmanhattan.jpg:Zone.Identifier",
+    "DiscourseGraph/HYP- The loadbearing capacity of a 5 ounce bird can be determined empirically.md",
+    "DiscourseGraph/HYP- The loadbearing capacity of a 5 ounce bird can be estimated mathematically.md",
     "Meta/Templates/Daily_note_template.md",
     "Meta/Templates/Experiment.md",
     "Meta/Templates/Hypothesis.md",
-    "Meta/Templates/Issue.md",
     "Meta/Templates/Meeting.md",
     "Meta/Templates/Meeting Series.md",
     "Meta/Templates/Project.md",
     "Meta/Templates/Personal Home Page.md",
-    "DECISIONS.md.tmp.657.1777446603039",
-    "DECISIONS.md.tmp.657.1777446487621",
     "Meta/Templates/00 Project Log.md",
-    "Meta/Templates/Question.md.tmp.657.1777446280184",
-    "Meta/Templates/Issue.md.tmp.657.1777446272205",
-    "Meta/Templates/Experiment.md.tmp.657.1777446265649",
-    "DECISIONS.md.tmp.657.1777446093941",
-    "Meta/Templates/Daily_note_template.md.tmp.657.1777445945216",
-    "Meta/Templates/Evidence.md",
-    "Meta/Templates/Conclusion.md",
-    "Meta/Templates/Claim.md",
-    "source/@analysis - Conduct air speed measurements under laden & unl.md",
-    "source",
-    "DiscourseGraph/EXP - test experiment.md",
-    "Meta/Templates/00 Experiment Log.md",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
-    "Projects/My awseome new projects.canvas",
-    "DiscourseGraph/CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding.md",
-    "DiscourseGraph/CLM - the barrier helps cells regulate breathing by injecting fun.md",
-    "DiscourseGraph/EXP - protocol with cell line xyz.md",
-    "DiscourseGraph/CLM - Alex is awesome.md",
-    "DiscourseGraph/QUE - How do different coronavirus NTD-RBDs bind to single-stranded RNA (ssRNA)?.md",
-    "DECISIONS.md.tmp.4440.1777395510339",
-    "DECISIONS.md.tmp.4440.1777389736301",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png"
+    "Projects/My awseome new projects.canvas"
   ]
 }

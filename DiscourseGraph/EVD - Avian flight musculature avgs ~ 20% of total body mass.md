@@ -1,16 +1,10 @@
 ---
+nodeTypeId: node_xQmEzWQFHdHy2swhrugrF
 tags:
 cssclasses: dg-evd
-centrality:
+aliases:
+  - EVD - Avian flight musculature averages ~ 20% of total body mass
 ---
-
-# Evidence Summary
-
-
-# Grounding Context
-
-
-
 ```datacorejsx
 return function NodeSetup() {
   const current = dc.useCurrentFile();
@@ -37,3 +31,7 @@ return function NodeSetup() {
   return <button onClick={handleClick}>Save full title as alias</button>;
 }
 ```
+# Evidence Summary
+
+
+# Grounding Context

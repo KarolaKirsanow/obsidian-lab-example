@@ -20,7 +20,7 @@ return function NodeSetup() {
   const handleClick = async () => {
     const full = current.$name;
     const MAX = 60;
-    const slug = full.replace(/[?:*"<>|\\]/g, '').slice(0, MAX).trimEnd();
+    const slug = full.replace(/[/?:*"<>|\\]/g, '').slice(0, MAX).trimEnd();
     const file = app.vault.getAbstractFileByPath(current.$path);
     if (!file) return;
 

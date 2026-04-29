@@ -8,8 +8,8 @@
   "indexRefreshMinutes": 15,
   "autoBootstrapSourcePages": true,
   "autoCreateSourceOnCitationSelect": false,
-  "sourceNotesFolderPath": "source",
-  "sourceTemplatePath": "",
+  "sourceNotesFolderPath": "DiscourseGraph",
+  "sourceTemplatePath": "Meta/Templates/Source.md",
   "enableSidebarAttachments": true,
   "zoteroDataDir": "",
   "showSourceRelatedPapers": true,
@@ -25,6 +25,1084 @@
     "citationIndexCacheByScope": {
       "My Library": {
         "rows": [
+          {
+            "id": "bribiesca-contrerasFunctionalMorphologyForelimb2021",
+            "title": "Functional morphology of the forelimb musculature reflects flight and foraging styles in aquatic birds",
+            "meta": "Bribiesca-Contreras (2021)",
+            "raw": {
+              "key": "U8A32RRN",
+              "version": 960,
+              "itemType": "journalArticle",
+              "title": "Functional morphology of the forelimb musculature reflects flight and foraging styles in aquatic birds",
+              "abstractNote": "Aquatic birds show a great diversity of locomotion styles and wing morphologies, from penguins that are fully specialized for an aquatic life to species of aerial flyers that also use their wings for underwater propulsion (e.g. auks and shearwaters). Moving between the air–water interface exerts conflicting pressures on the body and wing anatomy of diving birds. In this work, we investigated the functional morphology of the forelimb musculature of 18 species of aquatic birds that display a variety of flight and foraging styles. Muscle architecture was related to function, with special emphasis on muscle mass. Dissections of one of the forelimbs of 20 specimens of waterbirds were performed to obtain numerical data of muscle architecture. Total wing muscle mass scaled isometrically to body mass1.0, whereas fascicle length scaled to muscle mass0.284, which is consistent with previous results of scaling in wings of raptors. A principal component analysis (PCA) of normalised muscle masses resulted in a biplot where three main morphological groups can be distinguished. Anatids (ducks and geese) occupy a space represented by muscles that are activated during downstroke. Auks and penguins clustered together in a region dominated by muscles that assist in wing elevation and showed a degree of hypertrophy. The rest of the species grouped together in the lower limits of both PCs where muscles that facilitate wing flexion–extension and stabilisation are loaded. The distribution of mass in the wing muscles of the aquatic birds seemed to be related to flight and foraging style and showed non-significant influence of shared phylogenetic history (Kmult: 0.71, p value: 0.083, 10,000 permutations).",
+              "date": "2021-07-01",
+              "DOI": "10.1007/s10336-021-01868-y",
+              "citationKey": "bribiesca-contrerasFunctionalMorphologyForelimb2021",
+              "url": "https://doi.org/10.1007/s10336-021-01868-y",
+              "accessDate": "2026-04-29T13:06:40Z",
+              "language": "en",
+              "libraryCatalog": "Springer Link",
+              "volume": "162",
+              "pages": "779-793",
+              "publicationTitle": "Journal of Ornithology",
+              "ISSN": "2193-7206",
+              "issue": "3",
+              "journalAbbreviation": "J Ornithol",
+              "creators": [
+                {
+                  "firstName": "Fernanda",
+                  "lastName": "Bribiesca-Contreras",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Ben",
+                  "lastName": "Parslew",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "William I.",
+                  "lastName": "Sellers",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Aquatic birds",
+                  "type": 1
+                },
+                {
+                  "tag": "Diving",
+                  "type": 1
+                },
+                {
+                  "tag": "Muscle architecture",
+                  "type": 1
+                },
+                {
+                  "tag": "Wing",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T13:06:40Z",
+              "dateModified": "2026-04-29T13:06:40Z",
+              "id": "bribiesca-contrerasFunctionalMorphologyForelimb2021",
+              "citation-key": "bribiesca-contrerasFunctionalMorphologyForelimb2021",
+              "itemKey": "U8A32RRN",
+              "zotero": "zotero://select/library/items/U8A32RRN",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2021
+                  ]
+                ]
+              },
+              "year": "2021",
+              "container-title": "Journal of Ornithology",
+              "container-title-short": "J Ornithol",
+              "URL": "https://doi.org/10.1007/s10336-021-01868-y"
+            }
+          },
+          {
+            "id": "biewenerMuscleFunctionAvian2011",
+            "title": "Muscle function in avian flight: achieving power and control",
+            "meta": "Biewener (2011)",
+            "raw": {
+              "key": "BK4ZNKCS",
+              "version": 951,
+              "itemType": "journalArticle",
+              "title": "Muscle function in avian flight: achieving power and control",
+              "abstractNote": "Flapping flight places strenuous requirements on the physiological performance of an animal. Bird flight muscles, particularly at smaller body sizes, generally contract at high frequencies and do substantial work in order to produce the aerodynamic power needed to support the animal's weight in the air and to overcome drag. This is in contrast to terrestrial locomotion, which offers mechanisms for minimizing energy losses associated with body movement combined with elastic energy savings to reduce the skeletal muscles' work requirements. Muscles also produce substantial power during swimming, but this is mainly to overcome body drag rather than to support the animal's weight. Here, I review the function and architecture of key flight muscles related to how these muscles contribute to producing the power required for flapping flight, how the muscles are recruited to control wing motion and how they are used in manoeuvring. An emergent property of the primary flight muscles, consistent with their need to produce considerable work by moving the wings through large excursions during each wing stroke, is that the pectoralis and supracoracoideus muscles shorten over a large fraction of their resting fibre length (33–42%). Both muscles are activated while being lengthened or undergoing nearly isometric force development, enhancing the work they perform during subsequent shortening. Two smaller muscles, the triceps and biceps, operate over a smaller range of contractile strains (12–23%), reflecting their role in controlling wing shape through elbow flexion and extension. Remarkably, pigeons adjust their wing stroke plane mainly via changes in whole-body pitch during take-off and landing, relative to level flight, allowing their wing muscles to operate with little change in activation timing, strain magnitude and pattern.",
+              "date": "2011-05-27",
+              "DOI": "10.1098/rstb.2010.0353",
+              "citationKey": "biewenerMuscleFunctionAvian2011",
+              "url": "https://doi.org/10.1098/rstb.2010.0353",
+              "accessDate": "2026-04-29T10:39:04Z",
+              "shortTitle": "Muscle function in avian flight",
+              "libraryCatalog": "Silverchair",
+              "volume": "366",
+              "pages": "1496-1506",
+              "publicationTitle": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+              "ISSN": "0962-8436",
+              "issue": "1570",
+              "journalAbbreviation": "Philos Trans R Soc Lond B Biol Sci",
+              "creators": [
+                {
+                  "firstName": "Andrew A.",
+                  "lastName": "Biewener",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T10:39:04Z",
+              "dateModified": "2026-04-29T10:39:04Z",
+              "id": "biewenerMuscleFunctionAvian2011",
+              "citation-key": "biewenerMuscleFunctionAvian2011",
+              "itemKey": "BK4ZNKCS",
+              "zotero": "zotero://select/library/items/BK4ZNKCS",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2011
+                  ]
+                ]
+              },
+              "year": "2011",
+              "container-title": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+              "container-title-short": "Philos Trans R Soc Lond B Biol Sci",
+              "URL": "https://doi.org/10.1098/rstb.2010.0353"
+            }
+          },
+          {
+            "id": "biewenerBiomechanicsAvianFlight2022",
+            "title": "Biomechanics of avian flight",
+            "meta": "Biewener (2022)",
+            "raw": {
+              "key": "PE933LRR",
+              "version": 949,
+              "itemType": "journalArticle",
+              "title": "Biomechanics of avian flight",
+              "abstractNote": "Throughout recorded human history, birds have fascinated and inspired humans to dream of flying. The Greek myth of Daedalus and his son Icarus, who flew too close to the sun and fell to his death, first written by Diodorus (60–30 B.C.E.) and later poetically revised by Ovid (8 C.E.), evokes the dangers of hubris. Many indigenous peoples invoke spiritual qualities and protection ascribed to birds that were symbols of freedom and viewed as sacred messengers of the gods. As a student of bird flight, Leonardo da Vinci (1452–1519) was the first to document dynamic soaring by birds. And, subsequently, the flight of birds inspired human engineered pursuit of powered aircraft design, with the Wright Brothers being the first to design and achieve sustained flight at Kitty Hawk, NC, USA in 1903.",
+              "date": "2022-10-24",
+              "DOI": "10.1016/j.cub.2022.06.079",
+              "citationKey": "biewenerBiomechanicsAvianFlight2022",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0960982222010843",
+              "accessDate": "2026-04-29T10:29:59Z",
+              "libraryCatalog": "ScienceDirect",
+              "extra": "Citation Key: biewenerBiomechanicsAvianFlight2022",
+              "volume": "32",
+              "pages": "R1110-R1114",
+              "publicationTitle": "Current Biology",
+              "ISSN": "0960-9822",
+              "issue": "20",
+              "journalAbbreviation": "Current Biology",
+              "creators": [
+                {
+                  "firstName": "Andrew A.",
+                  "lastName": "Biewener",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T10:29:59Z",
+              "dateModified": "2026-04-29T10:29:59Z",
+              "id": "biewenerBiomechanicsAvianFlight2022",
+              "citation-key": "biewenerBiomechanicsAvianFlight2022",
+              "itemKey": "PE933LRR",
+              "zotero": "zotero://select/library/items/PE933LRR",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2022
+                  ]
+                ]
+              },
+              "year": "2022",
+              "container-title": "Current Biology",
+              "container-title-short": "Current Biology",
+              "URL": "https://www.sciencedirect.com/science/article/pii/S0960982222010843"
+            }
+          },
+          {
+            "id": "sheldonPhylogenySwallowsAves2005",
+            "title": "Phylogeny of swallows (Aves: Hirundinidae) estimated from nuclear and mitochondrial DNA sequences",
+            "meta": "Sheldon (2005)",
+            "raw": {
+              "key": "2ZI9H5GP",
+              "version": 941,
+              "itemType": "journalArticle",
+              "title": "Phylogeny of swallows (Aves: Hirundinidae) estimated from nuclear and mitochondrial DNA sequences",
+              "abstractNote": "The phylogeny of swallows was reconstructed by comparing segments of three genes, nuclear β-fibrinogen intron 7 (βfib7), mitochondrial cytochrome b (cytb), and mitochondrial ND2, in a variety of combinations using maximum likelihood and Bayesian methods. βfib7 was sequenced for 47 species, cytb for 74 species, and ND2 for 61 species to yield comparisons among 75 of the 84 currently recognized swallow species. The family Hirundinidae was confirmed to consist of two clades, Pseudochelidoninae (river martins) and Hirundininae (typical swallows). The Hirundininae is further divided into mud nesters (Hirundo sensu lato), core martins (Phedina, Riparia, and New World endemic genera), and basal relicts (Psalidoprocne, Cheramoeca, and Pseudhirundo). We did not resolve the hierarchy among these three hirundinine groups, but discovered many relationships within them. Mud-nesting genera have the following relationships: (Hirundo sensu stricto, Ptyonoprogne), (Delichon, (Petrochelidon, Cecropis)). Core martins have the following topology: (Phedina, Riparia cincta), (Riparia sensu stricto, Tachycineta, ((Stelgidopteryx, Progne), (Neotropical endemic genera))). Interspecific relationships among the Neotropical endemics were resolved completely; Atticora and Notiochelidon are paraphyletic, and all Neotropical endemics probably should be lumped into one or two genera. The final group of hirundinines, the basal relicts, consists of a sister pair, the Australian Cheramoeca and African Pseudhirundo. The African saw-wings (Psalidoprocne) are their likely sister group.",
+              "date": "2005-04-01",
+              "DOI": "10.1016/j.ympev.2004.11.008",
+              "citationKey": "sheldonPhylogenySwallowsAves2005",
+              "url": "https://www.sciencedirect.com/science/article/pii/S1055790304003501",
+              "accessDate": "2026-04-29T08:31:21Z",
+              "shortTitle": "Phylogeny of swallows (Aves",
+              "libraryCatalog": "ScienceDirect",
+              "extra": "Citation Key: sheldonPhylogenySwallowsAves2005",
+              "volume": "35",
+              "pages": "254-270",
+              "publicationTitle": "Molecular Phylogenetics and Evolution",
+              "ISSN": "1055-7903",
+              "issue": "1",
+              "journalAbbreviation": "Molecular Phylogenetics and Evolution",
+              "creators": [
+                {
+                  "firstName": "Frederick H.",
+                  "lastName": "Sheldon",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Linda A.",
+                  "lastName": "Whittingham",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Robert G.",
+                  "lastName": "Moyle",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Beth",
+                  "lastName": "Slikas",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "David W.",
+                  "lastName": "Winkler",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "DNA sequencing",
+                  "type": 1
+                },
+                {
+                  "tag": "Hirundinidae",
+                  "type": 1
+                },
+                {
+                  "tag": "Mitochondrial DNA",
+                  "type": 1
+                },
+                {
+                  "tag": "Nuclear DNA",
+                  "type": 1
+                },
+                {
+                  "tag": "Swallow phylogeny",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:31:21Z",
+              "dateModified": "2026-04-29T08:31:21Z",
+              "id": "sheldonPhylogenySwallowsAves2005",
+              "citation-key": "sheldonPhylogenySwallowsAves2005",
+              "itemKey": "2ZI9H5GP",
+              "zotero": "zotero://select/library/items/2ZI9H5GP",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2005
+                  ]
+                ]
+              },
+              "year": "2005",
+              "container-title": "Molecular Phylogenetics and Evolution",
+              "container-title-short": "Molecular Phylogenetics and Evolution",
+              "URL": "https://www.sciencedirect.com/science/article/pii/S1055790304003501"
+            }
+          },
+          {
+            "id": "dorPhylogenyGenusHirundo2010",
+            "title": "Phylogeny of the genus <i>Hirundo</i> and the Barn Swallow subspecies complex",
+            "meta": "Dor (2010)",
+            "raw": {
+              "key": "RKVNMW9U",
+              "version": 940,
+              "itemType": "journalArticle",
+              "title": "Phylogeny of the genus <i>Hirundo</i> and the Barn Swallow subspecies complex",
+              "abstractNote": "The cosmopolitan Barn Swallow complex (Hirundo rustica and related Hirundo species) provides a model system for studies of mate choice, sexual selection, and related topics in behavioral ecology, but the phylogenetic and phylogeographic relationships within this group are not yet completely resolved. We reconstructed the phylogeny of all 14 species of Hirundo as well as all six Barn Swallow (H. rustica) subspecies using maximum likelihood and Bayesian methods based on sequences of mitochondrial DNA from six protein-coding genes (5217bp) and one nuclear intron (1039bp) for most taxa. We found four well-supported clades within the genus, but low support values for one node decreased our ability to determine the relationships among them. H. rustica is recently derived and has a wide geographic distribution, and its six subspecies form a monophyletic group with respect to other Hirundo species. These subspecies divide into two well-supported clades, geographically corresponding to Asia-America and Europe-Middle East. The former comprises two groups, an East Asian subspecies that is sister to Southeast Asian, American, and Northwest Asian subspecies. In the other clade, European and East-Mediterranean subspecies are intermixed and both show some divergence from the Egyptian subspecies.",
+              "date": "2010-07-01",
+              "DOI": "10.1016/j.ympev.2010.02.008",
+              "citationKey": "dorPhylogenyGenusHirundo2010",
+              "url": "https://www.sciencedirect.com/science/article/pii/S105579031000062X",
+              "accessDate": "2026-04-29T08:31:12Z",
+              "libraryCatalog": "ScienceDirect",
+              "extra": "Citation Key: dorPhylogenyGenusHirundo2010",
+              "volume": "56",
+              "pages": "409-418",
+              "publicationTitle": "Molecular Phylogenetics and Evolution",
+              "ISSN": "1055-7903",
+              "issue": "1",
+              "journalAbbreviation": "Molecular Phylogenetics and Evolution",
+              "creators": [
+                {
+                  "firstName": "Roi",
+                  "lastName": "Dor",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Rebecca J.",
+                  "lastName": "Safran",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Frederick H.",
+                  "lastName": "Sheldon",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "David W.",
+                  "lastName": "Winkler",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Irby J.",
+                  "lastName": "Lovette",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Phylogeny",
+                  "type": 1
+                },
+                {
+                  "tag": "Barn Swallow",
+                  "type": 1
+                },
+                {
+                  "tag": "Phylogeography",
+                  "type": 1
+                },
+                {
+                  "tag": "Subspecies",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:31:12Z",
+              "dateModified": "2026-04-29T08:31:12Z",
+              "id": "dorPhylogenyGenusHirundo2010",
+              "citation-key": "dorPhylogenyGenusHirundo2010",
+              "itemKey": "RKVNMW9U",
+              "zotero": "zotero://select/library/items/RKVNMW9U",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2010
+                  ]
+                ]
+              },
+              "year": "2010",
+              "container-title": "Molecular Phylogenetics and Evolution",
+              "container-title-short": "Molecular Phylogenetics and Evolution",
+              "URL": "https://www.sciencedirect.com/science/article/pii/S105579031000062X"
+            }
+          },
+          {
+            "id": "schieldPhylogenyHistoricalBiogeography2024",
+            "title": "Phylogeny and historical biogeography of the swallow family (Hirundinidae) inferred from comparisons of thousands of UCE loci",
+            "meta": "Schield (2024)",
+            "raw": {
+              "key": "IWIZRT8B",
+              "version": 940,
+              "itemType": "journalArticle",
+              "title": "Phylogeny and historical biogeography of the swallow family (Hirundinidae) inferred from comparisons of thousands of UCE loci",
+              "abstractNote": "Swallows (Hirundinidae) are a globally distributed family of passerine birds that exhibit remarkable similarity in body shape but tremendous variation in plumage, sociality, nesting behavior, and migratory strategies. As a result, swallow species have become models for empirical behavioral ecology and evolutionary studies, and variation across the Hirundinidae presents an excellent opportunity for comparative analyses of trait evolution. Exploiting this potential requires a comprehensive and well-resolved phylogenetic tree of the family. To address this need, we estimated swallow phylogeny using genetic data from thousands of ultraconserved element (UCE) loci sampled from nearly all recognized swallow species. Maximum likelihood, coalescent-based, and Bayesian approaches yielded a well-resolved phylogenetic tree to the generic level, with minor disagreement among inferences at the species level, which likely reflect ongoing population genetic processes. The UCE data were particularly useful in helping to resolve deep nodes, which previously confounded phylogenetic reconstruction efforts. Divergence time estimates from the improved swallow tree support a Miocene origin of the family, roughly 13 million years ago, with subsequent diversification of major groups in the late Miocene and Pliocene. Our estimates of historical biogeography support the hypothesis that swallows originated in the Afrotropics and have subsequently expanded across the globe, with major in situ diversification in Africa and a secondary major radiation following colonization of the Neotropics. Initial examination of nesting and sociality indicates that the origin of mud nesting – a relatively rare nest construction phenotype in birds – was a major innovation coincident with the origin of a clade giving rise to over 40% of extant swallow diversity. In contrast, transitions between social and solitary nesting appear less important for explaining patterns of diversification among swallows.",
+              "date": "2024-08-01",
+              "DOI": "10.1016/j.ympev.2024.108111",
+              "citationKey": "schieldPhylogenyHistoricalBiogeography2024",
+              "url": "https://www.sciencedirect.com/science/article/pii/S1055790324001039",
+              "accessDate": "2026-04-29T08:31:02Z",
+              "libraryCatalog": "ScienceDirect",
+              "extra": "Citation Key: schieldPhylogenyHistoricalBiogeography2024",
+              "volume": "197",
+              "pages": "108111",
+              "publicationTitle": "Molecular Phylogenetics and Evolution",
+              "ISSN": "1055-7903",
+              "journalAbbreviation": "Molecular Phylogenetics and Evolution",
+              "creators": [
+                {
+                  "firstName": "Drew R.",
+                  "lastName": "Schield",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Clare E.",
+                  "lastName": "Brown",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Subir B.",
+                  "lastName": "Shakya",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Gina M.",
+                  "lastName": "Calabrese",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Rebecca J.",
+                  "lastName": "Safran",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Frederick H.",
+                  "lastName": "Sheldon",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Ancestral reconstruction",
+                  "type": 1
+                },
+                {
+                  "tag": "Biogeography",
+                  "type": 1
+                },
+                {
+                  "tag": "Passerines",
+                  "type": 1
+                },
+                {
+                  "tag": "Species tree",
+                  "type": 1
+                },
+                {
+                  "tag": "Trait evolution",
+                  "type": 1
+                },
+                {
+                  "tag": "Ultraconserved elements",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:31:02Z",
+              "dateModified": "2026-04-29T08:31:02Z",
+              "id": "schieldPhylogenyHistoricalBiogeography2024",
+              "citation-key": "schieldPhylogenyHistoricalBiogeography2024",
+              "itemKey": "IWIZRT8B",
+              "zotero": "zotero://select/library/items/IWIZRT8B",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2024
+                  ]
+                ]
+              },
+              "year": "2024",
+              "container-title": "Molecular Phylogenetics and Evolution",
+              "container-title-short": "Molecular Phylogenetics and Evolution",
+              "URL": "https://www.sciencedirect.com/science/article/pii/S1055790324001039"
+            }
+          },
+          {
+            "id": "parkFlightKinematicsBarn2001",
+            "title": "Flight kinematics of the barn swallow (Hirundo rustica) over a wide range of speeds in a wind tunnel",
+            "meta": "Park (2001)",
+            "raw": {
+              "key": "ZQGU3MUD",
+              "version": 940,
+              "itemType": "journalArticle",
+              "title": "Flight kinematics of the barn swallow (Hirundo rustica) over a wide range of speeds in a wind tunnel",
+              "abstractNote": "Two barn swallows (Hirundo rustica) flying in the Lund wind tunnel were filmed using synchronised high-speed cameras to obtain posterior, ventral and lateral views of the birds in horizontal flapping flight. We investigated wingbeat kinematics, body tilt angle, tail spread and angle of attack at speeds of 4–14ms−1. Wingbeat frequency showed a clear U-shaped relationship with air speed with minima at 8.9ms−1(bird 1) and 8.7ms−1 (bird 2). A method previously used by other authors of estimating the body drag coefficient (CD,par) by obtaining agreement between the calculated minimum power (Vmin) and the observed minimum wingbeat frequency does not appear to be valid in this species, possibly due to upstroke pauses that occur at intermediate and high speeds, causing the apparent wingbeat frequency to be lower. These upstroke pauses represent flap-gliding, which is possibly a way of adjusting the force generated to the requirements at medium and high speeds, similar to the flap-bound mode of flight in other species. Body tilt angle, tail spread and angle of attack all increase with decreasing speed, thereby providing an additional lift surface and suggesting an important aerodynamic function for the tail at low speeds in forward flight. Results from this study indicate the high plasticity in the wingbeat kinematics and use of the tail that birds have available to them in order to adjust the lift and power output required for flight.",
+              "date": "2001-08-01",
+              "DOI": "10.1242/jeb.204.15.2741",
+              "citationKey": "parkFlightKinematicsBarn2001",
+              "url": "https://doi.org/10.1242/jeb.204.15.2741",
+              "accessDate": "2026-04-29T08:30:18Z",
+              "libraryCatalog": "Silverchair",
+              "extra": "Citation Key: parkFlightKinematicsBarn2001",
+              "volume": "204",
+              "pages": "2741-2750",
+              "publicationTitle": "Journal of Experimental Biology",
+              "ISSN": "0022-0949",
+              "issue": "15",
+              "journalAbbreviation": "J Exp Biol",
+              "creators": [
+                {
+                  "firstName": "Kirsty J.",
+                  "lastName": "Park",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Mikael",
+                  "lastName": "Rosén",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Anders",
+                  "lastName": "Hedenström",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:30:18Z",
+              "dateModified": "2026-04-29T08:30:18Z",
+              "id": "parkFlightKinematicsBarn2001",
+              "citation-key": "parkFlightKinematicsBarn2001",
+              "itemKey": "ZQGU3MUD",
+              "zotero": "zotero://select/library/items/ZQGU3MUD",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2001
+                  ]
+                ]
+              },
+              "year": "2001",
+              "container-title": "Journal of Experimental Biology",
+              "container-title-short": "J Exp Biol",
+              "URL": "https://doi.org/10.1242/jeb.204.15.2741"
+            }
+          },
+          {
+            "id": "berenbrinkMyoglobinsOldNew2010",
+            "title": "Myoglobin's old and new clothes: from molecular structure to integrated function and evolution",
+            "meta": "Berenbrink (2010)",
+            "raw": {
+              "key": "RLTLXGRG",
+              "version": 940,
+              "itemType": "journalArticle",
+              "title": "Myoglobin's old and new clothes: from molecular structure to integrated function and evolution",
+              "abstractNote": "Myoglobin is a small, 17 kDa, monomeric, O2-binding haemoprotein that typically occurs in cardiac and aerobic skeletal muscle of vertebrates. Its classic function is the short- and long-term buffering of muscle O2 concentrations during bursts of exercise or breath-hold diving and the facilitated diffusion of O2 from blood to mitochondria (Wittenberg and Wittenberg, 2003). Determination of the crystal structure and the amino acid sequence of sperm whale myoglobin are considered landmark discoveries in molecular and structural biology. Today, 50 years since sperm whale myoglobin was the first protein whose structure was revealed at the atomic level in Nobel-Prize-winning work (Kendrew et al., 1960), myoglobin is perhaps the best-understood prote in terms of molecular structure–function relationships.",
+              "date": "2010-08-15",
+              "DOI": "10.1242/jeb.048918",
+              "citationKey": "berenbrinkMyoglobinsOldNew2010",
+              "url": "https://doi.org/10.1242/jeb.048918",
+              "accessDate": "2026-04-29T08:30:08Z",
+              "shortTitle": "Myoglobin's old and new clothes",
+              "libraryCatalog": "Silverchair",
+              "extra": "Citation Key: berenbrinkMyoglobinsOldNew2010",
+              "volume": "213",
+              "pages": "2711-2712",
+              "publicationTitle": "Journal of Experimental Biology",
+              "ISSN": "0022-0949",
+              "issue": "16",
+              "journalAbbreviation": "J Exp Biol",
+              "creators": [
+                {
+                  "firstName": "Michael",
+                  "lastName": "Berenbrink",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:30:08Z",
+              "dateModified": "2026-04-29T08:30:08Z",
+              "id": "berenbrinkMyoglobinsOldNew2010",
+              "citation-key": "berenbrinkMyoglobinsOldNew2010",
+              "itemKey": "RLTLXGRG",
+              "zotero": "zotero://select/library/items/RLTLXGRG",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2010
+                  ]
+                ]
+              },
+              "year": "2010",
+              "container-title": "Journal of Experimental Biology",
+              "container-title-short": "J Exp Biol",
+              "URL": "https://doi.org/10.1242/jeb.048918"
+            }
+          },
+          {
+            "id": "phillipsRecyclingDesert2002",
+            "title": "Recycling in the Desert",
+            "meta": "Phillips (2002)",
+            "raw": {
+              "key": "6FCHXPTN",
+              "version": 940,
+              "itemType": "journalArticle",
+              "title": "Recycling in the Desert",
+              "date": "2002-06-15",
+              "citationKey": "phillipsRecyclingDesert2002",
+              "libraryCatalog": "Silverchair",
+              "extra": "Citation Key: phillipsRecyclingDesert2002",
+              "volume": "205",
+              "pages": "i1201",
+              "publicationTitle": "Journal of Experimental Biology",
+              "ISSN": "0022-0949",
+              "issue": "12",
+              "journalAbbreviation": "J Exp Biol",
+              "creators": [
+                {
+                  "firstName": "Kathryn",
+                  "lastName": "Phillips",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:30:03Z",
+              "dateModified": "2026-04-29T08:30:03Z",
+              "id": "phillipsRecyclingDesert2002",
+              "citation-key": "phillipsRecyclingDesert2002",
+              "itemKey": "6FCHXPTN",
+              "zotero": "zotero://select/library/items/6FCHXPTN",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2002
+                  ]
+                ]
+              },
+              "year": "2002",
+              "container-title": "Journal of Experimental Biology",
+              "container-title-short": "J Exp Biol"
+            }
+          },
+          {
+            "id": "mardenMaximumLiftProduction1987",
+            "title": "Maximum Lift Production During Takeoff in Flying Animals",
+            "meta": "Marden (1987)",
+            "raw": {
+              "key": "42AL3YRF",
+              "version": 940,
+              "itemType": "journalArticle",
+              "title": "Maximum Lift Production During Takeoff in Flying Animals",
+              "abstractNote": "Maximum lift production during takeoff in still air was determined for a wide variety of insects and a small sample of birds and bats, and was compared with variation in morphology, taxonomy and wingbeat type. Maximum lift per unit flight muscle mass was remarkably similar between taxonomic groups (54–63 N kg−1), except for animals using clap-and-fling wingbeats, where muscle mass-specific lift increased by about 25 % (72–86 N kg−1). Muscle mass-specific lift was independent of body mass, wing loading, disk loading and aspect ratio. Birds and bats yielded results indistinguishable from insects using conventional wingbeats. Interspecific differences in short-duration powered flight and takeoff ability are shown to be caused primarily by differences in flight muscle ratio, which ranges from 0·115 to 0·560 among species studied to date. These results contradict theoretical predictions that maximum mass-specific power output and lift production should decrease with increasing body mass and wing disk loading.",
+              "date": "1987-07-01",
+              "DOI": "10.1242/jeb.130.1.235",
+              "citationKey": "mardenMaximumLiftProduction1987",
+              "url": "https://doi.org/10.1242/jeb.130.1.235",
+              "accessDate": "2026-04-29T08:30:00Z",
+              "libraryCatalog": "Silverchair",
+              "extra": "Citation Key: mardenMaximumLiftProduction1987",
+              "volume": "130",
+              "pages": "235-258",
+              "publicationTitle": "Journal of Experimental Biology",
+              "ISSN": "0022-0949",
+              "issue": "1",
+              "journalAbbreviation": "J Exp Biol",
+              "creators": [
+                {
+                  "firstName": "James H.",
+                  "lastName": "Marden",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:30:00Z",
+              "dateModified": "2026-04-29T08:30:00Z",
+              "id": "mardenMaximumLiftProduction1987",
+              "citation-key": "mardenMaximumLiftProduction1987",
+              "itemKey": "42AL3YRF",
+              "zotero": "zotero://select/library/items/42AL3YRF",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    1987
+                  ]
+                ]
+              },
+              "year": "1987",
+              "container-title": "Journal of Experimental Biology",
+              "container-title-short": "J Exp Biol",
+              "URL": "https://doi.org/10.1242/jeb.130.1.235"
+            }
+          },
+          {
+            "id": "kvistCarryingLargeFuel2001",
+            "title": "Carrying large fuel loads during sustained bird flight is cheaper than expected",
+            "meta": "Kvist (2001)",
+            "raw": {
+              "key": "45KXQBLJ",
+              "version": 940,
+              "itemType": "journalArticle",
+              "title": "Carrying large fuel loads during sustained bird flight is cheaper than expected",
+              "abstractNote": "Birds on migration alternate between consuming fuel stores during flights and accumulating fuel stores during stopovers. The optimal timing and length of flights and stopovers for successful migration depend heavily on the extra metabolic power input (fuel use) required to carry the fuel stores during flight1,2. The effect of large fuel loads on metabolic power input has never been empirically determined. We measured the total metabolic power input of a long-distance migrant, the red knot (Calidris canutus), flying for 6 to 10 h in a wind tunnel, using the doubly labelled water technique3. Here we show that total metabolic power input increased with fuel load, but proportionally less than the predicted mechanical power output from the flight muscles. The most likely explanation is that the efficiency with which metabolic power input is converted into mechanical output by the flight muscles increases with fuel load. This will influence current models of bird flight and bird migration. It may also help to explain why some shorebirds, despite the high metabolic power input required to fly, routinely make nonstop flights of 4,000 km longer4.",
+              "date": "2001-10",
+              "DOI": "10.1038/35099556",
+              "citationKey": "kvistCarryingLargeFuel2001",
+              "url": "https://www.nature.com/articles/35099556",
+              "accessDate": "2026-04-29T08:29:49Z",
+              "language": "en",
+              "libraryCatalog": "www.nature.com",
+              "rights": "2001 Macmillan Magazines Ltd.",
+              "extra": "Citation Key: kvistCarryingLargeFuel2001",
+              "volume": "413",
+              "publisher": "Nature Publishing Group",
+              "pages": "730-732",
+              "publicationTitle": "Nature",
+              "ISSN": "1476-4687",
+              "issue": "6857",
+              "creators": [
+                {
+                  "firstName": "Anders",
+                  "lastName": "Kvist",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Åke",
+                  "lastName": "Lindström",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Martin",
+                  "lastName": "Green",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Theunis",
+                  "lastName": "Piersma",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "G. Henk",
+                  "lastName": "Visser",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Humanities and Social Sciences",
+                  "type": 1
+                },
+                {
+                  "tag": "multidisciplinary",
+                  "type": 1
+                },
+                {
+                  "tag": "Science",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:29:49Z",
+              "dateModified": "2026-04-29T08:29:49Z",
+              "id": "kvistCarryingLargeFuel2001",
+              "citation-key": "kvistCarryingLargeFuel2001",
+              "itemKey": "45KXQBLJ",
+              "zotero": "zotero://select/library/items/45KXQBLJ",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2001
+                  ]
+                ]
+              },
+              "year": "2001",
+              "container-title": "Nature",
+              "URL": "https://www.nature.com/articles/35099556"
+            }
+          },
+          {
+            "id": "schmidt-wellenburgEnergyExpenditureWing2007",
+            "title": "Energy expenditure and wing beat frequency in relation to body mass in free flying Barn Swallows (Hirundo rustica)",
+            "meta": "Schmidt-Wellenburg (2007)",
+            "raw": {
+              "key": "IY6D9DWM",
+              "version": 940,
+              "itemType": "journalArticle",
+              "title": "Energy expenditure and wing beat frequency in relation to body mass in free flying Barn Swallows (Hirundo rustica)",
+              "abstractNote": "Many bird species steeply increase their body mass prior to migration. These fuel stores are necessary for long flights and to overcome ecological barriers. The elevated body mass is generally thought to cause higher flight costs. The relationship between mass and costs has been investigated mostly by interspecific comparison and by aerodynamic modelling. Here, we directly measured the energy expenditure of Barn Swallows (Hirundo rustica) flying unrestrained and repeatedly for several hours in a wind tunnel with natural variations in body mass. Energy expenditure during flight (ef, in W) was found to increase with body mass (m, in g) following the equation ef = 0.38 × m0.58. The scaling exponent (0.58) is smaller than assumed in aerodynamic calculations and than observed in most interspecific allometric comparisons. Wing beat frequency (WBF, in Hz) also scales with body mass (WBF = 2.4 × m0.38), but at a smaller exponent. Hence there is no linear relationship between ef and WBF. We propose that spontaneous changes in body mass during endurance flights are accompanied by physiological changes (such as enhanced oxygen and nutrient supply of the muscles) that are not taken into consideration in standard aerodynamic calculations, and also do not appear in interspecific comparison.",
+              "date": "2007-04-01",
+              "DOI": "10.1007/s00360-006-0132-5",
+              "citationKey": "schmidt-wellenburgEnergyExpenditureWing2007",
+              "url": "https://doi.org/10.1007/s00360-006-0132-5",
+              "accessDate": "2026-04-29T08:29:42Z",
+              "language": "en",
+              "libraryCatalog": "Springer Link",
+              "extra": "Citation Key: schmidt-wellenburgEnergyExpenditureWing2007",
+              "volume": "177",
+              "pages": "327-337",
+              "publicationTitle": "Journal of Comparative Physiology B",
+              "ISSN": "1432-136X",
+              "issue": "3",
+              "journalAbbreviation": "J Comp Physiol B",
+              "creators": [
+                {
+                  "firstName": "Carola A.",
+                  "lastName": "Schmidt-Wellenburg",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Herbert",
+                  "lastName": "Biebach",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Serge",
+                  "lastName": "Daan",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "G. Henk",
+                  "lastName": "Visser",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Migration",
+                  "type": 1
+                },
+                {
+                  "tag": "Bird flight",
+                  "type": 1
+                },
+                {
+                  "tag": "Body mass",
+                  "type": 1
+                },
+                {
+                  "tag": "Energy expenditure",
+                  "type": 1
+                },
+                {
+                  "tag": "Wing beat frequency",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:29:42Z",
+              "dateModified": "2026-04-29T08:29:42Z",
+              "id": "schmidt-wellenburgEnergyExpenditureWing2007",
+              "citation-key": "schmidt-wellenburgEnergyExpenditureWing2007",
+              "itemKey": "IY6D9DWM",
+              "zotero": "zotero://select/library/items/IY6D9DWM",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2007
+                  ]
+                ]
+              },
+              "year": "2007",
+              "container-title": "Journal of Comparative Physiology B",
+              "container-title-short": "J Comp Physiol B",
+              "URL": "https://doi.org/10.1007/s00360-006-0132-5"
+            }
+          },
+          {
+            "id": "wangLimitsLoadliftingPerformance2019",
+            "title": "Limits to load-lifting performance in a passerine bird: the effects of intraspecific variation in morphological and kinematic parameters",
+            "meta": "Wang (2019)",
+            "raw": {
+              "key": "THYCHPJ8",
+              "version": 940,
+              "itemType": "journalArticle",
+              "title": "Limits to load-lifting performance in a passerine bird: the effects of intraspecific variation in morphological and kinematic parameters",
+              "abstractNote": "Although more massive flight muscles along with larger wings, higher wingbeat frequencies and greater stroke amplitudes enhance force and power production in flapping flight, the extent to which these parameters may be correlated with other morphological features relevant to flight physiology and biomechanics remains unclear. Intraspecifically, we hypothesized that greater vertical load-lifting capacity would correlate with higher wingbeat frequencies and relatively more massive flight muscles, along with relatively bigger hearts, lungs, and stomachs to enhance metabolic capacity and energy supply, but also with smaller body size given the overall negative allometric dependence of maximum flight performance in volant taxa. To explore intraspecific correlates of flight performance, we assembled a large dataset that included 13 morphological and kinematic variables for a non-migratory passerine, the Eurasian tree sparrow (Passer montanus). We found that heavier flight muscles and larger wings, heavier stomachs and shorter bills were the most important correlates of maximum load-lifting capacity. Surprisingly, wingbeat frequency, wing stroke amplitude and masses of the heart, lungs and digestive organs (except for the stomach) were non-significant predictor variables relative to lifting capacity. The best-fit structural equation model (SEM) indicated that load-lifting capacity was positively correlated with flight muscle mass, wing area and stomach mass, but was negatively correlated with bill length. Characterization of individual variability in flight performance in a free-ranging passerine indicates the subtlety of interaction effects among morphological features, some of which differ from those that have been identified interspecifically for maximum flight performance in birds.",
+              "date": "2019-11-13",
+              "DOI": "10.7717/peerj.8048",
+              "citationKey": "wangLimitsLoadliftingPerformance2019",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6858814/",
+              "accessDate": "2026-04-29T08:29:30Z",
+              "shortTitle": "Limits to load-lifting performance in a passerine bird",
+              "libraryCatalog": "PubMed Central",
+              "extra": "Citation Key: wangLimitsLoadliftingPerformance2019",
+              "volume": "7",
+              "pages": "e8048",
+              "publicationTitle": "PeerJ",
+              "ISSN": "2167-8359",
+              "journalAbbreviation": "PeerJ",
+              "PMID": "31741797",
+              "PMCID": "PMC6858814",
+              "creators": [
+                {
+                  "firstName": "Yang",
+                  "lastName": "Wang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Yuan",
+                  "lastName": "Yin",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Shiyong",
+                  "lastName": "Ge",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Mo",
+                  "lastName": "Li",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Qian",
+                  "lastName": "Zhang",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Juyong",
+                  "lastName": "Li",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Yuefeng",
+                  "lastName": "Wu",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Dongming",
+                  "lastName": "Li",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Robert",
+                  "lastName": "Dudley",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:29:30Z",
+              "dateModified": "2026-04-29T08:29:30Z",
+              "id": "wangLimitsLoadliftingPerformance2019",
+              "citation-key": "wangLimitsLoadliftingPerformance2019",
+              "itemKey": "THYCHPJ8",
+              "zotero": "zotero://select/library/items/THYCHPJ8",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2019
+                  ]
+                ]
+              },
+              "year": "2019",
+              "container-title": "PeerJ",
+              "container-title-short": "PeerJ",
+              "URL": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6858814/"
+            }
+          },
+          {
+            "id": "bishopFlyingFastImproves2024",
+            "title": "Flying fast improves aerodynamic economy of heavier birds",
+            "meta": "Bishop (2024)",
+            "raw": {
+              "key": "F2JLKT79",
+              "version": 940,
+              "itemType": "journalArticle",
+              "title": "Flying fast improves aerodynamic economy of heavier birds",
+              "abstractNote": "A paradox of avian long-distance migrations is that birds must greatly increase their body mass prior to departure, yet this is presumed to substantially increase their energy cost of flight. However, here we show that when homing pigeons flying in a flock are loaded with ventrally located weight, both their heart rate and estimated energy expenditure rise by a remarkably small amount. The net effect is that costs per unit time increase only slightly and per unit mass they decrease. We suggest that this is because these homing flights are relatively fast, and consequently flight costs associated with increases in body parasite drag dominate over those of weight support, leading to an improvement in mass-specific flight economy. We propose that the relatively small absolute aerodynamic penalty for carrying enlarged fuel stores and flight muscles during fast flight has helped to select for the evolution of long-distance migration.",
+              "date": "2024-03-27",
+              "DOI": "10.1038/s41598-024-56325-6",
+              "citationKey": "bishopFlyingFastImproves2024",
+              "url": "https://www.nature.com/articles/s41598-024-56325-6",
+              "accessDate": "2026-04-29T08:29:16Z",
+              "language": "en",
+              "libraryCatalog": "www.nature.com",
+              "rights": "2024 The Author(s)",
+              "extra": "Citation Key: bishopFlyingFastImproves2024",
+              "volume": "14",
+              "publisher": "Nature Publishing Group",
+              "pages": "7298",
+              "publicationTitle": "Scientific Reports",
+              "ISSN": "2045-2322",
+              "issue": "1",
+              "journalAbbreviation": "Sci Rep",
+              "creators": [
+                {
+                  "firstName": "Charles M.",
+                  "lastName": "Bishop",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Lewis G.",
+                  "lastName": "Halsey",
+                  "creatorType": "author"
+                },
+                {
+                  "firstName": "Graham N.",
+                  "lastName": "Askew",
+                  "creatorType": "author"
+                }
+              ],
+              "tags": [
+                {
+                  "tag": "Biomechanics",
+                  "type": 1
+                },
+                {
+                  "tag": "Animal migration",
+                  "type": 1
+                },
+                {
+                  "tag": "Behavioural ecology",
+                  "type": 1
+                },
+                {
+                  "tag": "Ecophysiology",
+                  "type": 1
+                },
+                {
+                  "tag": "Evolutionary ecology",
+                  "type": 1
+                }
+              ],
+              "collections": [
+                "59B624Q7"
+              ],
+              "relations": {},
+              "dateAdded": "2026-04-29T08:29:16Z",
+              "dateModified": "2026-04-29T08:29:16Z",
+              "id": "bishopFlyingFastImproves2024",
+              "citation-key": "bishopFlyingFastImproves2024",
+              "itemKey": "F2JLKT79",
+              "zotero": "zotero://select/library/items/F2JLKT79",
+              "type": "journalArticle",
+              "issued": {
+                "date-parts": [
+                  [
+                    2024
+                  ]
+                ]
+              },
+              "year": "2024",
+              "container-title": "Scientific Reports",
+              "container-title-short": "Sci Rep",
+              "URL": "https://www.nature.com/articles/s41598-024-56325-6"
+            }
+          },
           {
             "id": "azoulaynber",
             "title": "NBER WORKING PAPER SERIES",
@@ -3280,7 +4358,7 @@
             }
           }
         ],
-        "cachedAt": 1777448626367,
+        "cachedAt": 1777473453455,
         "source": "local-api"
       }
     }
