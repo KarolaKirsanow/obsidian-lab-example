@@ -341,3 +341,39 @@ See CLAUDE.md for format and conventions.
 **[[CLM - All Tasks plugin query blocks in the template already filter with `description regex matches /^#/`, so any placeholder whose text does not begin with `#` is invisible to every query (Over Due, On Deck, Due Today, Done Today).]]**
 
 **[[RES - Changed the placeholder from `- [ ] task 📅` to `- [ ] add tasks here — use a #tag prefix to track them 📅`. The text is instructive and, because it does not start with `#`, remains excluded from all task queries.]]**
+
+---
+
+## 2026-04-29 — Candidate tagging for ISS/RES promotion
+
+**[[HYP - Some #iss-candidate and #res-candidate tags will be written in daily logs; queries on Experiment, Issue, and Project pages should collect them from across the graph.]]**
+
+**[[CLM - Datacore `@block` queries are the right tool: they index individual list items/paragraphs across all files, exposing `$tags` (inline tags) and `$links` (wikilinks) per block. Bases cannot do line-level filtering.]]**
+**[[CLM - Scoping the cross-file search by wikilink presence on the same line is the minimal sufficient constraint: a candidate line written outside the experiment's own file must include `[[EXP - name]]` (or project name) on that line, which the query filters on via `b.$links`.]]**
+**[[EVD - The wikilink can ride along on the existing `#🧪ExperimentLog::` line without extra syntax, since the ExperimentLog inline property already contains `[[EXP - name]]` as part of its value.]]**
+**[[CLM - The Project page gets a broader scope: it auto-collects candidates from all files whose `project:` frontmatter names the project (i.e., all linked EXP/ISS notes) without requiring explicit links in each candidate line.]]**
+
+**[[RES - Added `# Candidates` DatacoreJSX section to Experiment.md, Issue.md, and Project.md templates. Convention documented in Meta/Conventions.md: tag any line `#iss-candidate` or `#res-candidate`; when outside the node's own file, include `[[NodeName]]` wikilink on the same line. Display shows ISS/RES badge + cleaned line text + source file link for cross-file hits.]]**
+
+---
+
+## 2026-04-29 — Remove Candidates section from EXP/ISS/PRJ templates
+
+**[[HYP - The Candidates query is not useful without click-through to the source line in context.]]**
+
+**[[CLM - Surfacing decontextualized line text with no way to navigate to the exact location in the source note adds noise rather than value.]]**
+
+**[[RES - Removed `# Candidates` section from Experiment.md, Issue.md, and Project.md templates. Tagging convention (#iss-candidate / #res-candidate) remains documented in Meta/Conventions.md as it is still used by the DG plugin; the query approach is shelved until a click-through mechanism exists.]]**
+
+Supersedes: [[2026-04-29 — Candidate tagging for ISS/RES promotion]]
+
+---
+
+## 2026-04-29 — Issues collated at project level; no auto-fill on creation
+
+**[[QUE - Should Issues be collated at experiment level or project level, and can project: be auto-filled on creation via the node candidate > Issue flow?]]**
+
+**[[CLM - Auto-fill is not possible via the DG node candidate flow; it applies the template without awareness of the current project context.]]**
+**[[CLM - Adding a project-picker DatacoreJSX button would work but adds template complexity; a prompt-based Templater approach would require exact name typing.]]**
+
+**[[RES - Issues are collated at project level only, using the existing Issues in this Project view already embedded in Project.md. No auto-fill mechanism and no additional button added; project: is filled manually. The base view already covers the need.]]**

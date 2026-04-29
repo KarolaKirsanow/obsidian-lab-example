@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
+                "file": "DiscourseGraph/ISS - better weather measurements needed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "@biewenerBiomechanicsAvianFlight2022"
+              "title": "ISS - better weather measurements needed"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#src-candidate",
+                "query": "tag:#iss-candidate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,31 +254,36 @@
   },
   "active": "e8ed61f43abbfb96",
   "lastOpenFiles": [
+    "DECISIONS.md.tmp.18357.1777496350062",
+    "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
+    "DiscourseGraph/ISS - better weather measurements needed.md",
+    "Bases/Issues.base",
+    "Daily Notes/2026-04-28.md",
+    "DECISIONS.md.tmp.20837.1777492548446",
+    "Meta/Templates/Project.md.tmp.20837.1777492535330",
+    "Meta/Templates/Issue.md.tmp.20837.1777492514962",
+    "Meta/Templates/Experiment.md.tmp.20837.1777492505177",
+    "Meta/Templates/Experiment.md",
+    "Meta/Templates/Project.md.tmp.20837.1777491623066",
+    "Meta/Templates/Issue.md.tmp.20837.1777491584347",
+    "Meta/Templates/Experiment.md.tmp.20837.1777491561005",
+    "DiscourseGraph/EVD - Maximum lift per unit flight muscle mass measured at 5.md",
+    "DECISIONS.md.tmp.20837.1777477807947",
+    "Meta/Conventions.md.tmp.20837.1777477786840",
+    "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
+    "Meta/Templates/Source.md",
     "test 002.md",
     "DiscourseGraph/@mokyr1976industrialization.md",
-    "DiscourseGraph/@biewenerBiomechanicsAvianFlight2022.md",
-    "DiscourseGraph/@analysis - Conduct air speed measurements under laden & unl.md",
-    "Meta/Templates/Source.md",
     "source/@biewenerBiomechanicsAvianFlight2022.md",
-    "DiscourseGraph/EVD - Maximum lift per unit flight muscle mass measured at 5.md",
-    "Meta/Templates/Source",
     "DiscourseGraph/image-2.png",
     "Meta/Templates/Evidence.md",
-    "Meta/Attachments/rstb.366.issue-1570.largecover.jpeg:Zone.Identifier",
     "Meta/Attachments/rstb.366.issue-1570.largecover.jpeg",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png:Zone.Identifier",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png:Zone.Identifier",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png:Zone.Identifier",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png",
-    "Meta/Attachments/1-s2.0-S0960982222010843-gr5.jpg:Zone.Identifier",
     "Meta/Attachments/1-s2.0-S0960982222010843-gr5.jpg",
-    "Meta/Attachments/1-s2.0-S0960982222010843-gr3_lrg.jpg:Zone.Identifier",
     "Meta/Attachments/1-s2.0-S0960982222010843-gr3_lrg.jpg",
-    "Meta/Attachments/1-s2.0-S0960982222010843-gr2_lrg.jpg:Zone.Identifier",
     "Meta/Attachments/1-s2.0-S0960982222010843-gr2_lrg.jpg",
-    "Meta/Attachments/1-s2.0-S0960982222010843-gr1_lrg.jpg:Zone.Identifier",
     "Meta/Attachments/1-s2.0-S0960982222010843-gr1_lrg.jpg",
     "DiscourseGraph/EVD - Avian flight musculature avgs ~ 20% of total body mass.md",
     "Meta/Attachments/drmanhattan.jpg",
@@ -288,17 +294,12 @@
     "Daily Notes/2026-04-22.md",
     "README.md",
     "Meta/Templates/Question.md",
-    "Meta/Attachments/drmanhattan.jpg:Zone.Identifier",
     "DiscourseGraph/HYP- The loadbearing capacity of a 5 ounce bird can be determined empirically.md",
     "DiscourseGraph/HYP- The loadbearing capacity of a 5 ounce bird can be estimated mathematically.md",
     "Meta/Templates/Daily_note_template.md",
-    "Meta/Templates/Experiment.md",
     "Meta/Templates/Hypothesis.md",
     "Meta/Templates/Meeting.md",
     "Meta/Templates/Meeting Series.md",
-    "Meta/Templates/Project.md",
-    "Meta/Templates/Personal Home Page.md",
-    "Meta/Templates/00 Project Log.md",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"
   ]

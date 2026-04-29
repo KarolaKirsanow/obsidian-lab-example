@@ -16,3 +16,5 @@ views:
         - template == "[[Issue]]"
     order:
       - file.name
+  - type: table
+    name: View

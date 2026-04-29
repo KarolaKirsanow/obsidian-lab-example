@@ -1,17 +1,25 @@
 ---
-template: "[[Experiment]]"
+nodeTypeId: node_2unblKFUVJkOdOnT8MstZ
+template: "[[Issue]]"
 tags:
-cssclasses: dg-exp
+cssclasses: dg-iss
 status:
 lead:
 contributors:
 targetQuestionOrHyp:
 project:
+Issue Type:
 ---
+### Description 
+### Purpose 
 
-# Resources
+### Hypothesis 
 
+### Resources
 
+**Protocol:**
+**Git repo:**
+**Benchling:** 
 # Results
 
 ![[Results.base#Results from this Experiment]]
@@ -19,10 +27,8 @@ project:
 
 ```tasks
 not done
-(path includes {{query.file.path}}) OR (path includes Daily Notes AND description includes {{query.file.filenameWithoutExtension}})
+(path includes {{query.file.path}}) OR (path includes Daily Notes AND description includes {{query.file.name}})
 ```
-
-
 > [!log] Log
 
 ```datacorejsx
