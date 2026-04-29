@@ -304,3 +304,28 @@ See CLAUDE.md for format and conventions.
 **[[CLM - Less busy templates are better; adding more buttons increases cognitive load on every EXP creation.]]**
 
 **[[RES - No button added. Current flow: type the wikilink directly in targetQuestionOrHyp: frontmatter, ctrl+click to create the blank file, then apply the Question template via Templater. Button remains a candidate if the two-step friction proves significant in practice.]]**
+
+---
+
+## 2026-04-29 — Add log entry button on EXP, ISS, QUE templates
+
+**[[HYP - The static `### YYYY-MM-DD` placeholder in the Log section of EXP, ISS, and QUE templates should be replaced with an interactive button that inserts a dated heading and starter bullet.]]**
+
+**[[CLM - A DatacoreJSX AddLogEntry button (matching the one already on PRJ) inserts `### yyyy-mm-dd` + `- ` above the `---` separator, is idempotent, and makes the expected format self-documenting.]]**
+**[[EVD - PRJ already had this button using `## ${today}`; EXP/ISS/QUE use h3 to match the existing placeholder convention within their callout sections.]]**
+**[[CLM - QUE had no `---` separator (no "From daily notes" section), so one was added before the NodeSetup block to give the button a consistent insertion anchor.]]**
+**[[HYP - Obsidian users prefer human-readable, low-code notes for easy export and cognitive ownership; automation should be opt-in, not default structure.]]**
+**[[CLM - Guidance will be added explaining how to delete the DatacoreJSX button block for users who prefer a clean, manually-maintained log.]]**
+**[[CLM - The example QUE note in the vault will demonstrate a manually-ordered log (no button), showing that the `### yyyy-mm-dd` / bullet format works equally well without the automation.]]**
+
+**[[RES - Replaced the static `### YYYY-MM-DD` placeholder in Experiment.md, Issue.md, and Question.md with a DatacoreJSX AddLogEntry button. QUE received a `---` separator before NodeSetup. HYP, RES, and CON were left unchanged as they have no log sections. Onboarding guidance and the example QUE will communicate that the button is removable for users who prefer plain markdown logs.]]**
+
+---
+
+## 2026-04-29 — Dummy placeholder in daily note task list
+
+**[[HYP - The "New Today" task list needs a placeholder that signals to the user that the space is for a checkoff list, without polluting the task queries.]]**
+
+**[[CLM - All Tasks plugin query blocks in the template already filter with `description regex matches /^#/`, so any placeholder whose text does not begin with `#` is invisible to every query (Over Due, On Deck, Due Today, Done Today).]]**
+
+**[[RES - Changed the placeholder from `- [ ] task 📅` to `- [ ] add tasks here — use a #tag prefix to track them 📅`. The text is instructive and, because it does not start with `#`, remains excluded from all task queries.]]**

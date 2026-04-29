@@ -36,7 +36,7 @@ due on <% tp.date.now("YYYY-MM-DD") %>
 ```
 ----
 #### New Today
-- [ ] task 📅 
+- [ ] add tasks here — use a #tag prefix to track them 📅 
 ----
 ## Daily Log
 💡 [[00 Bullet Journal Log | Bullet Journal]] |  📚 [[00 Media Log | Media Log]] | 🤝  [[00 Meeting Log|Meeting Log]] | 📊  [[00 Project Log|Project Log]] | 🧪 [[00 Experiment Log | Experiment Log]]

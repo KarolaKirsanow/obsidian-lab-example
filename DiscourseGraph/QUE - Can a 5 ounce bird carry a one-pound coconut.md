@@ -16,11 +16,11 @@ The loadbearing capacity of a 5 ounce bird can be estimated mathematically
 
 The loadbearing capacity of a 5 ounce bird can be determined empirically
 
-## Snippets
-
 # WorkBench
 
 ## Papers
+
+### Screenshots & Direct Quotes
 
 ## Notes
 
@@ -28,7 +28,7 @@ The loadbearing capacity of a 5 ounce bird can be determined empirically
 
 ### YYYY-MM-DD
 
-2026-04-28 
+### 2026-04-28 
 
 ```datacorejsx
 return function NodeSetup() {
