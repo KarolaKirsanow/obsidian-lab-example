@@ -164,7 +164,7 @@ So when should you use Bases vs Datacore? The following table can help you devel
 | Modeling Supports/Opposes as reified, queryable relations | Datacore |
 | Reading Evidence bundles nested as sections in one file | Datacore |
 | Anything using inline (`::`) fields from a synced/exported vault | Datacore |
-| Custom widgets mimicking Roam Query Builder's Kanban/Timeline layouts | Datacore |
+| Custom widgets | Datacore |
 
 
 ## What else would you like to do?
