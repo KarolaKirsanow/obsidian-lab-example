@@ -47,24 +47,12 @@
             "id": "30e0b7ed95777569",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "tldraw-dg-preview",
               "state": {
-                "file": "Discourse Graph Sandbox/Guides/Discourse Context.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md"
               },
               "icon": "lucide-file",
-              "title": "Discourse Context"
+              "title": "Canvas - PRJ - Passarine Songbird Cargo Capacity"
             }
           }
         ],
@@ -233,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 436.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +239,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a69ad3d5a19a22d0",
+  "active": "30e0b7ed95777569",
   "lastOpenFiles": [
+    "Meta/Attachments/figdesign02.PNG",
+    "Meta/Attachments/figdesign01.PNG",
+    "attachments/a1a1180e-d1bf-4d62-98a3-1b8d9c339b12-figpanel03-PNG.png",
+    "attachments/d90ae170-d426-4456-96a1-0458392f6d70-figpanel02-PNG.png",
+    "attachments/da638880-7d70-4de8-bfbe-63121ab1eccc-figpanel01-PNG.png",
+    "attachments",
+    "Meta/Attachments/figpanel03.PNG",
+    "Meta/Attachments/figpanel02.PNG",
+    "Meta/Attachments/figpanel01.PNG",
+    "Discourse Graph Sandbox/Guides/Discourse Context.md",
     "DiscourseGraph/RES - The airspeed velocity of an unladen swallow is 11 m-s.md",
     "Meta/Attachments/discourse-context.png",
     "DiscourseGraph/@azoulay2012Matthew.md",
@@ -266,17 +265,9 @@
     "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Meta/Attachments/canvas-export 1.png",
     "Discourse Graph Sandbox/Guides/Using the Canvas.md",
-    "Discourse Graph Sandbox/Guides/Discourse Context.md",
     "Discourse Canvas/Canvas-Bio-PRJ-example.md",
     "Meta/Attachments/key-img-setting.png",
-    "Meta/Attachments/annotate-canvas.png",
     "Discourse Graph Sandbox/Guides/Candidate nodes.md",
-    "Meta/Attachments/existing-relations-canvas.gif",
-    "Meta/Attachments/relation-error.webp",
-    "Meta/Attachments/create-node-canvas.gif",
-    "Meta/Attachments/drag-relation.gif",
-    "Discourse Graph Sandbox/Guides/drag-relation.gif",
-    "Meta/Attachments/create-relation-canvas.gif",
     "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
     "DECISIONS.md.tmp.758.5a1d06aaec0e",
     "Meta/Templates/Project.md",
@@ -296,7 +287,6 @@
     "Bases/Sources.base",
     "Meta/Attachments/backrooms.jpg:Zone.Identifier",
     "Meta/Attachments/adam-grant.jpg:Zone.Identifier",
-    "Meta/Attachments/information_analysis.png:Zone.Identifier",
     "Discourse Canvas/PRJ - Passarine Songbird Cargo Capacity.canvas",
     "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Projects/My awseome new projects.canvas"
