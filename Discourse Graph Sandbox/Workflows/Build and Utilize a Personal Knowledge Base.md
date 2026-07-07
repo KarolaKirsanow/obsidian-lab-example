@@ -133,6 +133,40 @@ You can use the **Bullet Journal** feature of this vault to quickly capture your
 
 ![bullet journal|450](bullet-journal.png)
 
+## Searching & Querying your vault
+
+### Datacore
+
+The discourse graph plugin uses the [Datacore plugin](https://github.com/blacksmithgu/datacore) to power its search & query features. Datacore can read inline fields and text in addition to frontmatter and display them in interactive, live-updating components. The catch is that it requires React/JSX code blocks, a departure from the human-readable " just a text file" ethos that many Obsidian users prefer. 
+
+Used judiciously, Datacore is very powerful for searching and creating logs and task lists, and for automatically routing items to your attention. It can also be used to create custom widgets that execute frequently-used scripts, like those in this vault for automatically creating a named Discourse Canvas or aliasing a node title. 
+
+![alt text](bases+datacore.png)
+_The template depicted here includes one Base and two Datacore features: an aliasing widget and a log widget_
+
+### Bases
+
+Bases are Obsidian's native database layer. They can be used to filter your notes by frontmatter property. They do not require any code to maintain, but they cannot be used to peer into note content: this limitation makes the design of your notes' frontmatter content especially important.
+
+![alt text](source-base01.png)
+_Source Base_
+
+### Choices, choices
+
+So when should you use Bases vs Datacore? The following table can help you develop a sense for the appropriate tool:
+
+| Task | Tool |
+|---|---|
+| Kanban active lab Projects by Status | Bases |
+| Source/Evidence intake triage | Bases |
+| Count EVD per CLM | Bases |
+| simple self-serve dashboards | Bases |
+| Modeling Supports/Opposes as reified, queryable relations | Datacore |
+| Reading Evidence bundles nested as sections in one file | Datacore |
+| Anything using inline (`::`) fields from a synced/exported vault | Datacore |
+| Custom widgets mimicking Roam Query Builder's Kanban/Timeline layouts | Datacore |
+
+
 ## What else would you like to do?
 - [[Synthesize Insights from the Literature]]
 - [[Track your Projects and Experiments]]

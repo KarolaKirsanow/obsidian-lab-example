@@ -50,12 +50,12 @@ tldr-dg: true
 		},
 		"records": [
 			{
+				"x": 0,
+				"y": 0,
+				"lastActivityTimestamp": 0,
+				"meta": {},
 				"id": "pointer:pointer",
-				"typeName": "pointer",
-				"x": 1407.8102272727274,
-				"y": 1842.4322620738635,
-				"lastActivityTimestamp": 1783415463959,
-				"meta": {}
+				"typeName": "pointer"
 			},
 			{
 				"meta": {},
@@ -481,7 +481,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.c7e9b0c4-67ac-4413-9535-c1a438b6292a",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://b62ffbd57aeb0c36c1e7cb8ccbefdb81e03e/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"imageSrc": "app://b334c2fd8047add63e7e14b5afe2e59c79e4/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -580,7 +580,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6",
 					"title": "QUE - African or European?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://b62ffbd57aeb0c36c1e7cb8ccbefdb81e03e/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
+					"imageSrc": "app://b334c2fd8047add63e7e14b5afe2e59c79e4/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -817,7 +817,7 @@ tldr-dg: true
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "sans",
-					"imageSrc": "app://b62ffbd57aeb0c36c1e7cb8ccbefdb81e03e/home/karola/obsidian-lab-example/Meta/Attachments/dor.png?1783414941743"
+					"imageSrc": "app://b334c2fd8047add63e7e14b5afe2e59c79e4/home/karola/obsidian-lab-example/Meta/Attachments/dor.png?1783414941743"
 				}
 			},
 			{
@@ -1113,7 +1113,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.2ebe6715-5be8-4579-a701-86a08089f632",
 					"title": "EVD - Molecular phylogeny places Eur&Afr swallows in the same species",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
-					"imageSrc": "app://b62ffbd57aeb0c36c1e7cb8ccbefdb81e03e/home/karola/obsidian-lab-example/Meta/Attachments/swallow-phylo.jpg?1783414941815",
+					"imageSrc": "app://b334c2fd8047add63e7e14b5afe2e59c79e4/home/karola/obsidian-lab-example/Meta/Attachments/swallow-phylo.jpg?1783414941815",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -1574,9 +1574,7 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:CHBV8Nv3FbhfDgcqReLrN"
-				],
+				"selectedShapeIds": [],
 				"hoveredShapeId": null,
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
@@ -1759,8 +1757,8 @@ tldr-dg: true
 				"screenBounds": {
 					"x": 256,
 					"y": 90.4375,
-					"w": 1652,
-					"h": 917.5625
+					"w": 1219,
+					"h": 921.5625
 				},
 				"insets": [
 					true,
@@ -1777,14 +1775,14 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": false,
+				"isHoveringCanvas": null,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
 				"meta": {},
 				"duplicateProps": null,
 				"id": "instance:instance",
-				"currentPageId": "page:mSD5xKXGQ0_HnKA1tSFeA",
+				"currentPageId": "page:page",
 				"typeName": "instance"
 			},
 			{
@@ -2035,7 +2033,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.6d3d48d1-e5ee-45b7-a12d-0db618ac629d",
 					"title": "RES - The airspeed velocity of an unladen swallow is 11 m-s",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
-					"imageSrc": "app://b62ffbd57aeb0c36c1e7cb8ccbefdb81e03e/home/karola/obsidian-lab-example/Meta/Attachments/Pasted%20image%2020260618175027.png?1783414941705",
+					"imageSrc": "app://b334c2fd8047add63e7e14b5afe2e59c79e4/home/karola/obsidian-lab-example/Meta/Attachments/Pasted%20image%2020260618175027.png?1783414941705",
 					"size": "m",
 					"fontFamily": "mono"
 				}
@@ -2111,9 +2109,9 @@ tldr-dg: true
 				"typeName": "camera"
 			},
 			{
-				"x": 932.9727272727273,
-				"y": 767.9612748579547,
-				"z": 0.3507373455559984,
+				"x": 0,
+				"y": 0,
+				"z": 1,
 				"meta": {},
 				"id": "camera:page:mSD5xKXGQ0_HnKA1tSFeA",
 				"typeName": "camera"

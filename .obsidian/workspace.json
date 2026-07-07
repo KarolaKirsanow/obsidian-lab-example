@@ -47,12 +47,24 @@
             "id": "30e0b7ed95777569",
             "type": "leaf",
             "state": {
-              "type": "tldraw-dg-preview",
+              "type": "markdown",
               "state": {
-                "file": "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md"
+                "file": "Discourse Graph Sandbox/Workflows/Build and Utilize a Personal Knowledge Base.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Canvas - PRJ - Passarine Songbird Cargo Capacity"
+              "title": "Build and Utilize a Personal Knowledge Base"
             }
           }
         ],
@@ -241,6 +253,10 @@
   },
   "active": "30e0b7ed95777569",
   "lastOpenFiles": [
+    "Meta/Templates/Experiment.md",
+    "Meta/Attachments/bases+datacore.PNG",
+    "Meta/Templates/Result.md",
+    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
     "Meta/Attachments/figdesign02.PNG",
     "Meta/Attachments/figdesign01.PNG",
     "attachments/a1a1180e-d1bf-4d62-98a3-1b8d9c339b12-figpanel03-PNG.png",
@@ -262,16 +278,12 @@
     "DiscourseGraph/QUE - Can a 5 ounce bird carry a one-pound coconut?.md",
     "DiscourseGraph/@analysis - measure flight capacity of H rustica under load.md",
     "DiscourseGraph/@analysis - measure airspeed of unladen & laden AFR & EUR swallows.md",
-    "Discourse Canvas/Canvas - PRJ - Passarine Songbird Cargo Capacity.md",
-    "Meta/Attachments/canvas-export 1.png",
     "Discourse Graph Sandbox/Guides/Using the Canvas.md",
     "Discourse Canvas/Canvas-Bio-PRJ-example.md",
-    "Meta/Attachments/key-img-setting.png",
     "Discourse Graph Sandbox/Guides/Candidate nodes.md",
     "Projects/PRJ - Passarine Songbird Cargo Capacity.md",
     "DECISIONS.md.tmp.758.5a1d06aaec0e",
     "Meta/Templates/Project.md",
-    "Meta/Templates/Experiment.md",
     "Meta/Templates/Hypothesis.md",
     "Bases/Questions.base",
     "Projects/PRJ - Horizontal Dashboard test.md",
@@ -279,7 +291,6 @@
     "Discourse Graph Sandbox/Guides/Experiment Tracking.md",
     "Discourse Graph Sandbox/Guides/Creating Relations.md",
     "Discourse Graph Sandbox/Users/Obsidian User.md",
-    "Discourse Graph Sandbox/Users/Blank Slate.md",
     "DECISIONS.md.tmp.10608.afee524897b9",
     "Meta/Templates/Source.md.tmp.1936.cccef5fb6d4f",
     "Meta/Templates/Claim.md.tmp.1936.bed458e50119",
