@@ -7,7 +7,7 @@ tldr-dg: true
 {
 	"meta": {
 		"uuid": "5e457bec-4409-4999-b785-b845233a4e84",
-		"plugin-version": "1.4.4",
+		"plugin-version": "1.5.3",
 		"tldraw-version": "3.14.2"
 	},
 	"raw": {
@@ -50,12 +50,12 @@ tldr-dg: true
 		},
 		"records": [
 			{
+				"x": 0,
+				"y": 0,
+				"lastActivityTimestamp": 0,
+				"meta": {},
 				"id": "pointer:pointer",
-				"typeName": "pointer",
-				"x": 434,
-				"y": 387.71875,
-				"lastActivityTimestamp": 1782377409386,
-				"meta": {}
+				"typeName": "pointer"
 			},
 			{
 				"meta": {},
@@ -170,14 +170,10 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:WAQLYVdyR6VVMz8dwdQEG"
-				],
-				"hoveredShapeId": "shape:fMTV6KlkeU0GATRULPQtd",
+				"selectedShapeIds": [],
+				"hoveredShapeId": null,
 				"erasingShapeIds": [],
-				"hintingShapeIds": [
-					"shape:fMTV6KlkeU0GATRULPQtd"
-				],
+				"hintingShapeIds": [],
 				"focusedGroupId": null,
 				"meta": {},
 				"id": "instance_page_state:page:eOy941z4zehccl_0Efdy6",
@@ -366,6 +362,30 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": -905.844318181818,
+				"y": 593.8275568181816,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:CHBV8Nv3FbhfDgcqReLrN",
+				"type": "image",
+				"props": {
+					"w": 2177.9597496706187,
+					"h": 1253.819498320511,
+					"assetId": "asset:-303913497",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:mSD5xKXGQ0_HnKA1tSFeA",
+				"index": "a233A",
+				"typeName": "shape"
+			},
+			{
 				"x": 945.5,
 				"y": 337.765625,
 				"rotation": 0,
@@ -396,9 +416,9 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 1070.25,
-				"y": 1244.578125,
-				"z": 0.25,
+				"x": 0,
+				"y": 0,
+				"z": 1,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
@@ -461,7 +481,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.c7e9b0c4-67ac-4413-9535-c1a438b6292a",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -560,7 +580,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.3c0bfedf-ec7a-4606-8b36-6716a2fbc1d6",
 					"title": "QUE - African or European?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
+					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/afr-swallow.png?1777544913364",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -727,6 +747,21 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"id": "asset:-303913497",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "figpanel02.PNG",
+					"src": "asset:obsidian.blockref.d90ae170-d426-4456-96a1-0458392f6d70",
+					"w": 839,
+					"h": 483,
+					"fileSize": 47836,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
+			},
+			{
 				"x": 54.5,
 				"y": 124.71875,
 				"rotation": 0,
@@ -737,11 +772,11 @@ tldr-dg: true
 				"type": "discourse-node",
 				"props": {
 					"w": 400,
-					"h": 348,
+					"h": 366,
 					"src": "asset:obsidian.blockref.af0d7154-3712-4eb6-a246-f3b5384a6302",
 					"title": "QUE - Can a 5 ounce bird carry a one-pound coconut?",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
+					"imageSrc": "app://b62ffbd57aeb0c36c1e7cb8ccbefdb81e03e/home/karola/obsidian-lab-example/Meta/Attachments/bird-coconut.png?1777544872379",
 					"size": "m",
 					"fontFamily": "sans"
 				},
@@ -782,7 +817,7 @@ tldr-dg: true
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "sans",
-					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/dor.png?1781706583504"
+					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/dor.png?1783414941743"
 				}
 			},
 			{
@@ -1078,7 +1113,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.2ebe6715-5be8-4579-a701-86a08089f632",
 					"title": "EVD - Molecular phylogeny places Eur&Afr swallows in the same species",
 					"nodeTypeId": "node_xQmEzWQFHdHy2swhrugrF",
-					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/swallow-phylo.jpg?1781706583563",
+					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/swallow-phylo.jpg?1783414941815",
 					"size": "s",
 					"fontFamily": "mono"
 				}
@@ -1149,6 +1184,21 @@ tldr-dg: true
 					"terminal": "start"
 				},
 				"typeName": "binding"
+			},
+			{
+				"id": "asset:-738869137",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "figpanel01.PNG",
+					"src": "asset:obsidian.blockref.da638880-7d70-4de8-bfbe-63121ab1eccc",
+					"w": 834,
+					"h": 486,
+					"fileSize": 65685,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
 			},
 			{
 				"x": 62.5325927734375,
@@ -1441,6 +1491,30 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
+				"x": 1463.0988636363636,
+				"y": -262.8311222270554,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:f0XEqDZOqSzrJgOkDVDiY",
+				"type": "image",
+				"props": {
+					"w": 2274.1778467666354,
+					"h": 1319.349588136146,
+					"assetId": "asset:-935124962",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:mSD5xKXGQ0_HnKA1tSFeA",
+				"index": "a36kz",
+				"typeName": "shape"
+			},
+			{
 				"x": 0,
 				"y": 0,
 				"z": 1,
@@ -1591,6 +1665,30 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": -927.2704545454545,
+				"y": -726.4331854970571,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:NDKwFA6FB7S0NovLxn3it",
+				"type": "image",
+				"props": {
+					"w": 2179.806762065096,
+					"h": 1270.2471059516026,
+					"assetId": "asset:-738869137",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:mSD5xKXGQ0_HnKA1tSFeA",
+				"index": "a1",
+				"typeName": "shape"
+			},
+			{
 				"x": -902.3254822632457,
 				"y": 167.81016540527344,
 				"rotation": 0,
@@ -1645,9 +1743,7 @@ tldr-dg: true
 			{
 				"followingUserId": null,
 				"opacityForNextShape": 1,
-				"stylesForNextShape": {
-					"tldraw:font": "sans"
-				},
+				"stylesForNextShape": {},
 				"brush": null,
 				"scribbles": [],
 				"cursor": {
@@ -1659,10 +1755,10 @@ tldr-dg: true
 				"isDebugMode": false,
 				"isToolLocked": false,
 				"screenBounds": {
-					"x": 56,
-					"y": 90.28125,
-					"w": 1208,
-					"h": 829.71875
+					"x": 256,
+					"y": 90.4375,
+					"w": 898,
+					"h": 921.5625
 				},
 				"insets": [
 					true,
@@ -1679,15 +1775,30 @@ tldr-dg: true
 				"isFocused": true,
 				"devicePixelRatio": 1,
 				"isCoarsePointer": false,
-				"isHoveringCanvas": true,
+				"isHoveringCanvas": null,
 				"openMenus": [],
 				"isChangingStyle": false,
 				"isReadonly": false,
 				"meta": {},
 				"duplicateProps": null,
 				"id": "instance:instance",
-				"currentPageId": "page:eOy941z4zehccl_0Efdy6",
+				"currentPageId": "page:page",
 				"typeName": "instance"
+			},
+			{
+				"id": "asset:-935124962",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "figpanel03.PNG",
+					"src": "asset:obsidian.blockref.a1a1180e-d1bf-4d62-98a3-1b8d9c339b12",
+					"w": 836,
+					"h": 485,
+					"fileSize": 51868,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
 			},
 			{
 				"editingShapeId": null,
@@ -1922,7 +2033,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.6d3d48d1-e5ee-45b7-a12d-0db618ac629d",
 					"title": "RES - The airspeed velocity of an unladen swallow is 11 m-s",
 					"nodeTypeId": "node_i7PzyKw2NfkA8asBfxeey",
-					"imageSrc": "app://83e231732e1cac35e56f8b118fad414bfb64/home/karola/obsidian-lab-example/Meta/Attachments/Pasted%20image%2020260618175027.png?1781854108608",
+					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/Pasted%20image%2020260618175027.png?1783414941705",
 					"size": "m",
 					"fontFamily": "mono"
 				}
@@ -2117,3 +2228,12 @@ tldr-dg: true
 
 [[QUE - Can a 5 ounce bird carry a one-pound coconut?]]
 ^af0d7154-3712-4eb6-a246-f3b5384a6302
+
+[[da638880-7d70-4de8-bfbe-63121ab1eccc-figpanel01-PNG.png]]
+^da638880-7d70-4de8-bfbe-63121ab1eccc
+
+[[d90ae170-d426-4456-96a1-0458392f6d70-figpanel02-PNG.png]]
+^d90ae170-d426-4456-96a1-0458392f6d70
+
+[[a1a1180e-d1bf-4d62-98a3-1b8d9c339b12-figpanel03-PNG.png]]
+^a1a1180e-d1bf-4d62-98a3-1b8d9c339b12

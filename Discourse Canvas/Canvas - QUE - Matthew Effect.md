@@ -7,7 +7,7 @@ tldr-dg: true
 {
 	"meta": {
 		"uuid": "31c6793b-954d-43c5-809f-da6b1ed242f5",
-		"plugin-version": "1.4.4",
+		"plugin-version": "1.5.3",
 		"tldraw-version": "3.14.2"
 	},
 	"raw": {
@@ -1119,7 +1119,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.486a8e00-d335-4564-93b6-0b5afef84265",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1781706583539",
+					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1783414941790",
 					"size": "s",
 					"fontFamily": "mono"
 				},
@@ -1355,8 +1355,8 @@ tldr-dg: true
 				}
 			},
 			{
-				"x": -852.75,
-				"y": -402.8046875,
+				"x": -662.75,
+				"y": -482.8046875,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -1369,7 +1369,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.7e9dc26b-8dc8-4f50-b4c0-bb0ea7c01c8c",
 					"title": "@wangScienceScience2021",
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
-					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/sci-sci.png?1781707395231",
+					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/sci-sci.png?1783414941808",
 					"size": "m",
 					"fontFamily": "mono"
 				},
@@ -1416,7 +1416,7 @@ tldr-dg: true
 					"nodeTypeId": "node_-PIYSmr5icSFMACYAUobE",
 					"size": "m",
 					"fontFamily": "mono",
-					"imageSrc": "app://f42127ac8a6e96342c35c789987d9d45f899/home/karola/obsidian-lab-example/Meta/Attachments/meff.png?1781706583535"
+					"imageSrc": "app://8e3d473e85c9f24af6764fe33c835038d981/home/karola/obsidian-lab-example/Meta/Attachments/meff.png?1783414941787"
 				},
 				"parentId": "page:page",
 				"index": "aC1U8",
@@ -1659,10 +1659,10 @@ tldr-dg: true
 				"isDebugMode": false,
 				"isToolLocked": false,
 				"screenBounds": {
-					"x": 355.5,
-					"y": 89.828125,
-					"w": 771.5,
-					"h": 639.171875
+					"x": 256,
+					"y": 90.4375,
+					"w": 898,
+					"h": 921.5625
 				},
 				"insets": [
 					true,
@@ -1852,7 +1852,7 @@ tldr-dg: true
 					"src": "asset:obsidian.blockref.1d15eca7-b18c-4775-873a-6aac5b086592",
 					"title": "QUE - Is citation count a hopelessly confounded metric",
 					"nodeTypeId": "node_4SqRl5RIkaUMb9fLOpdhq",
-					"imageSrc": "app://bab9cd8cfba7354e75db8c32a5260e30d409/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1779092991923",
+					"imageSrc": "app://a952d6d13cac27fa2161ad203039aee873dd/home/karola/obsidian-lab-example/Meta/Attachments/merton-pdf.png?1783414941790",
 					"size": "m",
 					"fontFamily": "mono"
 				},
