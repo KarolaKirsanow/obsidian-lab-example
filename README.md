@@ -13,9 +13,9 @@ This is an example vault that illustrates potential usage of the [discourse grap
 
 ### Required
 
-- **[BRAT](https://github.com/TfTHacker/obsidian42-brat)**: this is how we load our plugin at the moment
-- **[Datacore](https://github.com/blacksmithgu/datacore)** : this is the query engine that underlies our plugin
 - **[Discourse Graph](https://discoursegraphs.com/docs/obsidian/getting-started)** (required): this is our plugin :)
+- **[Datacore](https://github.com/blacksmithgu/datacore)** : this is the query engine that underlies our plugin
+
 
 ### Recommended
 - [Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) (recommended): makes it easier to create/query/manage todos
