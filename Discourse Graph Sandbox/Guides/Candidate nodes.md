@@ -3,7 +3,7 @@ cssclasses: [sandbox-page]
 ---
 ## A short primer on candidate nodes
 
-The discourse graph protocol accomodates and even encourages the _progressive formalization_ of discourse nodes. **Candidate nodes** are one way we operationalize this idea.
+The discourse graph protocol accommodates and even encourages the _progressive formalization_ of discourse nodes. **Candidate nodes** are one way we operationalize this idea.
 
 ![first make it exist](adam-grant.jpg)
 
